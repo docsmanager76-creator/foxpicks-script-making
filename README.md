@@ -27,6 +27,7 @@ Everything here is meant to be read on a phone.
 
 | ফাইল | কী আছে |
 |---|---|
+| **[MEMORY.md](MEMORY.md)** | 👈 **নতুন চ্যাটে এটা আগে পড়ুন** — কে, কীভাবে কাজ করে, সব context |
 | **[RULES.md](RULES.md)** | সব hard rule — না মানলে স্ক্রিপ্ট কাজ করবে না |
 | **[01-RESEARCH-PROMPT.md](01-RESEARCH-PROMPT.md)** | ধাপ ১ — পিক, villain, loop বের করা |
 | **[02-SCRIPT-PROMPT.md](02-SCRIPT-PROMPT.md)** | ধাপ ২ — পুরো স্ক্রিপ্ট |
