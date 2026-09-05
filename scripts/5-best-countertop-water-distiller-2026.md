@@ -1,6 +1,6 @@
 # 5 Best Countertop Water Distiller 2026
 
-**1,968 words · no prices · Hook type 1 Collision · Villain type D · all five verified on Amazon**
+**1,930 words · no prices · no Amazon star ratings, review counts or badges spoken · Hook type 1 Collision · Villain type D**
 
 ---
 
@@ -21,7 +21,7 @@ This is the entry point, and it is where to start if you have never owned a dist
 
 Here is the part that surprised me. They timed it at three point eight four hours per gallon. That was the fastest full cycle of anything they tested. Hold that number, three point eight four, because a machine two tiers above it in this video takes an hour and a half longer.
 
-Seven hundred and fifty watts, a one point zero five gallon glass carafe, and a three-oh-four stainless interior. On Amazon it is carrying a four point two star average across more than a thousand ratings, and it moves four hundred plus units a month, which for a category this small is a lot of people finding out the same thing.
+Seven hundred and fifty watts, a one point zero five gallon glass carafe, and a three-oh-four stainless interior. There is nothing clever about any of it, and for a first distiller that is exactly the point.
 
 Now, the honest limits, and one is real. The testers found the carafe handle assembly difficult, and wrote that the machine handle is potentially unsafe. That is an appliance full of boiling water, so treat that as a warning rather than a nitpick. There is no long warranty behind it, and there is no timer, so you start it and you come back.
 
@@ -51,7 +51,7 @@ One point six gallons is roughly a week of coffee and a CPAP tank, or a humidifi
 
 What actually changes day to day is the front panel. There is a zero to ninety-nine hour timer and a dual time and temperature display. Every machine on this list takes four to six hours a batch, which means on the others you either start it and wait, or start it and forget. On this one you fill it at night and it starts itself. Two-layer three-oh-four stainless, and the water lands in a glass carafe rather than a plastic jug, which after the first two minutes of this video you already know to look for.
 
-On Amazon it holds a four point three star average across eleven hundred ratings.
+It is also the newest machine on this list, and that cuts both ways: a newer design, and a thinner track record behind it.
 
 Now, the honest limits, and the first one is a sourcing limit, not a fault. No independent reviewer has put this model on a bench. Everything I just told you is the manufacturer's specification plus eleven hundred buyers, and that is a weaker foundation than the machines Bob Vila actually bought. Beyond that: more capacity means a longer cycle and a heavier lift when it is full, and a timer does not descale anything.
 
@@ -61,9 +61,9 @@ Buy this if volume is your bottleneck. Skip it if you want a third party's measu
 
 Before the top two, the promise I made. The CO-Z four-liter distiller.
 
-Bob Vila lists it as their best glass carafe pick, and WaterFilterGuru has it as their budget choice. On Amazon it has forty-five hundred ratings and moves two hundred plus units a month. On paper it is the VEVOR at number five with a nicer pot.
+Bob Vila lists it as their best glass carafe pick, and WaterFilterGuru has it as their budget choice. It is a name you will run into everywhere in this category. On paper it is the VEVOR at number five with a nicer pot.
 
-Then read the fine print on that same entry. Water sometimes bypasses the filter. On a machine whose only job is purification, that is not a quirk. Owners report leaking after roughly fifty gallons, units that quit inside a month, and fan bearings going noisy at three.
+Then read the fine print on that same entry. Water sometimes bypasses the filter. On a machine whose only job is purification, that is not a quirk. Owner reports pile up around the same three things: leaking after the first stretch of use, units that quit early, and a fan that turns loud.
 
 A purifier that sometimes lets water skip the filter is a kettle with extra steps.
 
@@ -75,7 +75,7 @@ Number two, the H2o Labs Model 300SS.
 
 If purity is not the difference, then the only question left is what your water touches on the way out. This is the machine built entirely around that answer, and Bob Vila made it their best overall.
 
-The steam chamber and the condensing coil are one hundred percent grade three-oh-four stainless. Then there is a porcelain nozzle insert, so at the exact moment the water finishes condensing and leaves the machine, it is running over porcelain rather than plastic or bare metal, into a borosilicate glass carafe. That last inch is the part nobody photographs and the part that decides what you actually drink. Five hundred and sixty-five watts, up to four gallons a day, and a full year of activated carbon pods in the box, which makes it the only machine here that does not send you shopping for consumables in month two. On Amazon it carries four and a half stars.
+The steam chamber and the condensing coil are one hundred percent grade three-oh-four stainless. Then there is a porcelain nozzle insert, so at the exact moment the water finishes condensing and leaves the machine, it is running over porcelain rather than plastic or bare metal, into a borosilicate glass carafe. That last inch is the part nobody photographs and the part that decides what you actually drink. Five hundred and sixty-five watts, up to four gallons a day, and a full year of activated carbon pods in the box, which makes it the only machine here that does not send you shopping for consumables in month two.
 
 Now the number I asked you to hold. The entry VEVOR at number five ran three point eight four hours a gallon. This one was timed at five and a half. The best overall pick in that thirty-nine hour test is an hour and a half slower per gallon than the entry machine in this video, and its own listed drawback is exactly that, slower than many other options.
 
@@ -93,7 +93,7 @@ The boil chamber, the upper steam dome and the condensing coils are all full thr
 
 It is also UL approved, which almost nothing in this category is. Underwriters Laboratories tests for electrical and fire safety, and many home insurance policies require UL certification on electrical products in the house. On an appliance that boils unattended overnight while you are asleep, that is not a bullet point.
 
-The evidence behind it is the deepest here. Bob Vila gave it its own spotlight review and wrote that its quality is a grade above the rest. It has been on the market more than twenty-two years. On Amazon it holds four and a half stars across more than three thousand ratings, it is an Amazon's Choice pick, and it moves two hundred plus units a month. CenturyLife, who has run one since 2011, measured five hundred and sixty-five watts and under sixty decibels at twelve inches.
+The evidence behind it is the deepest here. Bob Vila gave it its own spotlight review and wrote that its quality is a grade above the rest. It has been on the market more than twenty-two years, and Megahome states it is the top selling distiller in the world. CenturyLife, who has run one since 2011, measured five hundred and sixty-five watts and under sixty decibels at twelve inches.
 
 The honest limits are real. One gallon takes five and a half hours, slower than the entry pick at number five. The warranty is one year. It requires assembly. And the plastic version sits right beside it in the search results, so read the listing title before you click buy.
 

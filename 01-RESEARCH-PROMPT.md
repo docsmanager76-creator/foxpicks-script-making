@@ -99,3 +99,9 @@ QUICK RESEARCH — {CATEGORY}. No preamble.
 
 No prices except the internal tier word. Mark anything unverifiable UNVERIFIED.
 ```
+
+---
+
+## ⚠️ রেটিং ডেটা internal-only
+
+STEP 2/3-এ যে star rating, review count আর `N+ bought in past month` টানা হয়, সেগুলো **শুধু পিক বাছাই করার জন্য**। Amazon Associates এগুলো PA API ছাড়া প্রকাশ করতে দেয় না — **স্ক্রিপ্টে একটাও যাবে না**। ওয়ার্কিং ডকুমেন্টের `Verified` কলামে রাখুন, ওখানেই শেষ। বিস্তারিত [RULES.md § ১খ](RULES.md)।

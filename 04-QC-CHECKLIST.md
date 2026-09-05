@@ -13,6 +13,21 @@
 - [ ] segment opener-এ দাম বসানো নেই
 - [ ] outro-র লাইনটা আছে: *"prices move fast, so check before you buy"*
 
+## Amazon rating / badge — সবচেয়ে সহজে ফসকায়
+
+```bash
+grep -n -i "star\|ratings\|bought in past month\|Amazon's Choice\|Overall Pick\|reviewers say" script.txt
+```
+
+- [ ] কোনো **star rating** বলা হয়নি ("four point two stars")
+- [ ] কোনো **review count** বলা হয়নি ("forty-five hundred ratings")
+- [ ] **"N+ bought in past month"** বলা হয়নি
+- [ ] **"Amazon's Choice"** / **"Overall Pick"** ব্যাজ বলা হয়নি
+- [ ] Amazon customer review থেকে কিছু উদ্ধৃত হয়নি
+- [ ] owner-report লাইনে কোনো সংখ্যা বা প্ল্যাটফর্মের নাম নেই
+- [ ] rating ডেটা শুধু **ওয়ার্কিং ডকুমেন্টের `Verified` কলামে** আছে, স্ক্রিপ্টে নয়
+- [ ] তৃতীয় পক্ষের রায় (Bob Vila, CR…) দিয়ে জায়গাটা ভরা হয়েছে
+
 ## সোর্সিং
 
 - [ ] কমপক্ষে **৩টা স্বাধীন সোর্স**

@@ -8,11 +8,20 @@
 Now write the full script for "6 Best {CATEGORY} 2026" using only the research above.
 Total 1,900–1,980 words. Follow this structure exactly.
 
-THE RULE THAT OVERRIDES EVERYTHING
-Never state a price, dollar figure, discount or price range. Anywhere.
-Express cheap and expensive only as position: "the most affordable pick on this
-list", "entry-level", "a step up", "three tiers above it", "the flagship".
-Never "under $300". Never "half the price of". Never "great value for the money".
+THE RULES THAT OVERRIDE EVERYTHING
+
+1. Never state a price, dollar figure, discount or price range. Anywhere.
+   Express cheap and expensive only as position: "the most affordable pick on this
+   list", "entry-level", "a step up", "three tiers above it", "the flagship".
+   Never "under $300". Never "half the price of". Never "great value for the money".
+
+2. Never speak an Amazon star rating, review count, "N+ bought in past month",
+   "Amazon's Choice", "Overall Pick", or anything from Amazon customer reviews.
+   Amazon's Participation Requirements forbid displaying OR OTHERWISE USING their
+   customer reviews and star ratings without the Product Advertising API.
+   You may use that data to CHOOSE the picks — never to fill a sentence.
+   Instead use: named third-party verdicts, the manufacturer's own stated claim
+   (attributed as theirs), or an owner-report pattern with no counts and no platform.
 
 --- BLOCK 1: HOOK — 120 to 132 words ---
 Use hook type {1 Collision / 2 Data Wall / 3 Reader's Pain / 4 Controlled
@@ -82,9 +91,10 @@ Banned: "in this video", "let's dive in", "without further ado", "stay tuned",
 
 WHEN DONE, print:
 TOTAL: [n] | HOOK: [n] | VILLAIN: [n] | FREE UPGRADE: [n] |
-PRICES: [must be 0] | PRODUCT NAMES IN HOOK: [must be 0] |
-OUTLET CITED MOST: [name, count — flag if over 6]
-If prices is not 0, or one outlet is behind more than half the claims, fix it before showing me.
+PRICES: [must be 0] | AMAZON RATINGS OR BADGES SPOKEN: [must be 0] |
+PRODUCT NAMES IN HOOK: [must be 0] | OUTLET CITED MOST: [name, count — flag if over 6]
+If prices or Amazon ratings is not 0, or one outlet is behind more than half the
+claims, fix it before showing me anything.
 ```
 
 ---
@@ -107,4 +117,10 @@ Hook-এ ব্র্যান্ডের নাম আছে কিনা:
 
 ```bash
 awk '/^##HOOK/{f=1;next}/^##/{f=0}f' script.txt | grep -o -i 'BRAND1\|BRAND2\|BRAND3'
+```
+
+Amazon rating / badge আছে কিনা (এটা সবচেয়ে সহজে ফসকে যায়):
+
+```bash
+grep -n -i "star\|ratings\|bought in past month\|Amazon's Choice\|Overall Pick\|reviewers say" script.txt
 ```

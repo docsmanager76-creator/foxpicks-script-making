@@ -22,6 +22,39 @@
 
 নিরাপদ বিকল্প যা প্রায়ই দামের চেয়ে বেশি কাজে দেয়: **running cost · warranty length · consumable availability · energy use**।
 
+### ১খ. একই নিয়ম Amazon-এর STAR RATING আর REVIEW COUNT-এর জন্যও
+
+এটা দামের চেয়ে কম পরিচিত, কিন্তু নিয়মটা **আরও স্পষ্ট**। Amazon Associates Participation Requirements-এ হুবহু:
+
+> "You will not **display or otherwise use** any of our **customer reviews or star ratings**, in part or in whole, on your site unless you have obtained a link to that customer review or star rating **through the Product Advertising API** and you comply with the requirements set forth in the License Agreement."
+
+`display or **otherwise use**` — মানে শুধু স্ক্রিনে দেখানো নয়, **ভিডিওতে মুখে বলাও** এর মধ্যে পড়ে।
+
+| ✗ ভিডিওতে যা বলবেন না | কেন |
+|---|---|
+| "four point two stars across a thousand ratings" | star rating + review count |
+| "it has forty-five hundred ratings" | review count |
+| "four hundred plus bought in past month" | Amazon-এর নিজস্ব ডেটা |
+| "it is an Amazon's Choice pick" | Amazon-এর ব্যাজ |
+| "Amazon's Overall Pick" | Amazon-এর ব্যাজ |
+| "Amazon reviewers say…" | customer review content |
+
+**✓ যা করা যাবে:** এই সব ডেটা **পিক বাছাই করতে** ব্যবহার করুন — সেটা internal research, ভিডিওর কনটেন্ট নয়। ওয়ার্কিং ডকুমেন্টের `Verified` কলামে থাকুক, স্ক্রিপ্টে নয়।
+
+**বদলে ভিডিওতে বলুন:**
+- নাম ধরে তৃতীয় পক্ষের রায় — *"Bob Vila named it their best bang for the buck"*
+- নির্মাতার নিজের দাবি, সেটা বলে দিয়ে — *"Megahome states it is the top selling distiller in the world"*
+- owner report-এর প্যাটার্ন, সংখ্যা বা প্ল্যাটফর্ম ছাড়া — *"Owner reports pile up around the same three things"*
+- generic mental model — *"800 buyers finding the same fault is data. 50 buyers is a rumor."* (কোনো নির্দিষ্ট প্রোডাক্টের সংখ্যা নয়)
+
+> ⚠️ আমি একবার এই ভুলটা করেছিলাম — distiller স্ক্রিপ্টে ৬ জায়গায় Amazon rating বসিয়েছিলাম। ধরা পড়ার পর সব সরানো হয়েছে। **প্রতিবার scan করুন।**
+
+আরও: **prices and availability** নিয়েও একই কাঠামো — Amazon বলে ডেটা PA API থেকে আসতে হবে আর **২৪ ঘণ্টার বেশি পুরনো হতে পারবে না**। মুখে বলা দাম কখনো সেটা পূরণ করে না।
+
+> ⚖️ আমি আইনজীবী নই। ক্লজগুলো Amazon-এর নিজের পেজ থেকে নেওয়া, কিন্তু চূড়ান্ত সিদ্ধান্তের আগে
+> [Participation Requirements](https://affiliate-program.amazon.com/help/operating/participation/) আর
+> [Operating Agreement](https://affiliate-program.amazon.com/help/operating/agreement) নিজে একবার পড়ে নেবেন।
+
 Outro-তে এটা নিরাপদ: *"Every link and the current price is in the description, and these prices move fast, so check before you buy."*
 
 > ⚠️ রেফারেন্স হিসেবে পাওয়া কিছু স্ক্রিপ্টে দাম ভর্তি থাকে (১৪–১৮টা dollar figure)। সেগুলো অন্য চ্যানেলের। **আমাদের নিয়ম বদলায়নি।** এই নিয়ে আবার প্রশ্ন করার দরকার নেই।

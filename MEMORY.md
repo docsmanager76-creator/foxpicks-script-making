@@ -47,11 +47,20 @@ dossier দেখাই — approve না হলে এগোই না
 
 ## তিনটা নিয়ম যা কখনো ভাঙবে না
 
-### ১. কোথাও দাম নেই
-script · title · thumbnail · description — কোনোটাতেই না। Amazon Associates-এর ঝুঁকি।
-বদলে position: *"the most affordable pick on this list"* · *"three tiers above it"* · *"the flagship"*।
+### ১. কোথাও দাম নেই — **এবং Amazon-এর star rating / review count-ও নয়**
+
+script · title · thumbnail · description — কোনোটাতেই না।
+
+Amazon Associates Participation Requirements: *"You will not **display or otherwise use** any of our **customer reviews or star ratings**… unless you have obtained a link… **through the Product Advertising API**."* `otherwise use` মানে **ভিডিওতে মুখে বলাও** এর মধ্যে পড়ে।
+
+**ভিডিওতে নয়:** star rating · review count · "N+ bought in past month" · "Amazon's Choice" · "Overall Pick" · Amazon reviewer-দের কথা
+**পিক বাছাইয়ে ব্যবহার করা যাবে** — সেটা internal research। ওয়ার্কিং ডকুমেন্টের `Verified` কলামে থাকুক, স্ক্রিপ্টে নয়।
+
+বদলে: নাম ধরে তৃতীয় পক্ষের রায় · নির্মাতার নিজের দাবি (সেটা বলে দিয়ে) · সংখ্যা-ছাড়া owner report প্যাটার্ন · position শব্দ (*"the most affordable pick on this list"*, *"three tiers above it"*, *"the flagship"*)।
 
 > রেফারেন্স হিসেবে পাওয়া কিছু স্ক্রিপ্টে দাম ভর্তি থাকে। **সেগুলো অন্য চ্যানেলের। আমাদের নিয়ম বদলায়নি। এই নিয়ে আবার প্রশ্ন করবেন না।**
+
+> ⚠️ এই ভুলটা একবার হয়েছে — distiller স্ক্রিপ্টে ৬ জায়গায় Amazon rating ছিল। **প্রতিটা স্ক্রিপ্টে scan করুন।**
 
 ### ২. প্রতিটা Amazon পিক তিনটা শর্ত পাস করবে
 `N+ bought in past month` ব্যাজ · rating **4.0+** · আসল **buy box**
