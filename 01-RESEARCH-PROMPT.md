@@ -20,10 +20,19 @@ For each source also tell me: did they actually buy and test the products, or ar
 they compiling specs? Say so plainly. A spec compiler is not a test.
 
 STEP 2 — MARKET CHECK (must use a browser, not search)
-Open Amazon search for {CATEGORY}. For the top 20 results give me:
-  brand + model, ASIN, star rating, number of ratings,
-  "N+ bought in past month" badge (or NONE),
-  and whether there is a real buy box (flag "No featured offers available").
+2a. FIRST set the delivery address to a US zip, or every US-only product will
+    falsely report "No featured offers available". From an amazon.com page:
+    POST /gp/delivery/ajax/address-change.html with
+    locationType=LOCATION_INPUT&zipCode=10001&storeContext=generic&deviceType=web&pageType=Detail&actionSource=glow
+2b. Do NOT stop at keyword search. Open any product in the category, read its
+    "Best Sellers Rank" link to get the BROWSE NODE (/gp/bestsellers/<dept>/<nodeid>),
+    and list that node's top 50 to 100. Keyword search mixes in ads and miscategorised
+    products; the node is the real sales picture. Filter out anything that is not
+    actually the product class (nodes carry strays).
+2c. For every candidate give me: brand + model, ASIN, star rating, number of ratings,
+    "N+ bought in past month" badge (or NONE), and whether add-to-cart-button exists
+    (check the element, not page text — "Currently unavailable" appears in sidebars).
+    Flag any two ASINs that are variations of one parent; their ratings counts are shared.
 
 STEP 3 — APPLY THE THREE RULES
 Drop any product that fails ANY of these:
@@ -72,6 +81,21 @@ STEP 9 — CROSS-CHECK PASS
   - List every place two sources DISAGREE. Do not resolve them silently —
     disagreement is the most interesting material in the video.
   - List everything you could not verify.
+
+STEP 10 — SPEC CROSS-MATCH (do not skip: this is a separate pass)
+For each surviving pick, open the LISTING YOU WILL LINK and read its own
+#feature-bullets, its specification table and its product description.
+Check every number and every feature claim you plan to speak against that listing.
+Report, as a table: claim | listing says | match or mismatch.
+  - If a review outlet tested a DIFFERENT model in the family, say so, and say it
+    out loud in the script ("the twelve inch version of this shovel").
+  - If three sources give three different figures, drop the figure entirely.
+  - Any number not on the listing must stay attributed ("Outlet X measured…",
+    "the maker claims…"). Never promote it to a listing spec.
+  - Compare like with like: "plus or minus 30 degrees" is a 60 degree total sweep.
+Also harvest what the listing has that the reviews missed — warranty terms,
+IP ratings, what is and is not in the box. That material is usually the best
+ownership fact in the segment.
 
 OUTPUT RULES
 Never invent a quote, rating, test result or URL. Never state a price anywhere

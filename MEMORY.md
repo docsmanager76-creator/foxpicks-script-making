@@ -45,7 +45,7 @@ dossier দেখাই — approve না হলে এগোই না
 
 ---
 
-## তিনটা নিয়ম যা কখনো ভাঙবে না
+## চারটা নিয়ম যা কখনো ভাঙবে না
 
 ### ১. কোথাও দাম নেই — **এবং Amazon-এর star rating / review count-ও নয়**
 
@@ -53,8 +53,10 @@ script · title · thumbnail · description — কোনোটাতেই ন�
 
 Amazon Associates Participation Requirements: *"You will not **display or otherwise use** any of our **customer reviews or star ratings**… unless you have obtained a link… **through the Product Advertising API**."* `otherwise use` মানে **ভিডিওতে মুখে বলাও** এর মধ্যে পড়ে।
 
-**ভিডিওতে নয়:** star rating · review count · "N+ bought in past month" · "Amazon's Choice" · "Overall Pick" · Amazon reviewer-দের কথা
-**পিক বাছাইয়ে ব্যবহার করা যাবে** — সেটা internal research। ওয়ার্কিং ডকুমেন্টের `Verified` কলামে থাকুক, স্ক্রিপ্টে নয়।
+**ভিডিওতে নয়:** star rating · review count · **Best Sellers Rank** · "N+ bought in past month" · "Amazon's Choice" · "Overall Pick" · Amazon reviewer-দের কথা · **তুলনামূলক রেটিং ভাষা** ("the highest rated", "the least reviewed") · stock অবস্থা
+**পিক বাছাইয়ে ব্যবহার করা যাবে** — সেটা internal research। ওয়ার্কিং ডকুমেন্টের `Verified — INTERNAL ONLY` কলামে থাকুক, স্ক্রিপ্টে নয়।
+
+**🎯 ডিফল্ট লক্ষ্য: স্ক্রিপ্টে "Amazon" শব্দটাই ০ বার।** শেষ তিনটা স্ক্রিপ্টে তাই।
 
 বদলে: নাম ধরে তৃতীয় পক্ষের রায় · নির্মাতার নিজের দাবি (সেটা বলে দিয়ে) · সংখ্যা-ছাড়া owner report প্যাটার্ন · position শব্দ (*"the most affordable pick on this list"*, *"three tiers above it"*, *"the flagship"*)।
 
@@ -65,6 +67,11 @@ Amazon Associates Participation Requirements: *"You will not **display or otherw
 ### ২. প্রতিটা Amazon পিক তিনটা শর্ত পাস করবে
 `N+ bought in past month` ব্যাজ · rating **4.0+** · আসল **buy box**
 যাচাই করতে হবে **dossier দেখানোর আগে**, in-app browser দিয়ে।
+
+**দুইটা ধাপ যা বাদ পড়লে ফল ভুল আসে:**
+- **আগে US zip (10001) বসান** — ব্রাউজারের ঠিকানা Bangladesh, তাতে US-only পণ্য মিথ্যা "No featured offers available" দেখায় (একবার ৯টার ৭টা ভুলভাবে ফেল করছিল)
+- **browse node থেকে রিসার্চ করুন, কীওয়ার্ড সার্চ থেকে নয়** — সার্চ বিজ্ঞাপন আর ভুল-ক্যাটাগরি মেশায়
+
 যোগ্য পিক ছয়টা না পেলে **জানান** — জোর করে ভরাট করবেন না।
 
 ### ৩. প্রতিটা কাজে cross-check, না বললেও
@@ -73,7 +80,12 @@ Amazon Associates Participation Requirements: *"You will not **display or otherw
 - সোর্স দ্বিমত হলে **সেটাই খবর** — চাপা দেবেন না
 - যাচাই না হলে **UNVERIFIED**, অনুমান নয়
 - পরস্পরবিরোধী সংখ্যা **বাদ**
-- **নিজের আউটপুট মাপুন** প্রতিবার — word count, price-grep, hook-এ নাম আছে কিনা
+- **নিজের আউটপুট মাপুন** প্রতিবার — word count, price-grep, hook-এ পিকের নাম আছে কিনা
+- **SPEC CROSS-MATCH** — স্ক্রিপ্টের প্রতিটা স্পেক-সংখ্যা **যে লিংক দিচ্ছেন সেই লিস্টিংয়ের** bullet ও spec টেবিলে ফেরত মেলান। রিভিউ আউটলেট প্রায়ই সিবলিং মডেল টেস্ট করে। একবার বাদ দিয়ে ৬টা অমিল বেরিয়েছিল, তার ২টা আসল ভুল।
+
+### ৪. Hook-এ পিকের নাম নেই — কিন্তু আউটলেটের নাম **আছে**
+এটা একবার বেশি শক্ত করে ফেলেছিলাম। রেফারেন্স hook বলে *"Gamers Nexus put one of these six on an Nvidia latency rig and clocked it at 19 ms"* — "একটা ল্যাব" নয়। নাম না থাকলে দর্শক ভাবে সংখ্যাটা আপনার বানানো।
+Hook টাইপ প্রতিবার ঘোরাতে হবে — [03-HOOK-PLAYBOOK.md](03-HOOK-PLAYBOOK.md)-এ **ব্যবহারের খাতা** আছে, নতুন স্ক্রিপ্টের পর লাইন যোগ করুন।
 
 বিস্তারিত: [RULES.md](RULES.md)
 

@@ -16,17 +16,36 @@
 ## Amazon rating / badge — সবচেয়ে সহজে ফসকায়
 
 ```bash
-grep -n -i "star\|ratings\|bought in past month\|Amazon's Choice\|Overall Pick\|reviewers say" script.txt
+grep -n -i -e amazon -e "best seller" -e "highest rated" -e "lowest rated" -e "least reviewed" \
+  -e star -e ratings -e "out of 5" -e "bought in past month" -e "Amazon's Choice" -e "Overall Pick" script.txt
 ```
 
 - [ ] কোনো **star rating** বলা হয়নি ("four point two stars")
 - [ ] কোনো **review count** বলা হয়নি ("forty-five hundred ratings")
 - [ ] **"N+ bought in past month"** বলা হয়নি
 - [ ] **"Amazon's Choice"** / **"Overall Pick"** ব্যাজ বলা হয়নি
+- [ ] **Best Sellers Rank** বলা হয়নি ("the fourth best seller in this category")
+- [ ] **তুলনামূলক রেটিং ভাষা** নেই ("the highest rated", "the lowest rated of my picks", "the least reviewed")
+- [ ] **stock অবস্থা** বলা হয়নি ("in stock", "it keeps selling out")
 - [ ] Amazon customer review থেকে কিছু উদ্ধৃত হয়নি
 - [ ] owner-report লাইনে কোনো সংখ্যা বা প্ল্যাটফর্মের নাম নেই
-- [ ] rating ডেটা শুধু **ওয়ার্কিং ডকুমেন্টের `Verified` কলামে** আছে, স্ক্রিপ্টে নয়
-- [ ] তৃতীয় পক্ষের রায় (Bob Vila, CR…) দিয়ে জায়গাটা ভরা হয়েছে
+- [ ] rating ডেটা শুধু **ওয়ার্কিং ডকুমেন্টের `Verified — INTERNAL ONLY` কলামে** আছে, স্ক্রিপ্টে নয়
+- [ ] তৃতীয় পক্ষের রায় (Bob Vila, Family Handyman…) দিয়ে জায়গাটা ভরা হয়েছে
+- [ ] 🎯 **"Amazon" শব্দটার গণনা = ০** (ডিফল্ট লক্ষ্য)
+
+## SPEC CROSS-MATCH — নতুন, এটাও সহজে বাদ পড়ে
+
+রিভিউ আর্টিকেল থেকে স্পেক নেওয়া যথেষ্ট নয়। **যে লিংক দিচ্ছেন সেই লিস্টিং** খুলে মেলান।
+
+- [ ] প্রতিটা পিকের **feature bullets + spec টেবিল + description** পড়া হয়েছে
+- [ ] স্ক্রিপ্টের প্রতিটা **সংখ্যা** (ইঞ্চি · ফুট · ভোল্ট · পাউন্ড · মিনিট · ডিগ্রি) লিস্টিংয়ে মিলেছে
+- [ ] প্রতিটা **ফিচারের দাবি** লিস্টিংয়ে আছে (নেই এমন কিছু দাবি করা হয়নি)
+- [ ] ফিচারের **ধরন** ঠিক (continuous sweep বনাম preset positions — এক নয়)
+- [ ] দুই পিকের তুলনা **একই এককে** (±৩০° মানে মোট ৬০° — ৬০°-র সাথে তুলনা করলে সেটা সমান, বেশি নয়)
+- [ ] **ওয়ারেন্টি** ওই লিস্টিংয়েরই, সিবলিং মডেলের নয়
+- [ ] রিভিউ আউটলেট **কোন মডেল** টেস্ট করেছে সেটা মিলিয়ে দেখা হয়েছে; আলাদা হলে স্ক্রিপ্টে বলা আছে ("the twelve inch version of this shovel")
+- [ ] তিন সোর্সে তিনরকম সংখ্যা → **স্ক্রিপ্টে বাদ**
+- [ ] লিস্টিংয়ে নেই এমন সংখ্যা **attributed** ("Pro Tool Reviews measured…", "the maker claims…")
 
 ## সোর্সিং
 
@@ -41,17 +60,23 @@ grep -n -i "star\|ratings\|bought in past month\|Amazon's Choice\|Overall Pick\|
 
 ## Amazon
 
+- [ ] 🥇 **যাচাইয়ের আগে US zip (10001) বসানো হয়েছে** — নাহলে buy box মিথ্যা ফেল দেখায়
+- [ ] রিসার্চ **browse node** থেকে হয়েছে, শুধু কীওয়ার্ড সার্চ নয়
+- [ ] নোড থেকে **ভুল-ক্যাটাগরির প্রোডাক্ট** ছেঁকে বাদ দেওয়া হয়েছে
 - [ ] প্রতিটা পিকে `N+ bought in past month` ব্যাজ আছে
 - [ ] প্রতিটা পিকের rating **4.0+**
-- [ ] প্রতিটা পিকের **buy box** আছে (`No featured offers available` = বাদ)
+- [ ] প্রতিটা পিকের **buy box** আছে — `add-to-cart-button` এলিমেন্ট দিয়ে যাচাই, টেক্সট grep দিয়ে নয়
 - [ ] ASIN গুলো আসল, অনুমান করা নয়
-- [ ] কোনো পিক Amazon-এ না থাকলে **স্ক্রিপ্টে সেটা বলা হয়েছে**
-- [ ] Verified কলামে rating · ratings count · past-month লেখা আছে
+- [ ] একই ব্র্যান্ডের **variation family** থেকে একটার বেশি পিক নেওয়া হয়নি (ওদের rating count একই দেখায়)
+- [ ] যোগ্য পিক কম পড়লে **জানানো হয়েছে**, জোর করে ভরাট করা হয়নি
+- [ ] testers-এর সুপারিশ যেগুলো নিয়মে বাদ পড়েছে, সেগুলো **Sourcing notes-এ লেখা আছে**
+- [ ] Verified কলামের নাম **`Verified — INTERNAL ONLY`**
 
 ## গঠন
 
-- [ ] Hook **১২০–১৩২ শব্দ**, **কোনো product name নেই**
-- [ ] Hook টাইপ গতবারেরটা নয় (rotation দেখুন)
+- [ ] Hook **১২০–১৩২ শব্দ**, **আপনার পিকের কোনো নাম নেই**
+- [ ] Hook-এ **টেস্টিং আউটলেটের নাম আছে** — "three testing teams" নয়, "Bob Vila, Family Handyman and Reviewed"
+- [ ] Hook টাইপ গতবারেরটা নয় ([03-HOOK-PLAYBOOK.md](03-HOOK-PLAYBOOK.md)-এর ব্যবহারের খাতা দেখুন, আর নতুন লাইন যোগ করুন)
 - [ ] Villain টাইপ গতবারেরটা নয়
 - [ ] তিনটা promise: countdown · myth · villain
 - [ ] Free Upgrade-এর প্রতিশ্রুতি hook-এ আছে, শেষে শোধ হয়েছে

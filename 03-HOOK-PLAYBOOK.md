@@ -10,6 +10,24 @@
 
 ---
 
+## ⚠️ hook-এ কোন নাম চলে, কোনটা চলে না
+
+এটা একবার ভুল বুঝেছিলাম — "hook-এ কোনো নাম নেই" ধরে নিয়ে hook অস্পষ্ট করে ফেলেছিলাম। চারটা রেফারেন্স hook মেপে আসল নিয়ম:
+
+| | hook-এ? | রেফারেন্স প্রমাণ |
+|---|---|---|
+| **আপনার ছয়টা পিকের ব্র্যান্ড/মডেল** | ❌ কখনো নয় | চারটার একটাতেও নেই |
+| **টেস্টিং আউটলেটের নাম** | ✅ **হ্যাঁ, এবং এটাই hook-কে বিশ্বাসযোগ্য করে** | *"Tom's Hardware and TechRadar… spent hundreds of hours"* · *"Gamers Nexus put one of these six on an Nvidia latency rig and clocked it at 19 ms"* |
+| তুলনার জন্য বাইরের ব্র্যান্ড | ✅ চলে | *"quicker than the Xbox pad most Americans buy by default"* |
+| আউটলেট অস্পষ্ট রাখা | ⚠️ চলে, কিন্তু দুর্বল | *"a major American magazine still calls it the best of 2026"* |
+
+> **"Three testing teams measured it" লিখবেন না। লিখুন "Bob Vila, Family Handyman and Reviewed measured it."**
+> নাম না থাকলে দর্শক ধরে নেয় সংখ্যাটা আপনার বানানো।
+
+পিকের নাম আসে **সেগমেন্ট হেডারে**, hook-এ নয়: `Number six, Ninja AF101.`
+
+---
+
 ## কোন hook বাছবেন
 
 রিসার্চে কী পেয়েছেন তার উপর নির্ভর করে, আগে থেকে ঠিক করে নয়:
@@ -195,4 +213,13 @@ Hook-এ প্রতিশ্রুতি দিন, শেষে শোধ ক
 
 তারপর আবার ১ থেকে। **শেষ কোনটা ব্যবহার করেছেন সেটা ডকুমেন্টের Sourcing notes-এ লিখে রাখুন।**
 
-সর্বশেষ: `5 Best Countertop Water Distiller 2026` → Hook **1 Collision** · Villain **D**
+### ব্যবহারের খাতা — নতুন স্ক্রিপ্টের পর এখানে লাইন যোগ করুন
+
+| ভিডিও | Hook | Villain |
+|---|---|---|
+| 6 Best Cordless Chainsaw 2026 | 2 Data Wall | B unreliable brand |
+| 5 Best Countertop Water Distiller 2026 | 1 Collision | D functional failure |
+| Best Diamond Core Drill 2026 | 5 Absurd Number | (shelf miscategorisation) |
+| **5 Best Cordless Snow Shovel 2026** | **4 Contradiction** | **critics' darling — ২ আউটলেট সুপারিশ করে, ৩য়টা মেপে ভেঙে পড়ে** |
+
+**পরেরটায় Hook 4 বা 5 নয়** — 1 Collision · 3 Reader's Pain · 6 Category Lie থেকে বাছুন।

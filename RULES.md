@@ -38,6 +38,14 @@
 | "it is an Amazon's Choice pick" | Amazon-এর ব্যাজ |
 | "Amazon's Overall Pick" | Amazon-এর ব্যাজ |
 | "Amazon reviewers say…" | customer review content |
+| **"the fourth best seller in this category"** | **Best Sellers Rank-ও Amazon-এর ডেটা** |
+| **"the highest rated machine here"** | **তুলনামূলক রেটিং ভাষা — সংখ্যা লুকানো, ডেটা একই** |
+| **"the lowest rated of my picks" / "the least reviewed"** | **একই কারণ** |
+| "currently in stock" / "it keeps selling out" | stock অবস্থাও Amazon ডেটা |
+
+> ⚠️ **Best Sellers Rank আর তুলনামূলক ভাষা দুটোই একবার ফসকেছে।** core drill স্ক্রিপ্টের hook-এ লিখে ফেলেছিলাম *"the fourth best seller in this exact Amazon category"* — নিয়মটা নিজের লেখা হওয়া সত্ত্বেও। সরাতে গিয়ে আরও ৫টা পাওয়া গেছে।
+
+**🎯 নিরাপদতম ডিফল্ট: স্ক্রিপ্টে "Amazon" শব্দটাই একবারও রাখবেন না।** শেষ দুইটা স্ক্রিপ্টে শব্দটা শূন্যবার আছে — লিংকের কথা বলুন *"All the product links are in the description"* দিয়ে, রিটেইলারের নাম না নিয়ে।
 
 **✓ যা করা যাবে:** এই সব ডেটা **পিক বাছাই করতে** ব্যবহার করুন — সেটা internal research, ভিডিওর কনটেন্ট নয়। ওয়ার্কিং ডকুমেন্টের `Verified` কলামে থাকুক, স্ক্রিপ্টে নয়।
 
@@ -69,17 +77,49 @@ Outro-তে এটা নিরাপদ: *"Every link and the current price is
 2. **Rating 4.0+**
 3. **Buy box আছে** — `No featured offers available` = ফেল, rating আর sales যত ভালোই হোক
 
-**কীভাবে যাচাই:** WebSearch এই ডেটা দেয় না। in-app browser দিয়ে সরাসরি Amazon সার্চ ও প্রোডাক্ট পেজ পড়ুন।
+### ধাপ ০ — সবার আগে US zip বসান
 
+ব্রাউজারের delivery address **Bangladesh**-এ সেট থাকে, আর তাতে US-only প্রোডাক্ট মিথ্যা *"No featured offers available"* দেখায়। snow shovel রিসার্চে **৯টার মধ্যে ৭টা** পিক এভাবে ভুলভাবে ফেল করছিল।
+
+সেশনটা লগ-ইন করা নয় (কারও অ্যাকাউন্ট সেটিং নয়, শুধু কুকি)। amazon.com পেজ থেকে চালান:
+
+```js
+const body = new URLSearchParams({locationType:'LOCATION_INPUT', zipCode:'10001',
+  storeContext:'generic', deviceType:'web', pageType:'Detail', actionSource:'glow'});
+await fetch('/gp/delivery/ajax/address-change.html', {method:'POST',
+  headers:{'content-type':'application/x-www-form-urlencoded;charset=UTF-8'}, body});
 ```
-mcp__Claude_Browser__navigate  →  https://www.amazon.com/s?k={category}
-mcp__Claude_Browser__javascript_tool  →  data-asin থেকে ASIN + rating + badge টানুন
+সফল হলে ফেরত আসে `{"isValidAddress":1,"isAddressUpdated":1,…,"city":"NEW YORK"}`।
+(নতুন `/portal-migration/hz/glow/address-change` endpoint 200 দেয় কিন্তু কাজ করে না। UI ক্লিকও কাজ করেনি।)
+
+### ধাপ ১ — BROWSE NODE, কীওয়ার্ড সার্চ নয়
+
+**কীওয়ার্ড সার্চে থামবেন না।** ওটা Amazon-এর র‍্যাঙ্কিং, বিজ্ঞাপন আর ভুল-ক্যাটাগরির প্রোডাক্ট মিশিয়ে দেয়। **browse node-ই আসল বিক্রির ছবি।**
+
+1. ওই ক্যাটাগরির যেকোনো প্রোডাক্ট পেজ খুলুন
+2. **"Best Sellers Rank"** থেকে ক্যাটাগরি লিংক নিন — `/gp/bestsellers/<dept>/<nodeid>`
+3. নোড পেজে `div[id^="gridItemRoot"]` ধরে rank · ASIN · rating · count টানুন (`?pg=2` দিলে ৫১–১০০)
+
+> ⚠️ **একবার এই ভুলটা হয়েছে:** "best diamond core drill"-এ কীওয়ার্ড সার্চ দেখে সিদ্ধান্ত নিয়েছিলাম মেশিনের মাঠ পাতলা, আর ভুল করে core **bit**-এ সরে গিয়েছিলাম। নোডে ২০টা আসল মেশিন ছিল, সার্চে যেগুলো আসেইনি সেগুলো নোডের টপ-১০-এ।
+
+> নোডে **ভুল-ক্যাটাগরির প্রোডাক্টও** থাকে (Power Core Drills-এর #4 আসলে একটা right-angle attachment; Snow Shovels নোডের বেশিরভাগই ম্যানুয়াল শাভেল)। গুনতির আগে ছেঁকে নিন।
+
+### ধাপ ২ — buy box এলিমেন্ট ধরে দেখুন, টেক্সট খুঁজে নয়
+
+পেজের টেক্সটে `"Currently unavailable"` grep করলে ভুল ফল আসে (সাইডবারের অন্য প্রোডাক্টেও থাকে)। এলিমেন্ট দেখুন:
+
+```js
+cart:  !!d.getElementById('add-to-cart-button')
+price: d.querySelector('#corePrice_feature_div .a-offscreen')?.textContent
 ```
 
-⚠️ ব্রাউজারের delivery address **Bangladesh**-এ সেট। তাই *"cannot be shipped to your selected delivery location"* মানে US-এ unavailable **নয়**। Rating আর past-month সংখ্যা US-wide — ওগুলো নির্ভরযোগ্য।
+### low-volume pro ক্যাটাগরিতে ছাড়
+
+কিছু পেশাদার ক্যাটাগরিতে **কারোরই** past-month ব্যাজ থাকে না (Power Core Drills-এর ২০টার একটাতেও নেই)। সেক্ষেত্রে user-কে জানিয়ে বিকল্প সংকেত নিন: **rating count ৫০+ · buy box · একাধিক মডেলের ব্র্যান্ড**। নিয়মের উদ্দেশ্য (মৃত প্রোডাক্ট এড়ানো) তাতেই পূরণ হয়।
 
 **যোগ্য পিক ছয়টা না পেলে জানান, জোর করে ভরাট করবেন না।**
-উদাহরণ: countertop distiller-এ Amazon-এ যোগ্য আলাদা ব্র্যান্ড মাত্র চারটা (Megahome, H2o Labs, Kitchen Crop, VEVOR + villain হিসেবে CO-Z)। তাই ওই ভিডিও ৫ পিকে নেমেছে।
+- countertop distiller — যোগ্য আলাদা ব্র্যান্ড মাত্র চারটা → ভিডিও ৫ পিকে নেমেছে
+- cordless snow shovel — স্বাধীন টেস্ট **এবং** লাইভ buy box দুটোই আছে এমন মাত্র ৫টা → ৫ পিক। testers-এর Best Overall (Greenworks 80V) rating নিয়মে ফেল করে বাদ, আর Snow Joe / WEN / Toro Amazon-এ কেনাই যায় না। **এই বাদ পড়াগুলো Sourcing notes-এ লিখুন** — পরের বার আবার খুঁজতে হবে না।
 
 ---
 
@@ -91,8 +131,33 @@ mcp__Claude_Browser__javascript_tool  →  data-asin থেকে ASIN + rating 
 3. **প্রতিটা সংখ্যা সোর্সে ফেরত মেলান।**
 4. **যাচাই না হলে UNVERIFIED লিখুন**, অনুমান করে লিখবেন না।
 5. **সোর্স পরস্পরবিরোধী হলে সংখ্যাটা বাদ দিন।** (CO-Z ওয়ারেন্টি: ১৪ দিন vs ১ বছর → স্ক্রিপ্টে যায়নি।)
-6. **নিজের আউটপুট মাপুন** — segment ধরে word count, price-grep, hook-এ product name আছে কিনা। প্রতিবার।
+6. **নিজের আউটপুট মাপুন** — segment ধরে word count, price-grep, hook-এ পিকের নাম আছে কিনা। প্রতিবার।
 7. **ডকুমেন্টে "Sourcing notes" সেকশন দিন** — কী যাচাই হয়নি, কোথায় দ্বিমত, কী ইচ্ছাকৃতভাবে বাদ।
+8. **SPEC CROSS-MATCH** — নিচে দেখুন। এটা আলাদা ধাপ, বাদ দেওয়া যাবে না।
+
+### ৩ক. SPEC CROSS-MATCH — যে লিংক দিচ্ছেন সেই লিস্টিংয়ের সাথে মিলিয়ে দেখুন
+
+রিভিউ আউটলেট থেকে স্পেক নেওয়া **যথেষ্ট নয়**। ওরা প্রায়ই **সিবলিং মডেল** টেস্ট করে, আর তাদের deal-widget স্বয়ংক্রিয় ও ভুল হয়।
+
+**স্ক্রিপ্টে যাওয়া প্রতিটা স্পেক-সংখ্যা লিংক করা লিস্টিংয়ের নিজের bullet আর spec টেবিলে ফেরত মেলান:**
+
+```js
+// ⚠️ ট্যাব amazon.com-এ থাকতে হবে, নাহলে relative fetch অন্য অরিজিনে যাবে
+const bullets = [...d.querySelectorAll('#feature-bullets li')].map(li => li.innerText)
+const spec    = [...d.querySelectorAll('#productOverview_feature_div tr, #productDetails_techSpec_section_1 tr')].map(tr => tr.innerText)
+const desc    = d.getElementById('productDescription')?.innerText
+```
+
+> ⚠️ snow shovel স্ক্রিপ্টে এই ধাপটা বাদ দিয়েছিলাম। user ধরিয়ে দেওয়ার পর মিলিয়ে **৬টা অমিল**, তার **২টা আসল ভুল**:
+> - **উল্টো বুঝেছিলাম** — লিখেছিলাম clutch "মোটর ধীর করে চিবিয়ে পার হয়"; লিস্টিং বলে *"clutch **releases** auger rotation"* — জ্যামে ছেড়ে দেয়, জোর করে না
+> - **আপেল-কমলা তুলনা** — "#1 দেয় ৬০°, #5 দেয় ৩০°"; কিন্তু #5-এর **±৩০ = মোট ৬০**, একই sweep
+> - লিস্টিংয়ে **নেই** এমন ফিচার দাবি · ধরন ভুল (৩টা preset-কে "continuous" বলা) · **অন্য মডেলের** ওয়ারেন্টি ধার · "দুটোর ছোটটা" যেখানে কোম্পানি দুইয়ের বেশি বেচে
+
+**তিন জায়গায় তিনরকম সংখ্যা পেলে সেটা বলবেনই না** — Wild Badger-এর ওজন widget ২৩ lb / spec টেবিল ১৫ lb / মার্কেটিং ~১২ lb → স্ক্রিপ্টে ওজন বাদ।
+
+**লিস্টিং থেকে না-আসা সংখ্যা attributed রাখুন** — "৪৫ ডিগ্রি" ছিল Pro Tool Reviews-এর মাপ, "৪০ মিনিট" ছিল Tom's Guide কোম্পানিকে উদ্ধৃত করে। লিস্টিং spec হিসেবে চালানো যাবে না।
+
+**বোনাস:** মেলালে **ভালো জিনিসও** পাওয়া যায় যা রিভিউতে নেই — carbon fibre shaft-এ **lifetime warranty**, **IPX4** সিলিং, আর কোম্পানির নিজের ভাষায় **"fixed forward"** throw (আমার সমালোচনাটাই তাদের মুখে)।
 
 **কেন:** প্রথম chainsaw স্ক্রিপ্টে প্রায় সবকিছু Pro Tool Reviews থেকে এসেছিল (১৫ বার)। ক্রস-চেক করে দেখা যায় আরেকটা স্বাধীন টেস্টে সেই #1 পিক **৫টার মধ্যে ৪র্থ**। পুরো লাইনআপ বদলাতে হয়েছিল।
 
@@ -100,7 +165,7 @@ mcp__Claude_Browser__javascript_tool  →  data-asin থেকে ASIN + rating 
 
 ## ৪. STRUCTURE
 
-- **Hook-এ কোনো product name নেই।** একটাও না।
+- **Hook-এ আপনার পিকের কোনো নাম নেই** — একটাও না। **কিন্তু টেস্টিং আউটলেটের নাম থাকতে হবে।** রেফারেন্স hook বলে *"Gamers Nexus put one of these six on an Nvidia latency rig and clocked it at 19 ms"*, "একটা ল্যাব" নয়। বিস্তারিত [03-HOOK-PLAYBOOK.md](03-HOOK-PLAYBOOK.md)।
 - **প্রতিটা পিকে ঠিক একটা সৎ দোষ** — "Now, the honest limits."
 - **Villain পায় নিজের ~১২০ শব্দের block**, top three-এর ঠিক আগে। **কখনো আপনার পিকের একটা নয়।**
 - **যারা villain-কে সুপারিশ করে তাদের নাম বলুন** — নাহলে strawman শোনায়।
