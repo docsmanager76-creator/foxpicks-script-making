@@ -33,6 +33,26 @@ grep -n -i -e amazon -e "best seller" -e "highest rated" -e "lowest rated" -e "l
 - [ ] তৃতীয় পক্ষের রায় (Bob Vila, Family Handyman…) দিয়ে জায়গাটা ভরা হয়েছে
 - [ ] 🎯 **"Amazon" শব্দটার গণনা = ০** (ডিফল্ট লক্ষ্য)
 
+## প্রোডাক্টের নাম — ব্র্যান্ড + মডেল (সংখ্যায়) + মাপ + টাইপ
+
+user নিজে ঠিক করে দিয়েছে আর বলেছে সব ভিডিওতে এভাবেই হবে।
+
+| ✗ | ✓ |
+|---|---|
+| the Cobra forty thousand thirty | **the Cobra 3/8-inch by 3-foot Home Toilet Auger** |
+| the Klein Tools fifty three thousand eighteen | **the Klein Tools 53018 6-Foot Steel Toilet Auger** |
+| the RIDGID K six D H | **the Ridgid 59802 K-6DH Hybrid Toilet Snake Auger** |
+| the six foot, half inch cable auger | **the Ridgid 6-feet Closet Auger** |
+
+- [ ] মডেল নম্বর **সংখ্যায়** (`53018`, `K-6DH`, `59787`) — বানান করে নয়
+- [ ] **পুরো প্রোডাক্ট টাইপ** নামের ভেতরে ("Toilet Auger", "Closet Auger")
+- [ ] **মূল মাপ** নামের ভেতরে ("3-foot", "6-Foot Steel")
+- [ ] ব্র্যান্ড স্বাভাবিক বানানে — `Ridgid`, `RIDGID` নয়
+- [ ] **সেগমেন্ট ওপেনার আর সোর্স টেবিল দুটোতেই একই নাম**
+- [ ] RECAP-এ ছোট রূপ চলে, কিন্তু **সংখ্যায়ই** (`the Ridgid K-3`)
+- [ ] ⚠️ **টাইটেলে ব্র্যান্ড না থাকলেই ব্র্যান্ডহীন নয়** — `#bylineInfo` আর spec টেবিলের `Manufacturer` দেখুন
+      (B07DNJY4TW-র টাইটেলে ব্র্যান্ড নেই, কিন্তু byline বলে `Visit the RIDGID Store`)
+
 ## SPEC CROSS-MATCH — নতুন, এটাও সহজে বাদ পড়ে
 
 রিভিউ আর্টিকেল থেকে স্পেক নেওয়া যথেষ্ট নয়। **যে লিংক দিচ্ছেন সেই লিস্টিং** খুলে মেলান।
