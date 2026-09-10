@@ -220,6 +220,10 @@ Hook-এ প্রতিশ্রুতি দিন, শেষে শোধ ক
 | 6 Best Cordless Chainsaw 2026 | 2 Data Wall | B unreliable brand |
 | 5 Best Countertop Water Distiller 2026 | 1 Collision | D functional failure |
 | Best Diamond Core Drill 2026 | 5 Absurd Number | (shelf miscategorisation) |
-| **5 Best Cordless Snow Shovel 2026** | **4 Contradiction** | **critics' darling — ২ আউটলেট সুপারিশ করে, ৩য়টা মেপে ভেঙে পড়ে** |
+| 5 Best Cordless Snow Shovel 2026 | 4 Contradiction | critics' darling — ২ আউটলেট সুপারিশ করে, ৩য়টা মেপে ভেঙে পড়ে |
+| 6 Best Borescope Inspection Cameras 2026 | 6 Category Lie | overpriced premium — flagship, কিন্তু একটাও টেস্ট জেতেনি |
+| 6 Best Budget Lawn Dethatchers 2026 | 3 Reader's Pain | spec-sheet leader যেটা এক পাসও শেষ করতে পারেনি |
+| **Best Garage Dehumidifiers (Rust-Free Tool Storage)** | **1 Collision** | **যে ইউনিট একমাত্র জরুরি স্পেকটাই প্রকাশ করে না** |
 
-**পরেরটায় Hook 4 বা 5 নয়** — 1 Collision · 3 Reader's Pain · 6 Category Lie থেকে বাছুন।
+**ছয়টা টাইপই একবার করে ব্যবহার হয়ে গেছে — rotation নতুন করে শুরু।**
+পরেরটায় **Hook 1 নয়**; 2 Data Wall · 4 Contradiction · 5 Absurd Number থেকে বাছুন।
