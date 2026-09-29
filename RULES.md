@@ -188,7 +188,10 @@ Second person, present tense, spoken English. ছোট declarative বাক্
 
 ## ৬. DELIVERY
 
-- কাজ দিন **সাধারণ ফাইল হিসেবে** `C:\Users\DFIT\Downloads`-এ — `.txt` (Notepad) বা `.docx` (Word)। Artifact নয়।
+- কাজ দিন **সাধারণ ফাইল হিসেবে** `C:\Users\DFIT\Downloads`-এ। Artifact নয়।
+- **⚠️ ২০২৬-০৯-১৪: স্ক্রিপ্টের ফাইনাল আউটপুট সবসময় `.docx`** — user বলেছে "word e baniye diben output"। `.txt` শুধু **ওয়ার্কিং ফাইল**, কারণ `tools-pace.js` আর grep ওটার উপরে চলে; QC পাস হলে `.docx` বানিয়ে সেটাই পাঠান।
+- বানানোর সময়: `docx` npm module এই মেশিনে **গ্লোবাল**, তাই `NODE_PATH="C:/Users/DFIT/AppData/Roaming/npm/node_modules" node build.js`। Page = US Letter `{width:12240,height:15840}`; টেবিলে `columnWidths` + প্রতি cell-এ `width`, দুটোই DXA; shading `ShadingType.CLEAR`। LibreOffice/pandoc ইনস্টল করা নেই, তাই PDF রেন্ডার করে দেখা যায় না — `.docx` unzip করে `word/document.xml`-এ প্যারা/টেবিল/লিংক গুনে যাচাই করুন।
 - Word ফাইলের **উপরে সোর্স টেবিল**: `Sl | Name | Verified | Source link` — Verified কলামে `rating ⭐ (count) · N+/mo`।
+- **⚠️ ২০২৬-০৯-১৬: VILLAIN-এরও লিংক দিতে হবে।** টেবিলে একটা `V` সারি যোগ করুন, নিচে লিখুন এটা villain — ভিডিওতে নাম বলা হয়েছে, পিক নয়, তিনটা নিয়মে যাচাই করা হয়নি। **ফাঁদ:** আউটলেট প্রায়ই villain-এর অন্য মডেল রিভিউ করে (ToolGuyd = Workmate **WM125**, যেটা বিক্রিই হয় না; লাইভ মডেল **WM225-A**, আর WM425-এ buy box নেই)। মিল না থাকলে স্ক্রিপ্টে মডেল নম্বর **মুখে বলুন**।
 - তার নিচে **Additional sources** টেবিল, তারপর **Sourcing notes**, তারপর স্ক্রিপ্ট।
 - স্ক্রিপ্টের প্রতিটা block-এ হেডিং + word count।

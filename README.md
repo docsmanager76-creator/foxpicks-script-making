@@ -19,7 +19,43 @@ Everything here is meant to be read on a phone.
 ৫. 02-SCRIPT-PROMPT.md  →  ~১,৯৫০ শব্দের স্ক্রিপ্ট
         ↓
 ৬. 04-QC-CHECKLIST.md  →  রেকর্ডের আগে
+        ↓
+৭. `.docx` বানিয়ে পাঠান  (RULES.md § 6)
 ```
+
+> **শুধু একটা টপিক পাঠালেই পুরো ধারাটা চলবে।** "কী করব?" জিজ্ঞেস করার দরকার নেই —
+> রিসার্চ → চ্যাটে dossier → **approve-এর জন্য থামা** → স্ক্রিপ্ট → QC → Word ফাইল।
+
+---
+
+## ⭐ PROFESSIONAL REVIEW-এর মতো কাজ — SPEC MATRIX (২০২৬-০৯-১৬)
+
+শুধু Amazon ডেটা নয়। Wirecutter, America's Test Kitchen, TechGearLab, Bob Vila, Pro Tool Reviews-এর মতো professional সাইট যেভাবে প্রোডাক্ট বাছে ও মাপে, সেভাবে।
+
+1. **আগে ক্যাটাগরির buyer-decision checklist** — একজন ক্রেতা কোন ৮–১২টা দিক দেখে কেনে (outlet-দের টেস্ট মাপকাঠি + buying guide + ownership: warranty, consumables, battery platform)।
+2. **সব পিকে সব দিক** — spec matrix টেবিল। না পাওয়া গেলে লিখুন *"maker does not publish"* — সেটাও তথ্য।
+3. **স্ক্রিপ্টে প্রতিটা সেগমেন্টে একই দিকগুলো একই ক্রমে**, spec-এর পরেই বাস্তব মানে।
+4. **দাম কখনো নয়** — consumable "খরচ" মানে standard/availability/বক্সে কয়টা spare।
+
+**উদাহরণ — Plasma Cutters-এ যা কম ছিল:** সব মেশিনের weight · duty cycle (তাপমাত্রাসহ) · cutting speed · consumable availability · air PSI/CFM · warranty · mild/stainless/aluminum পারফরম্যান্স।
+
+---
+
+## DEFINITION OF DONE
+
+প্রতিটা আইটেম অন্তত একবার ফসকেছে। শেষ করার আগে মিলিয়ে নিন:
+
+- [ ] US zip আগে, তারপর **browse node** (কীওয়ার্ড সার্চে থামা নয়)
+- [ ] তিনটা নিয়ম, আর **কী বাদ দিলাম** সেটাও লেখা
+- [ ] ৩+ স্বাধীন সোর্স, নাহলে **UNVERIFIED**
+- [ ] **SPEC CROSS-MATCH** — লিংক করা লিস্টিংয়ের নিজের bullet ধরে
+- [ ] Hook আর villain টাইপ **ঘোরানো** ([03-HOOK-PLAYBOOK.md](03-HOOK-PLAYBOOK.md) ledger)
+- [ ] `tools-pace.js` দিয়ে **মাপা** — অনুমান নয়। avg ১৩–১৪ · stdev ৭–৯ · ছোট বাক্য ১৫–২২%
+- [ ] Compliance grep: দাম · rating · count · badge · BSR · "Amazon" — সব শূন্য
+- [ ] `.docx`-এ PRODUCT LINKS + **villain-এর `V` সারি** + sources + sourcing notes + প্রতি ব্লকে word count
+- [ ] `scripts/`-এ কপি, hook ledger-এ নতুন লাইন
+
+**সবচেয়ে বেশি যা ফসকায়:** villain-এর লিংক বাদ পড়া · budget-এ কাটতে গিয়ে সব বাক্য ছোট হয়ে staccato (**লম্বা বাক্য থেকে কাটুন, ছোট বাক্য মুছে নয়**) · আউটলেট villain-এর অন্য মডেল রিভিউ করেছে।
 
 ---
 
