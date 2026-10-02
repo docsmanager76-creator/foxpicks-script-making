@@ -334,3 +334,6 @@ Hook-এ প্রতিশ্রুতি দিন, শেষে শোধ ক
 **পরেরটায় 1 নয়, villain D-ও নয়**; hook **2 Data Wall · 3 Reader's Pain · 4 Contradiction · 5 Absurd Number · 6 Category Lie**, villain **A · B · C** থেকে বাছুন।
 
 > 💡 **শুধু দুটো আউটলেট একটা ক্যাটাগরি টেস্ট করলে (yogurt makers):** Spruce Eats আর Food & Wine-ই একমাত্র; দুটোই ৬ বারের বেশি cite হয়েছে, Sourcing notes-এ স্পষ্ট লেখা। তাদের **দ্বিমত** (একই maker-এর দুই মডেলে ভিন্ন Best Overall) নিজেই hook হয়েছে।
+| **5 Best Wheelbarrows 2026** (৬ না, ৫টা যোগ্য পিক; দুটো Gorilla আলাদা ক্লাসের) | **6 Category Lie** — Bob Vila-র best overall-এ চার চাকা, This Old House-এর পাঁচ পিকের একটাতেও এক চাকা নেই, Forbes এক-চাকার steel tub-কে প্রথম রেখেছে; সব listing cubic feet দিয়ে শুরু করে যা বহনক্ষমতা বলে না | **C top-tier cart, সংখ্যা মেলে না — Rubbermaid Commercial Big-Wheel Yard Cart 8.75 cu ft (RELAXED villain: Bob Vila Best for Gardening, Reviewed Best Plastic, Savvy Gardening Heavy Duty; কিন্তু লিমিট listing 300 lb / Reviewed 200 lb / Savvy 1,200 lb, আর 300÷8.75≈34 lb/cu ft)** |
+
+**পরেরটায় 6 নয়, villain C-ও নয়**; hook **1 Collision · 2 Data Wall · 3 Reader's Pain · 4 Contradiction · 5 Absurd Number**, villain **A · B · D** থেকে বাছুন।
