@@ -340,3 +340,6 @@ Hook-এ প্রতিশ্রুতি দিন, শেষে শোধ ক
 | **6 Best Magnetic Angle Gauges for Metalworking 2026** (spec-decode; Bob Vila/Woodsmith only testers) | **2 Data Wall** — Bob Vila prints ±0.1° for the Wixey WR300 but the maker's listing says ±0.2°; another listing shows 0.05° resolution against ±0.2° accuracy (digits 4x sharper than accuracy) | **D functional gap, RELAXED — GemRed 82305 200mm (Bob Vila Best for Beginners, Woodsmith runner up; both say scratches easily, listing says ±0.3° and never mentions a magnet)** |
 
 **পরেরটায় 2 নয়, villain D-ও নয়**; hook **1 Collision · 3 Reader's Pain · 4 Contradiction · 5 Absurd Number · 6 Category Lie**, villain **A · B · C** থেকে বাছুন।
+| **6 Best Beginner GPS Camera Drones 2026** (spec-decode; TechRadar/DCW/Space.com/DPReview) | **6 Category Lie** — every listing badges "4K"; DCW says one popular model is not 4K, DPReview could not get 2.7K from it, Space.com's table shows another 4K label at 20 fps (answer: ask the frame rate) | **C list-topper wrong for the job, RELAXED — DJI Neo original (DCW best cheap overall, TechRadar fun alternative; TechRadar: original had a tendency to crash in automated modes; successor added obstacle sensors)** |
+
+**পরেরটায় 6 নয়, villain C-ও নয়**; hook **1 Collision · 2 Data Wall · 3 Reader's Pain · 4 Contradiction · 5 Absurd Number**, villain **A · B · D** থেকে বাছুন।
