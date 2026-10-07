@@ -1,0 +1,141 @@
+##HOOK
+Open a soldering station page and the first thing you meet is a number: sixty watts, seventy-five, one hundred thirty, even two hundred. Most buyers pick the biggest number and assume it heats the fastest, and that assumption is where the trouble starts.
+
+Here is what makes this category hard. One listing I read shows three different power figures on the same page. Another adds the power of the iron to the power of the circuit board inside the box, and calls the total the wattage. Real testing is thin, so a buyer ends up guessing from numbers that do not agree with each other.
+
+So I went to the people who actually plugged these in. Wirecutter timed heat-up with a dedicated temperature tester. Tom's Hardware soldered a real kit. An engineer on the EEVblog forum measured a tip with a thermocouple. Six stations made this list, and each one is judged on three questions in the same order: what the maker claims, what a tester measured, and what it can't do. I'll tell you which one is number one and why.
+
+Before that, one so-called station kit that two outlets disagree about, and after the list, a free habit that protects you from a fake and from a display that lies. All the product links are in the description.
+
+##P6
+Number six, the YIHUA 926 III soldering station kit.
+
+This is for the beginner who wants one box with everything needed to start practicing.
+
+The listing calls it a twelve-piece kit. It says the station adds solder, spare tips, a helping hands stand and a desoldering pump. The temperature range runs from one hundred ninety-four to eight hundred ninety-six degrees Fahrenheit. The listing states it is UL-listed, and it states twelve months of coverage.
+
+Now watch the power number. The table says sixty watts, the same listing says a maximum power of one hundred thirty watts, and it also says eighteen watts for rated power. That is three numbers on one page, and the listing never explains which one to believe.
+
+Remember that box of extras, because it comes back at number one.
+
+Now, the honest limits. I found no independent test of this station, and because the power figures contradict each other, I won't tell you how fast it heats.
+
+Its place in the lineup is the starter box.
+
+Buy it if you want to start with everything included. Do not buy it if you want a measured heat-up time.
+
+##P5
+Number five, the X-Tronic 3020-XTS soldering station.
+
+This is for someone who wants a budget station that a real tester has actually used.
+
+It is Wirecutter's top pick. In their test it reached seven hundred degrees Fahrenheit in forty-seven seconds. They saw the temperature dip occasionally, and the tip recovered about as quickly as the other inexpensive models. Setup took them a little over two minutes.
+
+The listing says it runs from three hundred ninety-two to eight hundred ninety-six degrees. It is ESD safe, it goes to sleep after ten minutes, and the cord is forty inches long. The maker claims a static temperature stability of plus or minus two degrees Celsius.
+
+Now look at the name on the page, which says seventy-five watts. That figure is sixty watts for the iron plus fifteen watts for the circuit board that runs it, so it is really a sixty watt iron with a seventy-five watt label. Keep the forty-seven seconds in mind.
+
+Now, the honest limits. Wirecutter saw occasional dips in temperature, and the stability figure is the maker's own claim, not a measurement.
+
+Its place in the lineup is the tested budget station.
+
+Buy it if you want a cheap station with a named test behind it. Do not buy it if a dip in temperature will ruin your work.
+
+##P4
+Number four, the YIHUA 8786D-I hot air and iron combo.
+
+This is for the repairer who lifts surface-mount chips, not just joints on legs. Hot air heats a whole chip at once instead of touching it with a tip.
+
+The listing says the two tools together draw up to seven hundred forty watts and that the whole unit weighs five and a half pounds. The iron runs from a twenty-four volt AC output, and the page sells the pair as one station.
+
+Tom's Hardware chose the best hot air station in its roundup, and it was the Yihua 995D+. That is a different model from this one, so I can only borrow what they said about it: they liked it, but they noted the interface is not intuitive. Expect a learning curve here too.
+
+Now, the honest limits. I found no independent test of this exact combo, it is heavy, and you are learning two tools at once.
+
+Its place in the lineup is the chip-lifting specialist.
+
+Buy it if you repair boards with surface-mount parts. Do not buy it if you only solder wires.
+
+##VILLAIN
+Before the top three, the one I promised. The UY CHAN TS101, sold as a soldering station kit.
+
+Tom's Hardware names the Miniware TS101 its Best All-Rounder, and the listing I link sells a TS101 under the UY CHAN name. Tom's also picks the Pinecil V2 as its best overall, reaching three hundred fifty degrees Celsius in twenty seconds. That is a real point in its favor, and it is the steel-man.
+
+Then Wirecutter. They tested smart irons like these, named the TS101, and dismissed them for temperature fluctuations and warm handles. Those are complaints a tester could repeat. For a tool whose whole job is steady heat, that matters.
+
+Two outlets, two opposite verdicts, and only one of them names a specific failure.
+
+Buy number five or number one if a steady temperature matters to you. Otherwise, skip this one.
+
+##P3
+Number three, the FNIRSI DWS-200 cartridge soldering station.
+
+This is for heavy joints, like ground planes and big connectors, where small stations struggle to keep up.
+
+The listing says two hundred watts. It uses cartridge-style tips, comes with two handles, the F245 and the F210, and includes nine tips, and it has a color TFT display. The listing claims more power than the one hundred twenty watts common on the market.
+
+Remember what Wirecutter found with the seventy-five watt label: a bigger wattage figure on a page does not tell you how fast the tip actually gets hot. Treat the two hundred watts as a claim, not a measurement.
+
+Now, the honest limits. I found no independent test of this station, and I could not confirm a warranty term. One field on the page lists a stability figure that makes no sense as a stability number, so I am not repeating it.
+
+Its place in the lineup is the heavy-duty cartridge pick.
+
+Buy it if you solder thick, heavy joints. Do not buy it if you need a verified track record.
+
+##P2
+Number two, the Weller WE1010NA soldering station.
+
+This is for the serious hobbyist who wants a name-brand station with a stated warranty.
+
+Everything I can tell you here comes from the maker. It lists seventy watts at one hundred twenty volts and claims a stability of plus or minus four degrees Fahrenheit. It is ESD safe, it has a silicone cable and a password lock, it weighs five and a half pounds, and the warranty is one year.
+
+That is a solid feature list, and I believe the maker means it. But I could not find an independent outlet that tested this exact station, and a feature list is not a measurement.
+
+So why isn't it number one? Because the station that is number one has a timed result, and this one does not.
+
+Now, the honest limits. All of the figures here are the maker's own. It is also among the heavier stations on this list.
+
+Its place in the lineup is the name-brand premium pick.
+
+Buy it if you want the one-year warranty from a long-established maker. Do not buy it if you need independent test numbers.
+
+##P1
+Number one, the Hakko FX888DX soldering station.
+
+This is for most people who solder at a bench.
+
+Wirecutter picked it as their upgrade over the budget top pick. It reached seven hundred degrees Fahrenheit in thirty seconds while the cheaper station took forty-seven, and Wirecutter said the Hakko's tip returned to temperature slightly faster.
+
+Now look at the listing, which says sixty-five watts, while the budget station is labeled seventy-five. The lower number heated faster, which is the whole point of this video.
+
+Tom's Hardware named the older Hakko FX-888D its best station, a different model from this DX, and cited excellent thermal properties and great build quality. They soldered a Velleman kit and found three hundred fifty degrees Celsius a little low for the thick board, but at four hundred degrees lead solder flowed perfectly. A Bald Engineer owner of the older model reported about thirty seconds to three hundred fifty degrees in a cold room.
+
+The listing includes a chisel tip, and the station weighs three point eight pounds. It is the station and its tip, and the kit extras from number six are not part of that listing.
+
+Now, the honest limits. Wirecutter says it costs more and the tip that comes with it is less versatile, fakes are common online, and the listing I read says no manufacturer warranty.
+
+It is number one because it heated fastest in the only head-to-head I found, and two outlets pick the Hakko line. Buy it for a bench you use often. Do not buy it from a seller you can't vouch for.
+
+That's why it's number one.
+
+##FREE
+Here is the free habit, and it works with every station here. Do not trust the display.
+
+An owner on the EEVblog forum put a thermocouple on a Hakko tip. The display said six hundred forty degrees Fahrenheit and the probe read seven hundred nine. At five hundred fifty on the display, the probe read six hundred twenty-one. That is roughly seventy degrees high. It is one owner, and probe angle changes the reading, so treat it as a reason to check, not a verdict.
+
+The habit: once, measure your tip with a thermometer and write down the offset. Wirecutter timed heat-up the same way, with a dedicated tip temperature tester.
+
+Second, avoid the fake. Wirecutter warns that counterfeit Hakkos are common online. Buy from the maker's own store or an authorized seller.
+
+Third, if solder balls up instead of flowing on a thick board, raise the temperature. Tom's Hardware needed four hundred degrees Celsius for theirs.
+
+All three cost nothing, and they matter more than any wattage.
+
+##TAIL
+Before you pay, ask one question: does the power number on the page match what a tester measured? The sixty watts, the seventy-five, the two hundred and the hundred thirty did not predict anything, but the thirty seconds and the forty-seven did.
+
+All seven links are in the description, including the TS101. Check the tip type, check whether a warranty is stated, and buy from a seller you trust.
+
+Quick recap. A box with everything included, the YIHUA 926 III. A tested budget station, the X-Tronic 3020-XTS. Hot air for chips, the YIHUA 8786D-I. Heavy joints, the FNIRSI DWS-200. A name-brand premium pick, the Weller WE1010NA. Most people, the Hakko FX888DX.
+
+Every link is in the description, and prices move fast, so check before you buy. One thing: if you own one of these, measure your tip and tell me how far the display is off. If enough of you post, we will see which brands tell the truth.
