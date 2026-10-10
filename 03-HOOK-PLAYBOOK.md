@@ -245,7 +245,8 @@ Hook-এ প্রতিশ্রুতি দিন, শেষে শোধ ক
 
 | **6 Best Compact Scroll Saws 2026** | **3 Reader's Pain** — full-size saw ২০" throat, mini-fridge সমান ওজন, নিজের স্ট্যান্ড লাগে — আপনার ছোট shop-এর জন্য কখনো বানানো হয়নি | **A legend brand যা এই কাজের জন্য ভুল — DEWALT DW788 (ToolGuyd-এর benchmark, কিন্তু ২০" থ্রোট, ৫৬ পাউন্ড, compact-ই না)** |
 
-**পরেরটায় 3 নয়, villain A-ও নয়**; hook **1 Collision · 2 Data Wall · 4 Contradiction · 5 Absurd Number · 6 Category Lie**, villain **B · C · D** থেকে বাছুন।
+| **6 Best Snow Blowers for Long Driveways 2026** (Bob Vila hands-on; Consumer Reports via TV summary; listings; badge rule relaxed for Ariens + Honda) | **5 Absurd Number** — listing lb/min claims (2,500 at 187 lb vs 1,900 at 358 lb) don't track the machine; no tester measured it | **B older-model listing — Ryobi 40V 2-stage (Bob Vila Best for Large Driveways vs CR via TV: slower budget option; linked listing is the older 21" RY40860, not the 22" tested)** |
+**পরেরটায় 5 নয়, villain B-ও নয়**; hook **1 Collision · 2 Data Wall · 3 Reader's Pain · 4 Contradiction · 6 Category Lie**, villain **A · C · D** থেকে বাছুন।
 
 > ⚠️ **কিছু ক্যাটাগরিতে badge rule-এ পুরো ৬টা pick পাওয়া যায় না (scroll saws, 2026-09-21):** compact scroll saw-তে মাত্র ৪টা model badge+rating+buybox তিনটাই pass করেছে — এমনকি ক্যাটাগরির সবচেয়ে বেশি reviewed model (WEN 3921, 5,163 reviews) আর কোনো real scroll saw brand (RYOBI, RIKON, Delta, Penn State, JET, BUCKTOOL)-ও এই মাসে badge পায়নি। **এমন situation-এ থেমে user-কে option দিন** (generic import দিয়ে ভরাট করা vs real-but-unbadged model দিয়ে ভরাট করা vs 4-pick video) — silently rule শিথিল করবেন না। User real model (WEN 3921 + Shop Fox W1872) বেছেছেন, PRODUCT LINKS table আর docx VNOTE-এ badge gap স্পষ্ট লেখা হয়েছে।
 
