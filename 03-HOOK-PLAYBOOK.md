@@ -352,3 +352,6 @@ Hook-এ প্রতিশ্রুতি দিন, শেষে শোধ ক
 | **6 Best Soldering Stations for Electronics Repair 2026** (Wirecutter + Tom's Hardware hands-on; owner posts; listings) | **3 Reader's Pain** — wattage labels (60/75/130/200W) contradict each other; Wirecutter measured the "75W" X-Tronic at 47 s to 700°F vs 30 s for the Hakko | **D functional failure — UY CHAN TS101 "station kit" (Tom's Best All-Rounder; Wirecutter dismissed smart irons incl. TS101 for temperature fluctuations, warm handles)** |
 
 **পরেরটায় 3 নয়, villain D-ও নয়**; hook **1 Collision · 2 Data Wall · 4 Contradiction · 5 Absurd Number · 6 Category Lie**, villain **A · B · C** থেকে বাছুন।
+| **6 Best SDS-Plus Rotary Hammers for Concrete Anchors 2026** (Bob Vila 2026 hands-on for Bosch/Milwaukee/Makita/DeWalt; DESHUO, ENEACRO, DCH133B listing-only) | **5 Absurd Number** — একই 1-inch কংক্রিট হোলে 45 s / 70 s / 2+ মিনিট; impact-energy রেটিং সময় ব্যাখ্যা করে না (1.7 ft-lb = 2+ min, 1.9 ft-lb = 45 s) | **D functional failure — Makita XRH01Z (Bob Vila "Best Compact", কিন্তু 1" হোলে 2+ min vs লিডারদের 10–15 s ½"-এ; একটাই আউটলেট)** |
+
+**পরেরটায় 5 নয়, villain D-ও নয়**; hook **1 Collision · 2 Data Wall · 3 Reader's Pain · 4 Contradiction · 6 Category Lie**, villain **A · B · C** থেকে বাছুন।
