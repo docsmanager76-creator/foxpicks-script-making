@@ -195,3 +195,10 @@ Second person, present tense, spoken English. ছোট declarative বাক্
 - **⚠️ ২০২৬-০৯-১৬: VILLAIN-এরও লিংক দিতে হবে।** টেবিলে একটা `V` সারি যোগ করুন, নিচে লিখুন এটা villain — ভিডিওতে নাম বলা হয়েছে, পিক নয়, তিনটা নিয়মে যাচাই করা হয়নি। **ফাঁদ:** আউটলেট প্রায়ই villain-এর অন্য মডেল রিভিউ করে (ToolGuyd = Workmate **WM125**, যেটা বিক্রিই হয় না; লাইভ মডেল **WM225-A**, আর WM425-এ buy box নেই)। মিল না থাকলে স্ক্রিপ্টে মডেল নম্বর **মুখে বলুন**।
 - তার নিচে **Additional sources** টেবিল, তারপর **Sourcing notes**, তারপর স্ক্রিপ্ট।
 - স্ক্রিপ্টের প্রতিটা block-এ হেডিং + word count।
+
+## ⚠️ ২০২৬-১০-১১: Block দৈর্ঘ্য — hook ≤150, প্রতি পিক ২৩০–২৪০ শব্দ
+- **Hook (intro): আগের স্টাইলেই লিখুন, কিন্তু ১৫০ শব্দের উপরে নয়।** (সাধারণত ১২০–১৪৫)।
+- **প্রতিটা পিকের block ২৩০–২৪০ শব্দ।** ছোট হলে বুঝবেন features/spec কম পড়েছে। `tools-pace.js` দিয়ে প্রতি `##P` segment-এর count দেখে নিন।
+- **বাড়তি শব্দ ফাঁকা বুলি দিয়ে নয়, listing/test-এর ফিচার ও স্পেক দিয়ে:** ব্যাটারি/ভোল্ট/runtime, চার্জ সময়, ওজন, bin/capacity, cleaning path/আকার, noise (dB), পাওয়ার মোড/স্পিড, ফিল্টার ধরন (ধোয়া যায় কিনা), বক্সে কী কী (tools, dock, charger), warranty, কোথায় ভালো চলে (listing-র "recommended uses")।
+- তবু compliance একই: দাম, রেটিং, review count, "Amazon", rank নয়। Listing-এর junk মান (ভুল ভোল্ট/ওয়াট) ধরবেন না; maker/test সংখ্যা নিন।
+- Hook ছাড়া অন্য block (villain ~১৫০, free upgrade ~১২৭–১৩০, tail ~১৫০–১৬৭) আগের মতোই।
