@@ -358,3 +358,6 @@ Hook-এ প্রতিশ্রুতি দিন, শেষে শোধ ক
 | **6 Best Cordless Handheld Vacuums 2026** (Vacuum Wars Oct 2026 + Bob Vila 2024 hands-on; WANDVAC and Pivot Vac listing/snippet only) | **6 Category Lie** — "handheld vacuum" লেবেল এক, কিন্তু টেস্টে air watts 15.2 বনাম 35 এবং runtime গড় ~11 মিনিট বনাম ~30 | **C overpriced premium — Shark UltraCyclone Pet Pro+ CH951 (GearLab snippet-এ best overall, কিন্তু Trusted Reviews: 29 AW, pet hair mediocre; excerpt-only, দুই আউটলেট)** |
 
 **পরেরটায় 6 নয়, villain C-ও নয়**; hook **1 Collision · 2 Data Wall · 3 Reader's Pain · 4 Contradiction · 5 Absurd Number**, villain **A · B · D** থেকে বাছুন।
+| **6 Best Battery Operated Snow Blowers 2026** (Bob Vila 12-model test + EGO roundup + SNT2405 review; Voltask and Senix listing-only; Family Handyman/Toolbox Buzz/Tools in Action snippets) | **2 Data Wall** — Bob Vila 12 মডেল, 2 সপ্তাহ, দুটো 75-ft ড্রাইভওয়ে, -7°F; typical runtime 30–45 মিনিট, throw ~20 ft বনাম ~50 ft | **A critics' darling — Ryobi 40V 22" Two-Stage (Bob Vila top pick, কিন্তু 136 lb, full speed-এ battery দ্রুত শেষ; একটাই আউটলেট)** |
+
+**পরেরটায় 2 নয়, villain A-ও নয়**; hook **1 Collision · 3 Reader's Pain · 4 Contradiction · 5 Absurd Number · 6 Category Lie**, villain **B · C · D** থেকে বাছুন।
