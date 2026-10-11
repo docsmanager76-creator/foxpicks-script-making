@@ -355,3 +355,6 @@ Hook-এ প্রতিশ্রুতি দিন, শেষে শোধ ক
 | **6 Best SDS-Plus Rotary Hammers for Concrete Anchors 2026** (Bob Vila 2026 hands-on for Bosch/Milwaukee/Makita/DeWalt; DESHUO, ENEACRO, DCH133B listing-only) | **5 Absurd Number** — একই 1-inch কংক্রিট হোলে 45 s / 70 s / 2+ মিনিট; impact-energy রেটিং সময় ব্যাখ্যা করে না (1.7 ft-lb = 2+ min, 1.9 ft-lb = 45 s) | **D functional failure — Makita XRH01Z (Bob Vila "Best Compact", কিন্তু 1" হোলে 2+ min vs লিডারদের 10–15 s ½"-এ; একটাই আউটলেট)** |
 
 **পরেরটায় 5 নয়, villain D-ও নয়**; hook **1 Collision · 2 Data Wall · 3 Reader's Pain · 4 Contradiction · 6 Category Lie**, villain **A · B · C** থেকে বাছুন।
+| **6 Best Cordless Handheld Vacuums 2026** (Vacuum Wars Oct 2026 + Bob Vila 2024 hands-on; WANDVAC and Pivot Vac listing/snippet only) | **6 Category Lie** — "handheld vacuum" লেবেল এক, কিন্তু টেস্টে air watts 15.2 বনাম 35 এবং runtime গড় ~11 মিনিট বনাম ~30 | **C overpriced premium — Shark UltraCyclone Pet Pro+ CH951 (GearLab snippet-এ best overall, কিন্তু Trusted Reviews: 29 AW, pet hair mediocre; excerpt-only, দুই আউটলেট)** |
+
+**পরেরটায় 6 নয়, villain C-ও নয়**; hook **1 Collision · 2 Data Wall · 3 Reader's Pain · 4 Contradiction · 5 Absurd Number**, villain **A · B · D** থেকে বাছুন।
