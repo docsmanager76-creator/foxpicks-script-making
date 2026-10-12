@@ -361,3 +361,6 @@ Hook-এ প্রতিশ্রুতি দিন, শেষে শোধ ক
 | **6 Best Battery Operated Snow Blowers 2026** (Bob Vila 12-model test + EGO roundup + SNT2405 review; Voltask and Senix listing-only; Family Handyman/Toolbox Buzz/Tools in Action snippets) | **2 Data Wall** — Bob Vila 12 মডেল, 2 সপ্তাহ, দুটো 75-ft ড্রাইভওয়ে, -7°F; typical runtime 30–45 মিনিট, throw ~20 ft বনাম ~50 ft | **A critics' darling — Ryobi 40V 22" Two-Stage (Bob Vila top pick, কিন্তু 136 lb, full speed-এ battery দ্রুত শেষ; একটাই আউটলেট)** |
 
 **পরেরটায় 2 নয়, villain A-ও নয়**; hook **1 Collision · 3 Reader's Pain · 4 Contradiction · 5 Absurd Number · 6 Category Lie**, villain **B · C · D** থেকে বাছুন।
+| **6 Best Impact Driver Bit Sets for Heavy Driving 2026** (Bob Vila bit-set test + ToolGuyd; Pro Tool Reviews 25 vs 12 screws seen as snippet only; Klein and Vessel listing-only) | **5 Absurd Number** — 3-inch screws, hard LVL: ~25 screws vs ~12 before the bit failed (outlet only, no brands) | **C Overpriced premium** — Milwaukee Shockwave 100-pc (Bob Vila 5/5 on the 55-pc, but PTR loss and Phillips stripping reports; mixed evidence) | #1 DeWalt FlexTorq 40-pc DWA2T40IR; #2 Makita XPS 60; #3 DeWalt FlexTorq 100 |
+
+**পরেরটায় 5 নয়, villain C-ও নয়**; hook **1 Collision · 2 Data Wall · 3 Reader's Pain · 4 Contradiction · 6 Category Lie**, villain **A · B · D** থেকে বাছুন।
