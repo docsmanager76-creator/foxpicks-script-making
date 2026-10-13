@@ -1,5 +1,5 @@
 ##HOOK
-Look at the number on the box of an SDS-plus rotary hammer. One inch, say. ToolGuyd explains that this is a maximum capacity, not where the tool works best. For a one-inch hammer, the optimal hole is about half an inch, and the range runs from roughly five-sixteenths to five-eighths. Now look at the garage. People mounting four-post lifts on Garage Journal talk about three-quarter-inch anchors, with two anchors per post. So the number on the box and the hole you actually need are two different numbers. And I found no outlet that tested these hammers for automotive work, so this list leans on tests of the tools and on their specs. Six cordless rotary hammers made the list, one villain sits in the middle, and number one comes last. All the links are in the description.
+Look at the number on the box of an SDS-plus rotary hammer. One inch, say. ToolGuyd explains that this is a maximum capacity, not where the tool works best. For a one-inch hammer, the optimal hole is about half an inch, and the range runs from roughly five-sixteenths to five-eighths. Now look at the garage. People mounting four-post lifts on Garage Journal talk about three-quarter-inch anchors, with two anchors per post. So the number on the box and the hole you actually need are two different numbers. And I found no outlet that tested these hammers for automotive work, so this list leans on tests of the tools and on their specs. Six cordless rotary hammers made the list, I will warn you off one more, and number one comes last. All the links are in the description.
 
 ##P6
 Number six, the Makita XRH04Z 18V LXT Lithium-Ion Cordless 7/8-Inch Rotary Hammer, accepts SDS-Plus bits, tool only.
@@ -46,6 +46,17 @@ Its place in the lineup is the small-hole pick.
 
 Buy it if you drill small holes in tight spaces. Do not buy it if you set big anchors.
 
+##VILLAIN
+Before the top three, the promise I made. The FLEX FX1551A-Z 24V Brushless Cordless 1-Inch SDS Plus Rotary Hammer.
+
+Bob Vila tested it hands-on and named it Best Overall, and on paper the case is strong. It makes one point nine foot-pounds, about two point five eight joules, and Bob Vila praised its drilling power, smooth running and low vibration. It has four modes, including chisel adjust, and a swappable keyless half-inch chuck.
+
+Bob Vila also found the catch. It costs more than the rest, it lacks an auto-stop for a jammed bit, and it weighs about nine pounds with a battery. When I checked, I could not find it available to buy new.
+
+A hammer with no way to stop a jammed bit is a quick way to learn how strong your wrist is.
+
+If you drill anchors, buy number two, which stops itself. Buy this one only if you find it new and need the half-inch chuck.
+
 ##P3
 Number three, the DeWalt DCH293B 20V Max XR Brushless 1-1/8-Inch L-Shape SDS Plus Rotary Hammer Drill, tool only.
 
@@ -60,15 +71,6 @@ Now, the honest limits. By the listings, this is the heaviest and longest of the
 Its place in the lineup is the power pick.
 
 Buy it if you want the most impact energy. Do not buy it if you want it light.
-
-##VILLAIN
-Before the top two, the one I promised. The FLEX FX1551A-Z 24V Brushless Cordless 1-Inch SDS Plus Rotary Hammer.
-
-Here is the steel-man. Bob Vila tested it hands-on and named it Best Overall. It delivers one point nine foot-pounds, about two point five eight joules, and Bob Vila praised its impressive drilling power, smooth operation and minimal vibration. It has four modes, including chisel adjust, and an interchangeable keyless half-inch chuck. The listing gives five years of warranty if you register within thirty days, three years without.
-
-Then the problems. Bob Vila says it costs more and lacks an auto-stop safety feature. It also weighs about nine pounds with a battery. And when I checked, I could not find it available to buy new.
-
-That is one tested outlet, so it is one opinion. If you find one, buy it for the power and chuck. For anchors, buy number one or number two.
 
 ##P2
 Number two, the Milwaukee 2912-20 M18 FUEL 18V 1-Inch SDS Plus Brushless Rotary Hammer.
