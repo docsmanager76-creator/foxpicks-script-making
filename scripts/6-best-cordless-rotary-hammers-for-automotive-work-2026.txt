@@ -1,0 +1,129 @@
+##HOOK
+Look at the number on the box of an SDS-plus rotary hammer. One inch, say. ToolGuyd explains that this is a maximum capacity, not where the tool works best. For a one-inch hammer, the optimal hole is about half an inch, and the range runs from roughly five-sixteenths to five-eighths. Now look at the garage. People mounting four-post lifts on Garage Journal talk about three-quarter-inch anchors, with two anchors per post. So the number on the box and the hole you actually need are two different numbers. And I found no outlet that tested these hammers for automotive work, so this list leans on tests of the tools and on their specs. Six cordless rotary hammers made the list, one villain sits in the middle, and number one comes last. All the links are in the description.
+
+##P6
+Number six, the Makita XRH04Z 18V LXT Lithium-Ion Cordless 7/8-Inch Rotary Hammer, accepts SDS-Plus bits, tool only.
+
+This is for someone who already owns Makita eighteen-volt batteries and wants a lighter hammer for smaller anchor and bracket holes.
+
+The listing describes a variable speed motor that runs zero to twelve hundred RPM and zero to four thousand blows per minute, with synchronized speed and hammering for faster drilling. It has three modes: rotation only, hammering with rotation, and hammering only. A torque-limiting clutch disengages the gears if the bit binds. The handle is shock-absorbent and protects the battery housing. The listing gives seven point four pounds and about eighteen inches long, four wide and nine tall. A depth gauge and side handle come in the box, but the battery and charger do not. Makita lists a three-year limited warranty.
+
+Bob Vila tested a Makita eighteen-volt SDS-plus hammer and called it the lightest cordless option, with a nimble feel. I could not confirm it is this exact model.
+
+Now, the honest limits. Bob Vila called its Makita underpowered and slower on larger jobs. This is a seven-eighths-inch tool, so three-quarter-inch holes sit near its top end. The listing gives no impact energy figure.
+
+Its place in the lineup is the lightweight pick.
+
+Buy it if you want light and already own the batteries. Do not buy it if you drill big holes all day.
+
+##P5
+Number five, the Bosch GBH18V-22N 18V Brushless SDS-plus Bulldog 3/4-Inch Rotary Hammer, bare tool.
+
+This is for someone who wants a compact hammer with built-in kickback protection and a clear path to dust control.
+
+The listing gives one point four foot-pounds of impact energy, zero to forty-six hundred seventy-five blows per minute, and zero to a thousand fifty RPM. The motor is brushless, and a variable-speed trigger helps you start the bit accurately. Kickback control reduces the risk of a sudden reaction when the bit binds, with anti-vibration built in. A Vario-Lock setting lets you rotate and lock the chisel in hammer-only mode. It takes standard SDS-plus bits. The tool weighs five point one pounds without a battery and measures about eleven and a half inches long, three and a quarter wide and eight tall. The listing says it works with Bosch's dust-collection system, including an on-tool extraction unit sold separately.
+
+I found no hands-on test of this model. Bob Vila tested a corded Bosch Bulldog, which is a different tool.
+
+Now, the honest limits. The listing gives no warranty, and the battery and charger are not included. A three-quarter-inch capacity means three-quarter-inch anchor holes are the most it can do. Its impact energy is modest.
+
+Its place in the lineup is the kickback-control pick.
+
+Buy it if you want a compact body with kickback control. Do not buy it if you want more power.
+
+##P4
+Number four, the DeWalt DCH172B 20V MAX SDS Plus Rotary Hammer Drill, five-eighths inch, tool only.
+
+This is for someone who works in tight spaces and drills small holes for brackets, clips and rails.
+
+The listing gives one point four joules of impact energy from a brushless motor. It has a mode selector switch between drill and hammer drill, a keyless chuck, reverse rotation and variable speed. DeWalt's SHOCKS active vibration control reduces vibration felt at the handles. It is OSHA Table 1 compliant with a dust shroud and extractor. The tool weighs four point five nine pounds and measures about eleven and a third inches by eight and a half by ten and two-thirds. A side handle, a belt hook and a depth rod come in the box. DeWalt lists a three-year limited warranty.
+
+I could not find a hands-on test of this model. Bob Vila's DeWalt was a different one.
+
+Now, the honest limits. This is where the number on the box matters. A five-eighths-inch capacity cannot drill a three-quarter-inch anchor hole at all, so it is wrong for lift anchors. It has no chisel mode, only drill and hammer drill. One point four joules is the lowest impact energy on this list, and the battery is not included.
+
+Its place in the lineup is the small-hole pick.
+
+Buy it if you drill small holes in tight spaces. Do not buy it if you set big anchors.
+
+##P3
+Number three, the DeWalt DCH293B 20V Max XR Brushless 1-1/8-Inch L-Shape SDS Plus Rotary Hammer Drill, tool only.
+
+This is for someone who needs the most impact energy here and does not mind a longer, heavier body.
+
+The listing gives three and a half joules of impact energy, which it describes as corded power without the cord. An E-Clutch gives control when the bit binds up, and SHOCKS active vibration control reduces vibration at the handles. A retractable utility hook lets you hang it. The listing calls the motor brushless and the build German engineered, and says it is ready for dust management. The L-shape body measures about fifteen and a third inches long, four wide and ten and six-tenths tall. The listed weight is three point nine five kilograms, roughly eight point seven pounds. DeWalt lists a three-year limited warranty, and the battery is not included.
+
+I found no test of this exact model. Bob Vila's hands-on pick from DeWalt was a different one.
+
+Now, the honest limits. By the listings, this is the heaviest and longest of the six. ToolGuyd's rule says a one-inch hammer works best around half an inch, and I found no number for a one-and-an-eighth tool, so the box label proves nothing about where it works best.
+
+Its place in the lineup is the power pick.
+
+Buy it if you want the most impact energy. Do not buy it if you want it light.
+
+##VILLAIN
+Before the top two, the one I promised. The FLEX FX1551A-Z 24V Brushless Cordless 1-Inch SDS Plus Rotary Hammer.
+
+Here is the steel-man. Bob Vila tested it hands-on and named it Best Overall. It delivers one point nine foot-pounds, about two point five eight joules, and Bob Vila praised its impressive drilling power, smooth operation and minimal vibration. It has four modes, including chisel adjust, and an interchangeable keyless half-inch chuck. The listing gives five years of warranty if you register within thirty days, three years without.
+
+Then the problems. Bob Vila says it costs more and lacks an auto-stop safety feature. It also weighs about nine pounds with a battery. And when I checked, I could not find it available to buy new.
+
+That is one tested outlet, so it is one opinion. If you find one, buy it for the power and chuck. For anchors, buy number one or number two.
+
+##P2
+Number two, the Milwaukee 2912-20 M18 FUEL 18V 1-Inch SDS Plus Brushless Rotary Hammer.
+
+This is for someone with Milwaukee batteries who wants wrist protection when a bit binds in concrete.
+
+This is a tested tool, and the rest of the evidence matches the listing. Bob Vila tested the M18 FUEL one-inch SDS-plus and named it Best Upgrade. It cited class-leading impact energy of two foot-pounds, about two point seven one joules, and low vibration in a compact body, with three modes. The listing says an AUTOSTOP control senses bind-ups, which protects your wrist when the bit jams. That matters in concrete, where a bit can catch on rebar. The brushless motor sits in the M18 system, with over two hundred other tools on the same battery. It measures about eleven and a half inches long, four and a quarter wide and nine tall, and weighs seven point five pounds.
+
+Now, the honest limits. Bob Vila called it the most expensive option it tested. The listing gives no warranty, and it does not say if a battery is included. Its weight is above the number one pick.
+
+So why isn't it number one? Because the number one pick weighs about six pounds, a full pound and a half less, and has an included warranty.
+
+Its place in the lineup is the safety pick.
+
+Buy it if you want AUTOSTOP and M18 batteries. Do not buy it if cost matters.
+
+##P1
+Number one, the DeWalt DCH273B 20V MAX SDS Rotary Hammer Drill, Cordless, 3 Application Modes, bare tool only.
+
+This is for most people drilling garage-floor anchors, because it balances the weight, the power and the control better than anything here.
+
+The listing gives two point one joules of impact energy from a brushless motor, with drill, hammer drill and chip modes. SHOCKS active vibration control reduces vibration at the handles. It is OSHA Table 1 compliant with an extractor sold separately, and lists a one-inch capacity. A side handle, a depth rod and an adjustable hook come in the box. The weight is two point seven kilograms, about six pounds, and it is about thirteen inches long. DeWalt lists a three-year limited warranty.
+
+Bob Vila tested a DeWalt 20V MAX XR with the same two point one joules and named it Best Cordless. It found clean holes and minimal vibration. I could not confirm it is this exact model.
+
+Now, the honest limits. Bob Vila noted a slight wobble in the handle and a longer recharge. Its two point one joules is below the Milwaukee, and the battery is not included.
+
+It is number one because it is the lightest of the one-inch tools, comes with the depth rod, and drilled clean holes in a hands-on test.
+
+Buy it if you want balance. Do not buy it if you want AUTOSTOP.
+
+That's why it's number one.
+
+##FREE
+Here is the free upgrade, and it works with any hammer on this list.
+
+These tips come from maker guidance and common practice, not a lab test.
+
+First, read your lift maker's instructions for anchor size and floor thickness. Garage Journal says some advise against drilling all the way through.
+
+Second, match the bit to the anchor maker's table.
+
+Third, use hammer mode and set the depth rod so every hole is the right depth.
+
+Fourth, keep the side handle on.
+
+Fifth, clear the dust from the hole before you set the anchor.
+
+Sixth, use dust extraction where the listing offers it, and wear a dust mask. Concrete dust is a hazard, and that is why several of these listings mention OSHA Table 1.
+
+##TAIL
+Before you pay, ask one question: does this claim come from a test or from a label? One inch is a label. Two point seven one joules and class-leading came from Bob Vila's test. The sweet spot of a hammer is not on the box, either.
+
+All seven links are in the description, including the FLEX. Check the hole size you need, the impact energy, the weight, and whether you already own the battery. Then read your anchor maker's instructions before you drill.
+
+Here is the quick recap. The Makita is the lightweight pick. The Bosch is the kickback-control pick. The DeWalt five-eighths is the small-hole pick. The DeWalt one-and-an-eighth is the power pick. The Milwaukee is the safety pick. And for most people, the DeWalt DCH273B.
+
+Prices move fast, so check before you buy. One thing: if you have drilled lift anchors with one of these, tell me which. If enough of you post, we will compare.
