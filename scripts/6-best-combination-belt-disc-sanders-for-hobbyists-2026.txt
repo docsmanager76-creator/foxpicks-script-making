@@ -1,0 +1,135 @@
+##HOOK
+Almost every sander box in this class prints a horsepower number. So I did the math on it. One horsepower is about seven hundred and forty-six watts. So three-quarter horsepower means about five hundred and sixty watts coming out of the motor. Now plug a four-point-three-amp motor into a normal hundred-and-twenty-volt outlet. At most, it draws about five hundred and sixteen watts going in. No motor puts out more than it takes in. Yet listings I checked claim three-quarter horsepower from four point three amps, from four point five, and from five. So read the amps, not the horsepower. I read Bob Vila's bench sander test, checked every listing, and kept the amps honest. Six sanders made the list, I will warn you off one more, and number one comes last. All the links are in the description.
+
+##P6
+Number six, the WEN 6515T 1 x 30-Inch Belt and 5-Inch Disc Sander.
+
+This is for the hobbyist who makes small things, like models, toys, pens, or craft parts, and has very little bench space.
+
+The listing gives a two-point-three-amp motor, and makes no horsepower claim. The one-inch belt runs at up to three thousand one hundred and sixty feet per minute. The five-inch disc spins at up to three thousand four hundred and fifty RPM. That narrow belt reaches into curves and inside corners that a four-inch belt cannot. WEN says the heavy base stops it from walking and wobbling while you work. It has two separate dust ports, so you can vacuum the belt and the disc. In the box, you get a miter gauge, an eighty-grit disc, and a hundred-grit belt. It weighs sixteen pounds, the lightest on this list, and the footprint is about eleven and a half inches square. WEN gives a two-year warranty.
+
+I found no outlet that tested this model, so everything here comes from the listing.
+
+Now, the honest limits. A one-inch belt and two point three amps are for small parts, so flattening a wide board will take forever. And at sixteen pounds, you will want to clamp or bolt it down.
+
+Its place in the lineup is the small-parts pick.
+
+Buy it if your projects fit in one hand. Do not buy it if you sand boards.
+
+##P5
+Number five, the Woodskil 4.3A 4 x 36-Inch Belt and 6-Inch Disc Sander Combo.
+
+This is for the hobbyist who sands in a garage or spare room and wants the dust under control.
+
+The listing gives a four-point-three-amp motor. The belt runs at one thousand seven hundred and thirty-two feet per minute and the disc at three thousand five hundred and seventy RPM. The four-by-thirty-six-inch belt tilts from zero to ninety degrees, so you can sand flat or upright. The work table tilts from zero to forty-five degrees and comes with a miter gauge. It has two dust ports, one for the belt and one for the disc, plus a double safety switch. A multi-wedge drive belt runs the machine, a tension device keeps the sanding belt tight, and a clear guard lets you watch the belt as it runs. The base is steel, it weighs twenty-five pounds, and Woodskil gives a two-year warranty.
+
+I found no outlet that tested this model, so everything here comes from the listing.
+
+Now, the honest limits. Remember the hook math? This listing claims three-quarter horsepower from four point three amps, which a motor cannot deliver, so judge it by the amps. It is also far lighter than number one, so bolt it down.
+
+Its place in the lineup is the dust-control pick.
+
+Buy it if dust is your main worry. Do not buy it if you need a bigger disc.
+
+##P4
+Number four, the BUCKTOOL BD4603A 5A 4 x 36-Inch Belt and 6-Inch Disc Sander.
+
+This is for the hobbyist who hates maintenance and wants fewer parts to wear out.
+
+The listing says the belt and the disc run straight off the motor shaft. That is direct drive, so there is no internal drive belt to stretch, slip, or replace. BUCKTOOL claims it is twenty-five percent more efficient than a traditional drive, with a quiet, fully enclosed induction motor. The motor draws five amps. The sanding belt runs at two thousand one hundred and sixty-one feet per minute, and the disc at three thousand four hundred and fifty RPM. The belt tilts from zero to ninety degrees, and the end drum lets you sand curves. There are two cast aluminum tables, a miter gauge for the belt and the disc, and quick belt changes with tracking control. The cast aluminum base sits on rubber feet to cut vibration. It weighs about thirty-five and a half pounds, and it meets CSA standards.
+
+I found no outlet that tested this model, so everything here comes from the listing.
+
+Now, the honest limits. It claims three-quarter horsepower from five amps, which is a stretch for a motor this size. The listing gives no warranty term.
+
+Its place in the lineup is the direct-drive pick.
+
+Buy it if you want less to maintain. Do not buy it if you want a stated warranty.
+
+##VILLAIN
+Before the top three, the promise I made. The Rockwell RK7866 4 x 36-Inch Belt and 6-Inch Disc Combination Sander.
+
+On paper, it looks right. Bob Vila gave it the label Best Combo Sander. It has a six-inch disc, a table that tilts to forty-five degrees, and a belt that works flat or upright. It adds a safety switch, a dust port, and a half-horsepower claim that matches its four point three amps.
+
+Bob Vila also flagged the catch. It was not one of the sanders they tested. In the same entry, they noted that some users report poor construction, and that the belt tends to strip out easily.
+
+Picture shaping the last part of a project, and the belt strips halfway through.
+
+A label is not a test.
+
+If you want this exact size, buy number one, which was tested. Buy this one only if you can return it easily.
+
+##P3
+Number three, the RIKON 50-1305 1 x 30-Inch Belt and 5-Inch Disc Sander.
+
+This is for the hobbyist who does small, precise work, like inlays and model parts, and wants both tables to tilt.
+
+The listing gives a two-point-three-amp induction motor driving a one-by-thirty-inch belt and a five-inch disc. The frame and the base are cast metal. Both tables are cast aluminum, one for the belt and one for the disc, and both tilt from zero to forty-five degrees. A quick-release lever loosens the belt for tool-free changes. There are two dust ports, each one and three-eighths inches across, plus a miter gauge, an eighty-grit sticky-back disc, and a hundred-grit belt in the box. It weighs about nineteen point nine pounds. RIKON pitches it for jewelry making, toys, and model building.
+
+Bob Vila tested the earlier RIKON 50-151, also a one-by-thirty with a five-inch disc, and named it Best Bang for the Buck. They said it did well on smaller projects.
+
+Now, the honest limits. That test was on the earlier model, not this one. Bob Vila said it is not suited to heavy sanding, and enough dust escaped that a mask was a must. And it claims a third of a horsepower from two point three amps, which is generous.
+
+Its place in the lineup is the precision pick.
+
+Buy it if you work small and exact. Do not buy it if you sand big boards.
+
+##P2
+Number two, the DEWALT DXBD4801 4 x 36-Inch Belt and 8-Inch Disc Sander.
+
+This is for the hobbyist who wants the most power and the biggest disc here.
+
+The listing gives a seven-amp motor, the most on this list, and it makes no horsepower claim. Remember the hook math? Seven amps on a household outlet is about eight hundred and forty watts in, so this motor has room to back up its size. The disc is eight inches, two more than the six-inch discs here. You only use the half that spins down toward the table, so the extra size means a wider working face. The belt is four by thirty-six inches. Each side gets its own die-cast aluminum table, and both tilt up to forty-five degrees for bevels. The two-and-a-half-inch dust port has a control knob, so you can pull dust from either side.
+
+I found no outlet that tested this model. ToolGuyd covered its 2025 launch and noted miter gauge slots, so the rest comes from the listing.
+
+Now, the honest limits. ToolGuyd said it was unclear how it stands apart from similar sanders. The listing gives no speeds, weight, or warranty.
+
+So why isn't it number one? Because number one has been tested, and this one has not.
+
+Its place in the lineup is the big-disc pick.
+
+Buy it if you want power and width. Do not buy it if you want proof.
+
+##P1
+Number one, the WEN 6502T 4 x 36-Inch Belt and 6-Inch Disc Sander with Cast Iron Base.
+
+This is for most hobbyists, and it is the one sander here with a hands-on test behind it.
+
+The listing gives a four-point-three-amp motor running up to three thousand six hundred RPM. Bob Vila's chart lists it at half a horsepower, which matches the hook math. The four-by-thirty-six-inch belt tilts anywhere from zero to ninety degrees, and the six-inch disc has its own table and a miter gauge. The cast iron base keeps vibration down, and Bob Vila put the weight at thirty-seven point six pounds. A tension release lever makes switching sandpaper grits quick. It measures about twenty-two inches long, and retailers list a two-year warranty.
+
+Bob Vila tested it and named it Best for Large Tasks. They said the belt quickly smoothed rough wood, on hardwood and softwood. They found the large tool rest and miter gauge helpful, and called belt changes easy.
+
+Now, the honest limits. The dust port alone did not direct the dust, so you need a shop vacuum. With one hooked up, the airborne dust dropped a lot. The testers bolted it down anyway.
+
+It is number one because it was tested, the amps are honest, and the cast iron keeps it steady.
+
+Buy it if you want one sander for everything. Do not buy it if you have no vacuum.
+
+That's why it's number one.
+
+##FREE
+Here is the free upgrade, and it works with any sander on this list.
+
+These tips come from maker guidance and common practice, not a lab test.
+
+First, bolt the sander to your bench through the holes in the base.
+
+Second, hook a shop vacuum to the dust port, and still wear a mask.
+
+Third, sand only on the disc's down-spinning half, so the work is pushed onto the table.
+
+Fourth, use light pressure and keep the piece moving, or you will burn the wood and sand past your line.
+
+Fifth, after every belt change, run it briefly and center the belt with the tracking knob.
+
+Sixth, clean a clogged belt with a rubber cleaning stick, and keep a separate belt for metal, because sparks and sawdust do not mix.
+
+##TAIL
+Before you pay, ask one question: does this claim come from a test or from a label? Three-quarter horsepower is a label. Best Combo Sander, with no test behind it, is a label. Quickly smoothing rough hardwood on a bolted-down machine came from a test.
+
+All seven links are in the description, including the Rockwell. Check the amps, the belt width your projects need, the disc size, the dust port, and whether you can bolt it down.
+
+Here is the quick recap. The WEN 6515T is the small-parts pick. The Woodskil is the dust-control pick. The BUCKTOOL is the direct-drive pick. The RIKON is the precision pick. The DEWALT is the big-disc pick. And for most hobbyists, the WEN 6502T.
+
+Prices move fast, so check before you buy. One thing: tell me the amps on your sander, and the horsepower on its box. If enough of you post, we will compare.
