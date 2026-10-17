@@ -126,6 +126,8 @@ price: d.querySelector('#corePrice_feature_div .a-offscreen')?.textContent
 ## ৩. FACT-CHECK — প্রতিটা কাজে, না বললেও
 
 1. **কমপক্ষে ৩টা স্বাধীন সোর্স।** একটা আউটলেট **৬ বারের বেশি** cite হলে লাল বাতি।
+   - **১-২টা সাইটে আটকে থাকবেন না।** কীওয়ার্ডের সাথে মেলে এমন সব বড় আউটলেট দেখুন। অটো টুলের জন্য: Car and Driver, Popular Mechanics, Road & Track, The Drive। কিচেন/হোমের জন্য: Wirecutter, Consumer Reports, Serious Eats, ATK, Good Housekeeping। টুলের জন্য: Bob Vila, PTR, Family Handyman, This Old House। কোন আউটলেটে আর্টিকেল পাওয়া যায়নি, সেটাও সোর্স টেবিলে লিখুন। (২০২৬-১০-১৭, user feedback: impact wrench-এ শুধু Bob Vila + PTR দেখেছিলাম, অথচ Car and Driver-এর axle-nut টেস্টটাই ছিল সবচেয়ে প্রাসঙ্গিক।)
+   - Hearst সাইট (caranddriver, popularmechanics, roadandtrack) WebSearch, WebFetch আর browser-এ ব্লক। পড়ার উপায়: `web.archive.org/web/2026id_/<url>` browser tab থেকে JS `fetch` + `DOMParser` দিয়ে, CDX API দিয়ে আসল URL খুঁজে। অথবা Yahoo/AOL syndicated কপি।
 2. **সোর্স একমত না হলে সেটাই খবর** — চেপে যাবেন না।
    > "One lab named it Editors' Choice and the fastest ever tested. Another put it fourth of five and wrote that it lacked cutting power."
 3. **প্রতিটা সংখ্যা সোর্সে ফেরত মেলান।**
