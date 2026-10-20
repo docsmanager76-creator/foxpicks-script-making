@@ -1,0 +1,135 @@
+##HOOK
+Four inflators in one truck tire test were rated one hundred fifty psi. Not one of them reached fifty psi. A unit rated just ninety-nine did. That gap between the number on the box and the number on the tire is why most inflator lists mislead truck owners. Here is the part nobody tells you. Only one outlet, Outdoor Life, tested inflators on real truck tires, and nobody has tested them on trailer tires. So I used that test, the passenger tire tests, and the maker specs, and I will label which is which. You will also meet an inflator that two outlets praised, and it cannot do the job a trailer needs. And you will get a free habit that stops you trusting the wrong gauge. All the product links are in the description.
+
+##P6
+Number six, the Slime 40088 Tire Inflator, Portable Car Air Compressor with Digital 99 psi Display.
+
+This is for a truck owner who tops off tires in the driveway and wants something small.
+
+It runs on twelve volts, shows pressure on a digital display, and shuts itself off at your target. The spec table lists a ten foot hose and a one year warranty, and the kit adds a chuck and a Schrader adapter. The maximum is ninety-nine psi, which still covers a trailer tire at eighty.
+
+Outdoor Life tested it on LT275/65R18 truck tires and named it Best Value. It reached twenty-five psi in nine minutes thirty-one seconds, and fifty psi in twenty-three minutes forty-six seconds, at 74.4 decibels, with no carrying case.
+
+Remember this number: twenty-three forty-six to fifty psi. It is slow, but four inflators rated one hundred fifty never got there, and that outlet says those ratings come from bike tires.
+
+Now, the honest limits. That test ran in near freezing weather with the truck running. The heading says 40088 but the link points to 40051, so I trust the heading. Nobody tested it on a trailer tire, and twenty-three minutes is a long time per tire.
+
+Its place in the lineup is the entry pick.
+
+Buy it if you top off tires and want proof it can finish a truck tire. Skip it if you fill a whole set often.
+
+##P5
+Number five, the GSPSCN 12V Heavy Duty Tire Inflator, Metal Portable Air Compressor Pump, model 202.
+
+This is for a truck or trailer owner who wants more airflow and does not mind battery clamps.
+
+It is a double cylinder pump rated at one hundred fifty psi, with a two hundred forty watt motor, and the listing says seventy liters of air a minute. The cylinder, motor, and connecting rod are metal. An eleven and a half foot power cord and an eleven and a half foot hose reach around a pickup. It weighs about six pounds, and the box adds clamps, a storage bag, a spare fuse, and three adapters. The warranty is one year.
+
+AutoGuide named it Best for Heavy-Duty use. The Drive lists seventy-two liters a minute and says it fills a standard seventeen inch tire in about a minute. That is a passenger tire claim, and neither outlet gives a truck tire time.
+
+Now, the honest limits. I found no independent truck tire time. AutoGuide notes there is no digital gauge and no auto shutoff, so you watch the dial yourself. One owner reported hot metal fittings. A farm site claims a fifteen minute duty cycle, which I could not verify.
+
+Its place in the lineup is the airflow pick.
+
+Buy it if you want strong airflow from battery clamps. Skip it if you want auto shutoff.
+
+##P4
+Number four, the VIAIR 88P 00088 12V Portable Air Compressor Kit for Car and Truck Tires.
+
+This is for a truck owner who keeps one compressor behind the seat and wants it to handle bigger tires.
+
+It clamps to the battery with the engine running. Viair rates it at one hundred twenty psi for tires up to thirty-three inches, with a one point four seven CFM free flow. The duty cycle is twenty-five minutes at thirty psi. The kit has a sixteen foot hose, a ten foot power cord, a gauge, and a brass twist-on chuck. It adds an LED light, three tips, a Presta adapter, and a carry bag.
+
+Car and Driver ranked it the fastest corded unit after the Milwaukee, on passenger tires. It also noted that alligator clips are the only way to connect, and that the analog gauge read about ten psi high.
+
+Now, the honest limits. No outlet timed it on a truck tire. One owner comment says thirty-five inch tires took about seventeen minutes to go from twenty to thirty-five psi, which is an anecdote, not a test. The duty cycle is rated at thirty psi, not at the eighty a trailer tire needs. And remember that gauge.
+
+Its place in the lineup is the specialist pick.
+
+Buy it for a corded truck kit with a long hose. Skip it if you need a gauge you can trust without a second one.
+
+##VILLAIN
+Before the top three, the promise I made: the inflator two outlets praised that cannot do a trailer's job. The VIAIR 85P portable compressor.
+
+Reviewed named it a speed pick, with ten psi in forty-three seconds. The Drive called it a best high-end pick. AutoGuide listed it too.
+
+Here is the catch, and it is on paper, not in a lab. Viair's own working limit is sixty psi, for tires up to thirty-one inches, with a twenty minute duty cycle. Load range E trailer tires are typically rated for eighty psi. Reviewed also measured its gauge off by five psi, which is a big miss near sixty.
+
+Those outlets tested it on cars, so their praise is fair. On a sedan, it is a fine inflator. The mismatch is yours, if you take it to a trailer.
+
+Want Viair for truck tires? Number four. Want it for trailers? Number two.
+
+##P3
+Number three, the ETENWOLF VORTEX S6 Tire Inflator, Portable Cordless Air Compressor.
+
+This is for a truck owner who wants no clamps and no cord, and will carry the extra weight.
+
+It has a built-in nineteen thousand two hundred milliamp-hour battery and a dual cylinder pump rated at one hundred sixty psi. The maker claims 1.5 CFM, gauge accuracy within one psi, and a hundred percent duty cycle with a cooling system. It stops automatically at your target, with seven preset modes and a thousand lumen light. USB-C forty-five watt charging also powers your phone. The warranty is two years. The listing says about six pounds, while The Gadgeteer lists eight. The maker says it fills a thirty-one inch tire in about a minute.
+
+The Gadgeteer used it on a Toyota Tundra and liked the pressure it gave and the included adapters. Its only complaint was noise.
+
+Remember this. In the truck tire test, a built-in battery unit died at forty-four psi.
+
+Now, the honest limits. That review was hands-on impressions, with no times, no psi results, and no trailer test. Every speed claim above is the maker's, and a reader there questioned the battery capacity. Nobody has shown this one reaching fifty psi on a truck tire.
+
+Its place in the lineup is the cordless pick.
+
+Buy it if you want no cord. Skip it if you need proof of speed.
+
+##P2
+Number two, the VIAIR 450P-RV Automatic 12V Air Compressor, 150 PSI for RVs and Trucks.
+
+This is for a trailer or RV owner who fills big tires at high pressure.
+
+It clamps to the vehicle battery and is rated at one hundred fifty psi, with 1.8 CFM free flow. Viair rates it for continuous duty at one hundred psi, and RV Love says it ran up to forty minutes. Two thirty foot coil hoses give sixty feet of reach. The tire gun has a built-in gauge and a deflate button. It handles tires up to forty-two inches, weighs thirteen pounds, and has a one year warranty.
+
+RV Love tested a free sample against a cheaper unit and found it faster, stronger, and quieter. A reader said they pumped a diesel pusher's tires to one hundred twenty pounds.
+
+Remember the battery that died at forty-four psi? This one has no battery to die.
+
+So why isn't it number one? Because the Milwaukee has a measured truck tire time, and this one has none.
+
+Now, the honest limits. RV Love gave no times, nobody tested a trailer tire, and the sample came free from Viair. The fast eighty to ninety psi claim belongs to a Class A model, so I am not repeating it.
+
+Its place in the lineup is the trailer pick.
+
+Buy it for trailer and RV tires. Skip it if you want light and cordless.
+
+##P1
+Number one, the Milwaukee M18 Inflator, model 2848-20.
+
+This is for most truck owners, because it is the fastest measured, and it runs on a battery you may already own.
+
+It is a bare tool, so you need an M18 battery and charger. Milwaukee rates it at one hundred fifty psi. It weighs seven point seven pounds and has a thirty-six inch hose. The box holds a brass Schrader chuck, an inflation needle, a nozzle, and a Presta chuck. The warranty is five years.
+
+Outdoor Life named it Best Overall on LT275/65R18 truck tires. It reached twenty-five psi in three minutes six seconds, and fifty psi in six minutes thirty-nine seconds, at 76.5 decibels. It said that was more than three times faster than the closest competition. Remember the Slime's twenty-three forty-six? This is nearly four times as fast.
+
+Car and Driver found it the fastest cordless on passenger tires, with just over a minute to thirty psi and about two and a half minutes to forty-five.
+
+Now, the honest limits. Car and Driver called it large, and the screw-on valve was hard to attach in the cold. Milwaukee's under-a-minute claim is the maker's, so I used measured times. Nobody tested it on a trailer tire. And without a battery, it does nothing.
+
+Buy it if you want the fastest verified on a truck tire. Skip it if you do not own M18 batteries.
+
+That's why it's number one.
+
+##FREE
+Here is the free upgrade, and it matters most on trailers.
+
+Check pressure when the tires are cold, and fill to the number on the vehicle placard or the trailer sticker, not the sidewall. The sidewall number is the tire's maximum, not your target. That is standard tire guidance, so confirm it on your own placard.
+
+Then check your inflator's gauge against a separate gauge. Reviewed found some gauges off by five psi, and one by fifteen. Car and Driver found the Viair 88P's gauge about ten psi high.
+
+On a load range E trailer tire, that error matters. A tire at seventy might read eighty.
+
+Fill, then double-check with the other gauge. Do it before a trip, not at the roadside.
+
+That costs nothing, and it takes a minute.
+
+##TAIL
+Before you pay, ask one question: was it tested on a truck tire? For most inflators, the honest answer is no. Only Outdoor Life did it, and nobody has tested a trailer tire. That is the gap this video tried to be honest about.
+
+All the product links are in the description, including the Viair 85P, so you can see its limits yourself. On each listing, check four things: the real maximum psi, the duty cycle, how the unit is powered, and the hose length.
+
+Quick recap. A slow but proven entry: the Slime. Airflow from clamps: the GSPSCN. A corded truck kit: the Viair 88P. No cord at all: the ETENWOLF. Trailers and RVs: the Viair 450P-RV. And the fastest measured: the Milwaukee M18.
+
+Prices move fast, so check before you buy. Tell me what you fill and how, and if enough of you share, we will get the trailer test nobody ran.
