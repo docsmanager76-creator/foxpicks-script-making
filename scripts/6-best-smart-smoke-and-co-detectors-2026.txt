@@ -1,0 +1,123 @@
+##HOOK
+You search for a smart smoke and CO detector, and you expect one box that does both jobs and texts your phone. Here is what I found. Only two alarms in this video detect smoke and carbon monoxide. The rest cover one gas, or need a hub before they talk to anything. Pick wrong, and one gas goes unwatched in your home, and you may not know it. So which one covers your home? Only one of these has an outlet test behind it, and I say which. One alarm is the villain, and it used to be the famous one. And you get a free check that takes five minutes, before you buy anything. All the product links are in the description.
+
+##P6
+Number six, the Heiman S1-R Smart Wireless Interconnected Smoke Detector, six-pack with gateway.
+
+This is for a big house that needs many smoke alarms and one app.
+
+The listing gives six smoke alarms and one gateway. Each alarm has a dual-beam photoelectric sensor, which looks for slow, smoldering fires. It is certified to UL 217, tenth edition. Each runs on a ten-year CR123A lithium battery, so there are no battery swaps. The siren is eighty-five decibels, with flashing lights and a test and silence button. The alarm measures about seventy millimeters across, and a magnetic pad mounts it without tools. The alarms link to each other with no Wi-Fi at all. Add the gateway, which joins your two-point-four gigahertz Wi-Fi, and the Heiman Home app sends phone and email alerts when an alarm sounds. The listing names Google Home as compatible. The maker gives a ten-year limited warranty.
+
+Remember six alarms and one gateway. They come back at number one.
+
+Now, the honest limits. Every figure is the maker's claim, and I found no outlet test of this kit. It detects smoke only, with no carbon monoxide. It is a newer listing, so the owner history is short. Owner reports are anecdotes, not tests.
+
+Its place in the lineup is the whole-house pick.
+
+Buy it if you need six smoke alarms in one system. Skip it if you want carbon monoxide in the same box.
+
+##P5
+Number five, the Heiman S1-TM Matter Over Thread Smoke Detector, with temperature and humidity sensor.
+
+This is for a smart home that already runs on Matter.
+
+The listing says it joins your home through Matter over Thread, and no Wi-Fi is needed. It does need a compatible hub with a Thread border router. The listing names the Google TV Streamer, Nest Hub, HomePod, Apple TV 4K, some Echo models, and SmartThings hubs. It also lists Alexa, Home Assistant, and Homey. The alarm uses a dual-beam photoelectric sensor and is certified to UL 217, tenth edition. It runs on an included battery, and the table says ten years of fire alarm life. The eighty-five decibel siren has LED indicators and a one-touch test and silence button. The alarm also tracks temperature and humidity, and you can read both in the app. It mounts with a magnet or screws and is about two point eight inches across.
+
+Remember the border router. It comes back in the free upgrade.
+
+Now, the honest limits. All of this is the maker's claim, and I found no outlet test of this alarm. It detects smoke only. I found no warranty term on the page. It is the newest listing here, and the owner history is thin.
+
+Its place in the lineup is the Matter pick.
+
+Buy it if you already own a Thread hub. Skip it if you do not.
+
+##P4
+Number four, the Kidde Smart Carbon Monoxide Detector, plug-in with AA battery backup, model COPDW.
+
+This is for a home that has smoke alarms but needs to watch carbon monoxide.
+
+This is the one pick with an outlet test. Security.org tested it as a standalone smart alarm, and it took about ninety seconds to set up. The unit plugs into a standard outlet, with AA batteries as backup if the power fails. It joins your two-point-four gigahertz Wi-Fi, and the Kidde app sends alerts when you are home or away. The listing names Alexa and Google Home. The sensor is electrochemical, and the unit is listed to UL 2034, fifth edition. The maker gives a ten-year limited warranty on the alarm. A backlit display shows the carbon monoxide level, so you can check it without opening the app. The listing also promises no low battery chirps. It is the only pick here that watches for carbon monoxide alone.
+
+Remember ten years. Remember, too, that this is carbon monoxide only.
+
+Now, the honest limits. It does not detect smoke. The listing bullets are thin, so I leaned on the outlet test. A plug-in unit sits in one outlet, so it cannot cover a whole floor. Owner reports are anecdotes.
+
+Its place in the lineup is the carbon monoxide pick.
+
+Buy it if you want a tested carbon monoxide alarm. Skip it if you need smoke detection.
+
+##VILLAIN
+Before the top three, the promise I made. The Google Nest Protect, the one that was the smart alarm.
+
+It sends Wi-Fi alerts to your phone. It speaks up and tells you where the smoke is. It lets you silence the alarm from the app, and a light turns on as you walk under it.
+
+Now the catch. Google stopped making it in March 2025, according to Tom's Guide and Droid Life, and sent buyers to First Alert. Existing units keep working until they expire, after seven or ten years, depending on the generation. But the listing I checked showed only a few units left and no seller to buy from. I am not calling it a bad alarm. I am saying it is hard to buy and has no future.
+
+Want a Ring alarm that does smoke alone? Number three. Want both gases and hardwired power? Number two.
+
+##P3
+Number three, the Kidde Smart Smoke Detector with Ring, AA battery, model RGSDR-RW.
+
+This is for a renter or anyone who wants no wiring.
+
+The listing gives a smoke alarm that runs on two AA batteries, included. The Ring app sends smoke and low battery alerts to your phone, whether you are home or away, and the listing says no subscription is required. Ring offers optional monitoring, sold separately. The alarm also sends notifications to Alexa devices. Alarms link without wires, so when one sounds, they all sound, and you get mobile alerts for every Kidde alarm in the home. The listing says enhanced sensing reduces false alarms from cooking, compared with earlier Kidde alarms. It claims over twenty-five percent faster smoke detection, based on the maker's own testing against a competitor. It is certified to UL 217 and FCC standards. It suits a bedroom hallway, a basement, or a rented apartment. That makes it the simplest install in this video.
+
+Now, the honest limits. The faster claim is the maker's own test, not an outlet's. I found no outlet test of this model. It detects smoke only, and I found no warranty term on the page. Owner reports are anecdotes.
+
+Its place in the lineup is the no-wiring pick.
+
+Buy it if you want a Ring alarm for smoke alone. Skip it if you want carbon monoxide in the same unit.
+
+##P2
+Number two, the Kidde Smart Smoke and CO Detector with Ring, hardwire with AA battery backup, model RGCUAR-RW.
+
+This is for a home with hardwired alarms already in the ceiling.
+
+The listing gives one unit that detects both smoke and carbon monoxide. It connects to your home power, with AA batteries as backup. The Ring app sends smoke, carbon monoxide, and low battery alerts, and the listing says no subscription is required. Optional Ring monitoring is sold separately. Add one of these, and you get mobile alerts for every hardwired alarm in the home. The listing says it reduces cooking false alarms and sends low-level carbon monoxide alerts. It sends notifications to Alexa devices. It is certified to UL 217 and FCC standards. The listing repeats the maker's claim of faster smoke detection from its own testing. Remember six alarms and one gateway? Here, one smart unit reaches the others.
+
+So why isn't it number one? Because number one needs no wiring.
+
+Now, the honest limits. I found no outlet test of this model, and no warranty term on the page. Hardwired install may need an electrician. The alarm sits in the ceiling box, so the batteries only matter during a power cut. Owner reports are anecdotes.
+
+Its place in the lineup is the hardwired pick.
+
+Buy it if your ceiling already has wired alarms. Skip it if you rent.
+
+##P1
+Number one, the Kidde Smart Smoke and CO Detector with Ring, AA battery, model RGCUDR-RW.
+
+This is for most homes, because one box detects both gases and needs no wiring.
+
+The listing says it alerts you to both smoke and carbon monoxide. It runs on two AA batteries, included. The Ring app sends smoke, carbon monoxide, and low battery alerts, home or away, with no subscription required. Optional Ring monitoring is sold separately. Alarms link without wires, so when one sounds, they all sound, and every Kidde alarm sends its own mobile alert. The listing says it sends low-level carbon monoxide alerts and reduces cooking false alarms. It sends notifications to Alexa devices. It is certified to UL 217 and FCC standards. Remember the hook? Only two alarms here detect both gases, and this is the one without wires. Remember number six, with six alarms and a gateway? Here, one box does the job.
+
+Now, the honest limits. The faster smoke claim is the maker's own test. I found no outlet test of this model, and no warranty term on the page. A battery alarm needs a battery check twice a year. Owner reports are anecdotes.
+
+Its place in the lineup is the best overall pick.
+
+Buy it if you want both gases in one app. Skip it if you want Matter or Google Home.
+
+That's why it's number one.
+
+##FREE
+Here is the free upgrade, and it tells you which alarm you need before you order anything.
+
+First, check the date on every alarm you own. Smoke alarms wear out in about ten years, and carbon monoxide sensors often in five to seven.
+
+Second, put a smoke alarm outside each bedroom and on every level, and a carbon monoxide alarm near sleeping areas.
+
+Third, if you pick a smoke-only alarm, pair it with a carbon monoxide unit. Remember number four?
+
+Fourth, check your router. These alarms use two-point-four gigahertz Wi-Fi. If you choose number five, check your hub for a Thread border router too.
+
+Fifth, press the test button, and confirm the alert reaches your phone, then write today's date on the alarm.
+
+That costs nothing, and it takes five minutes.
+
+##TAIL
+Before you pay, ask one question: does this alarm detect everything my home needs? For most smart alarms, the honest answer is a maker's claim, with no test behind it. I could read two outlet sources for this video. Security.org tested number four. Tom's Guide and Droid Life covered the villain. Nothing I could read tests numbers six, five, three, two, or one.
+
+All the product links are in the description, including the Google Nest Protect. On each one, check four things: which gas it detects, how it powers on, how it connects, and the warranty term.
+
+Quick recap. The whole-house pick: the Heiman S1-R. The Matter pick: the Heiman S1-TM. The carbon monoxide pick: the Kidde COPDW. The no-wiring pick: the Kidde RGSDR. The hardwired pick: the Kidde RGCUAR. And the best overall pick: the Kidde RGCUDR.
+
+Prices move fast, so check before you buy. Tell me what smart home you run, and if enough of you share, we will look at smart locks next.
