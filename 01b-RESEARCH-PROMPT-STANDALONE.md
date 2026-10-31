@@ -103,13 +103,13 @@ For each pick:
 === STEP 7 — HOOK, MYTH, VILLAIN, CALLBACKS, FREE UPGRADE ===
 HOOK — six types: 1 Collision, 2 Data Wall, 3 Reader's Pain,
   4 Contradiction, 5 Absurd Number, 6 Category Lie.
-  The last video used hook 6, so do NOT use 6. Tell me which type the evidence
+  The last video used hook 4, so do NOT use 4. Tell me which type the evidence
   supports and give the raw material. The hook names testing outlets but no picks.
 MYTH — one spec buyers shop by that does not predict measured results. Prove it
   with real numbers from two named products.
 VILLAIN — types: A Discontinued/unbuyable darling, B Hype/viral, C Overpriced
-  premium or famous name, D Functional failure. The last video used C, so do
-  NOT use C. A well-known product reviewers recommend, contradicted by a sourced,
+  premium or famous name, D Functional failure. The last video used B, so do
+  NOT use B. A well-known product reviewers recommend, contradicted by a sourced,
   specific failure. Must NOT be one of the picks. Give a link for it too
   (listing, or the maker's page if it has no buy box). It will sit after #4.
 CALLBACKS — C1: a figure from #6 (or #5) that returns at #1. C2: a cost or
@@ -149,5 +149,5 @@ approval. Do not write the script.
 ---
 
 ## মনে রাখবেন
-- **Hook/villain rotation:** প্রতিবার ব্যবহারের আগে `03-HOOK-PLAYBOOK.md`-এর শেষ লাইন দেখে প্রম্পটের "last video used hook 6 / villain C" লাইন দুটো বদলে দিন।
+- **Hook/villain rotation:** প্রতিবার ব্যবহারের আগে `03-HOOK-PLAYBOOK.md`-এর শেষ লাইন দেখে প্রম্পটের "last video used hook 4 / villain B" লাইন দুটো বদলে দিন।
 - রিসার্চ চ্যাট থেকে dossier এলে এই প্রজেক্টে এনে স্ক্রিপ্ট লেখান (`02-SCRIPT-PROMPT.md`)।
