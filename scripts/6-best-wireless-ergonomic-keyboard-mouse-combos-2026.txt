@@ -1,0 +1,123 @@
+##HOOK
+Every ergonomic keyboard box on the shelf sells the same thing: wrist support. A cushioned rest, more padding, more support for your wrists.
+
+RTINGS has bought and tested three hundred two keyboards, and it says the opposite. A rest should hold the firm heel of your palm, not your wrist, because resting on the wrist presses on sensitive tendons and nerves. So the feature on the front of the box can work against you if you use it the way the box suggests.
+
+Six wireless keyboard and mouse combos made this list, from an entry-level split set to a vertical-mouse combo. I'll show you which one gets the angles right, why kicking out the back feet is the wrong move, and the famous combo I would not buy now. Then there's a free setup habit that costs nothing. All the product links are in the description.
+
+##P6
+Number six, the MEETION Ergonomic Keyboard and Mouse Combo, Split Design, Vertical Mouse.
+
+This is for someone trying a split keyboard and a vertical mouse for the first time, without a big commitment.
+
+No outlet I found tested this set, so everything here is MEETION's claim. The keyboard splits its keys into two angled halves on one full-size board, with a concave curve and a pillowed palm rest. It measures about nineteen by ten inches. The vertical mouse holds your hand in a handshake position. It has four DPI steps from eight hundred to twenty-four hundred, a silent switch and a side scroll wheel. Hold that vertical mouse, because number one uses the same idea in a better-known shape.
+
+Both pieces charge their own five hundred milliamp-hour batteries, and MEETION claims one to two months per charge. They share one USB-A receiver with a range of about thirty-three feet.
+
+Now, the honest limits. There is no Bluetooth, only the receiver. The listing warns that the small USB-C piece in the box is an adapter, not a receiver, so it only works plugged into the USB-A receiver. A fixed split layout also takes days to get used to, and no software is mentioned for remapping keys.
+
+Its place in the lineup is the entry point. Buy it to try split and vertical together. Skip it if you switch between a laptop, a tablet and a phone.
+
+##P5
+Number five, the Logitech Wave Keys MK670 Wireless Ergonomic Keyboard and Mouse Combo.
+
+This is for someone moving from a flat keyboard who wants an ergonomic shape that feels familiar on day one.
+
+RTINGS made the Wave Keys keyboard its entry-tier ergonomic pick. It has a gentle wave that rises toward the middle and a full set of keys in a smaller footprint. That footprint pulls the mouse closer to your body, and Logitech says that gives a more natural shoulder position. A memory-foam palm rest is built in. The keyboard connects by Bluetooth or a Logi Bolt receiver and switches between three devices.
+
+The mouse is the Signature M550 L, shaped for medium to large hands, with a rubber side grip, quieter clicks and a SmartWheel. Logi Options+ software lets you set shortcuts.
+
+Now, the myth. Kick out the back feet for comfort. The same lab says most keyboards tilt up at the back, and that bends your wrists upward. A negative tilt, with the front higher, reduces that bend. You are buying an angle, not a pair of feet.
+
+Now, the honest limits. The Wave Keys has no negative tilt at all, the lab notes, and its keys sit a little closer than usual. The Easy-Switch button covers the keyboard, not this mouse.
+
+Its place in the lineup is the value pick. Buy it for a gentle start. Skip it if you have small hands.
+
+##P4
+Number four, the Kensington Pro Fit Ergo KM675 EQ Wireless Desktop Set.
+
+This is for the office worker who wants negative tilt and a vertical mouse in the same box.
+
+Here is the myth paid off. The keyboard has legs at the front edge, not the back, so it can tilt away from you. RTINGS made a sibling, the Pro Fit Ergo Wireless Keyboard, its entry-tier pick for exactly that negative tilt. Engadget made another sibling, the KB680, its entry-level ergonomic pick.
+
+This set pairs a compact curved keyboard and built-in wrist pad with a full-size vertical mouse for larger hands. The mouse has five buttons, silent switches and three DPI steps. Both pieces run on built-in five hundred milliamp-hour batteries that charge over USB-C. You can pair three devices, two over Bluetooth and one through the receiver, with 128-bit AES encryption and about ten meters of range. There are video-call keys, an AI launch key and RGB status lights. Kensington Konnect and KensingtonWorks software let you remap keys and record macros. The keyboard measures about fifteen by nine inches and an inch and a half tall.
+
+Now, the honest limits. No outlet tested this exact set, only its siblings. The lab found that sibling's plastic flimsier than pricier boards. And the full-size mouse will feel big in a small hand.
+
+Its place in the lineup is the negative-tilt specialist. Buy it for posture. Skip it for small hands.
+
+##VILLAIN
+Before the top three, the promise I made. The Microsoft Sculpt Ergonomic Desktop.
+
+Here is the steel-man. For years this was the default ergonomic combo. It has a split keyset, a domed shape, a natural arc to the keys, a cushioned palm rest and a separate number pad. CNBC reported that Wirecutter recommended a Microsoft keyboard. Engadget still calls Logitech's ERGO K860 the replacement for the now-discontinued Sculpt.
+
+Now the problem. In 2023, CNBC reported that Microsoft was sunsetting its well-known ergonomic products, including this desktop. The listing that remains is sold by a third-party seller, and its own description describes a different Sculpt keyboard. Incase later revived the keyboard design under license, but that is not this set.
+
+A combo nobody makes anymore is a museum piece with extra steps.
+
+Buy number one or number four instead. Keep this only if you find sealed stock, or skip it.
+
+##P3
+Number three, the Logitech MK850 Performance Wireless Keyboard and Mouse Combo.
+
+This is for the worker who switches between a desktop, a laptop and a tablet all day.
+
+Reviewed named the MK850 its best keyboard and mouse combo for most people. It connects by Bluetooth or a USB receiver, and both the keyboard and the mouse pair with up to three devices. It lists battery life at thirty-six months for the keyboard and twenty-four for the mouse.
+
+The keyboard is full size with a curved keyframe and a cushioned palm rest. The mouse is contoured for the right hand, with a hyper-fast scroll wheel for long documents. Logitech's DuoLink software links the two for gestures, like holding a key while you scroll.
+
+Remember the myth from number five. Reviewed says the rear feet set the board flat, at four degrees or at eight. Those two tilted settings raise the back of the keyboard, the angle that bends your wrists upward. So use it flat.
+
+Now, the honest limits. The mouse is right-handed only. The full-size board pushes the mouse farther from your body than a compact one does. Battery figures come from Logitech, not a measured test. In the box, the receiver usually sits inside the mouse under the battery cover, so check there before you think it is missing.
+
+Its place in the lineup is the multi-device pick. Buy it for three devices. Skip it if you are left-handed.
+
+##P2
+Number two, the Logitech Signature Comfort Plus MK880 Keyboard and Mouse Combo.
+
+This is for someone who wants the most padding and the most shaped mouse in a regular-looking set.
+
+Reviewed called the MK880 its most ergonomic combo and tested it on two Windows PCs and an iPad. They said it reduces wrist and forearm strain and switches between three devices. The keyboard is curved, with a dual-foam palm rest and adjustable tilt legs. The mouse has a palm cushion built into the shell and soft side grips, and Logitech says it fits most hand sizes. Easy-Switch moves between the three devices with one key.
+
+Logitech claims up to thirty-six months of battery for the keyboard and twenty-four for the mouse. You get meeting-control keys, an AI launch key, quiet clicks and a SmartWheel. Logi Options+ lets you set buttons and adjust DPI, and at least forty-nine percent of the plastic is recycled.
+
+Now, the honest limits. It connects by Bluetooth only, so it needs a computer with Bluetooth. Reviewed noted the palm rest is not removable and the mouse is right-handed only. Its tilt legs raise the back, so keep them folded.
+
+So why isn't it number one? Because the shape is gentle and the mouse is still a regular mouse, not a vertical one.
+
+Its place in the lineup is the premium comfort pick. Buy it for cushioning. Skip it without Bluetooth.
+
+##P1
+Number one, the Logitech Wave Keys and Lift Vertical Mouse Ergonomic Wireless Combo.
+
+This is for most people who want an ergonomic setup they can adapt to in a week.
+
+Remember the vertical mouse at number six. Here is the better-known version. Logitech's Lift holds your hand at fifty-seven degrees, in a handshake position, and is made for small to medium hands. It has a softly textured grip and a snug thumb rest. Tom's Hardware praised its ergonomics, and it advised people with large hands to look at Logitech's bigger MX Vertical instead.
+
+The keyboard is the same Wave Keys that RTINGS chose at the entry tier. It has a gentle wave, a memory-foam palm rest and plunger switches that Logitech calls tactile and discreet. Its compact footprint keeps the mouse close. Both connect by Bluetooth Low Energy or a Logi Bolt receiver. You get whisper-quiet clicks, a SmartWheel that adjusts scroll speed, and Logi Options+ for shortcuts. Logitech says both pieces were designed, tested and approved to criteria set by ergonomists, and both use recycled plastic.
+
+Now, the honest limits. The Wave Keys has no negative tilt, so keep the board flat. A vertical mouse takes a few days to learn. And large hands will crowd the Lift.
+
+Its place in the lineup is the best balance of shape and comfort. Skip it if your hands are large. Buy it for the best angles.
+
+That's why it's number one.
+
+##FREE
+Here is the free upgrade, and it works with every combo on this list. The enemy is not your keyboard, it is how you lean on it.
+
+RTINGS says a palm rest should hold the heel of your palm, not your wrist. So rest your palm heels there while you pause, not while you type, and float your hands while you type.
+
+Then check the feet. Fold back any rear feet so the board sits flat or slopes away from you. Negative tilt reduces how far your wrists bend upward, the lab says.
+
+Last, pull the mouse in close, because a smaller layout brings it nearer your body.
+
+That habit costs nothing, and it decides whether your new combo helps your wrists or just looks like it does.
+
+##TAIL
+Before you pay, ask one question: how big are your hands? A vertical mouse that fits small hands cramps large ones, and a big mouse swamps small ones. No ergonomic badge on a product page tells you that.
+
+All seven links are in the description, including the Microsoft Sculpt. Check how each set connects. The MK880 is Bluetooth only, and the MEETION is receiver only. Check which hand size each mouse is made for. And check the feet, because front legs and back legs are not the same thing.
+
+Quick recap. Trying split and vertical for the first time, the MEETION. A gentle first step, the Wave Keys MK670. Negative tilt, the Kensington KM675 EQ. Three devices, the MK850. The most cushioning, the MK880. And for most people, the Wave Keys and Lift.
+
+Prices move fast, so check before you buy. Tell me which one you picked, and whether your hands are small, medium or large.
