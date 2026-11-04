@@ -111,7 +111,7 @@ QUICK RESEARCH — {CATEGORY}. No preamble.
 
 1. Three roundups from the last 12 months, from outlets that actually test.
 2. Every product appearing in 2+ of them = shortlist.
-3. Browser: Amazon top 20. For each — ASIN, rating, ratings count,
+3. Scrape.do (tools-scrapedo.js, never direct Amazon): Amazon top 20. For each — ASIN, rating, ratings count,
    past-month badge, buy box. Drop anything failing the three rules.
 4. Assign six slots: entry, value, specialist, large, premium, best-for-most.
    No two near-identical. If fewer than six survive, say so.
