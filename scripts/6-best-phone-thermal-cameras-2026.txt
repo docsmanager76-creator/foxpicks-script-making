@@ -1,0 +1,115 @@
+##HOOK
+One phone thermal camera prints two hundred forty by one hundred eighty on its box. Its own fine print says the sensor is eighty by sixty. That is four thousand eight hundred real temperature points, sold under a number that suggests forty three thousand. TechRadar's Mark Pickavance wrote that most marketing avoids mentioning that sensor. PCWorld tested another camera and wrote that the upscaling adds no real sensor detail. And it is not one brand. Almost every camera that plugs into a phone sells the stretched number. So I ranked six of them by the detector, not the sticker. I will show you the one box that prints its real pixel count, the one that wins for most people, and the famous name that is today's villain. Plus a free habit that fixes bad readings. All the product links are in the description.
+
+##P6
+Number six, the Thermal Master P1 thermal camera for USB-C iPhone and Android.
+
+This is for the person who needs thermal now and then, and wants it in a pocket, not in a toolbox.
+
+The real detector is one sixty by one twenty, so nineteen thousand two hundred true temperature points. The box says three twenty by two forty. TechRadar wrote that the bigger number is extrapolated, which means software stretching the same data. Sensitivity is forty millikelvin, so a cold draft along a window frame still shows up. It reads from minus four to eleven hundred twelve degrees, and the maker rates accuracy at plus or minus three point six degrees. You get fifteen times digital zoom, high and low alarms, an isotherm mode, and emissivity settings. It weighs six tenths of an ounce and has no battery of its own. It pulls just zero point three two watts from the phone, and the maker claims five to eight hours. Hold that number, because a famous camera a tier above it runs on its own battery.
+
+Now, the honest limits. TechRadar found the plastic case less durable than metal rivals, and there is no tripod. The lens is fixed focus. On an iPhone it needs USB-C, because the Lightning adapter is sold separately.
+
+Its place in the lineup is the entry pick.
+
+Buy it for occasional drafts and warm breakers. Skip it if you repair circuit boards.
+
+##P5
+Number five, the TOPDON TC001 thermal imaging camera for Android.
+
+This is for an Android owner who wants the bigger sensor class, one step up from entry.
+
+Remember the nineteen thousand points at number six? This detector is two fifty six by one ninety two, so forty nine thousand points, two and a half times as many. Here is the myth this whole category sells: a bigger number on the box means a sharper camera. TOPDON prints five twelve by three eighty four. That is the same forty nine thousand points, stretched by software. PCWorld, testing this sensor in another camera, found interpolation adds no detail. You're buying a sensor, not a number.
+
+The range runs from minus four to one thousand twenty two degrees, and TOPDON rates accuracy at plus or minus two degrees Celsius or two percent. You can measure up to nine spots, lines or areas at once, in nine color palettes. It weighs about an ounce, with a nineteen point seven inch cable in the box. Notebookcheck tested its sibling, the TC002C Duo, and reports that the two share the same sensor and housing.
+
+Now, the honest limits. It works with Android only, through an OTG port. TOPDON says to confirm with support that your phone runs the sharpening mode.
+
+Its place in the lineup is the value pick.
+
+Buy it for an Android phone and house work. Skip it if your family uses iPhones.
+
+##P4
+Number four, the Klein Tools TI223 mobile thermal imaging camera for iPhone and Android.
+
+This is for the electrician or HVAC tech who wants a thermal dongle from a brand already in the van.
+
+Here is the camera from the start that prints its real pixel count. Klein's box says nineteen thousand two hundred pixels. That is a one sixty by one twenty sensor, the same class as number six, and Klein makes no super resolution claim at all. A box that tells you the truth beats a box that tells you a big number.
+
+It plugs into any USB-C iPhone or Android phone, and it fits through a case up to one fifth of an inch thick, so the phone stays cased. The app shows spot temperature, the high, the low, and a differential readout. That is the gap between two points, the number you want when you compare two breakers. It records photos, video and time lapse, so you can watch a motor warm up. It reads from minus four to seven hundred fifty two degrees, in ironbow, rainbow or grayscale. It weighs just over an ounce.
+
+Now, the honest limits. Nobody I could find has tested it. Klein publishes no accuracy or sensitivity figure on the listing, and its ceiling is the lowest here.
+
+Its place in the lineup is the specialist pick.
+
+Buy it for panels and HVAC work. Skip it for engines and exhausts.
+
+##VILLAIN
+Before the top three, the promise I made. The FLIR ONE thermal camera for USB-C iPhones.
+
+FLIR is the name most people know in thermal, and on paper this one looks smart. It is rated to survive a five foot drop. MSX lays visible edges from the phone camera over the heat image, so a breaker label reads clearly. And the app walks you through home inspections, step by step.
+
+Now the kill shot, from its own listing: the sensor is eighty by sixty. That is four thousand eight hundred points, a quarter of number six. The same listing shows one hundred fifty millikelvin sensitivity and a one hour battery. TechRadar's Mark Pickavance wrote that most marketing avoids mentioning that sensor size.
+
+A thermal camera with four thousand eight hundred pixels is a heat guessing toy with a famous logo.
+
+Want small? Number six. Want the FLIR name? Wait for number three.
+
+##P3
+Number three, the FLIR ONE Pro thermal imaging camera for Android USB-C.
+
+This is for the tradesperson who drops things and wants the most trusted name in thermal on the phone.
+
+Remember the villain's eighty by sixty? The Pro steps up to one sixty by one twenty, nineteen thousand two hundred real points, and FLIR says so in its own bullet. That matches number six. The box number, four eighty by three sixty, is FLIR's VividIR processing. MSX lays sharp visible edges over the heat image, so a pipe or a breaker is easy to place. It is rated for a five foot drop, the only camera here with a published drop rating. The app includes step by step inspection guides, and FLIR lists uses from home inspection to automotive and machinery. A separate USB-C iPhone version exists too.
+
+Remember the zero point three two watts from number six? This one carries its own battery, and the listing shows about one hour of life. So charge it before every job.
+
+Now, the honest limits. FLIR rates accuracy at plus or minus three degrees Celsius or five percent, the loosest on this list, and only while the camera itself sits between fifteen and thirty five degrees Celsius. Hold that, because number two fixes it.
+
+Its place in the lineup is the rugged pick.
+
+Buy it for jobsites and drops. Skip it if you need precise readings.
+
+##P2
+Number two, the Thermal Master P4 dual lens thermal camera for Android.
+
+This is for Android users doing building work who want the heat map and the real picture together.
+
+Remember FLIR's loose accuracy at number three? The P4 rates plus or minus three point six degrees Fahrenheit, which is two Celsius, from minus four to eleven hundred twelve. Sensitivity is under thirty five millikelvin, tied for the finest on this list. And instead of drawing edges with software, it carries a real second camera. TechRadar tested it and called it a significant improvement over number one, and better than any phone thermal camera it had seen. You get four imaging modes, including MIX, which fuses both views live. IR Eraser lets you swipe across the heat image to reveal the real wall underneath, to place the leak. The detector is two fifty six by one ninety two, at twenty five frames a second, with a fifty six degree field of view. It runs off the phone, the maker claims up to five hours, and a carry bag is in the box.
+
+So why isn't it number one? It is Android and Windows only, with no iPhone app. The tester also found no macro focus, no tripod, and a heat image that lags the visible one when you move.
+
+Its place in the lineup is the premium pick.
+
+Buy it for inspections on Android. Skip it for circuit boards.
+
+##P1
+Number one, the Thermal Master P3 thermal camera for iPhone and Android.
+
+This is for most people: one camera for any phone in the house, and for circuit boards.
+
+Remember the myth from number five? The P3 carries the same two fifty six by one ninety two detector as number two, and sells it as five twelve by three eighty four. The difference is the lens. It has a real manual focus ring, rated from about a third of an inch out to eighty meters, to find one hot chip on a board. Number two stops at about six inches. PCWorld checked it against a contact thermometer, and on matte surfaces it stayed within one and a half degrees Celsius. Sensitivity is thirty five millikelvin, from minus four to eleven hundred twelve degrees. It fits USB-C iPhones and Android, and the box adds a Lightning adapter, an extension cable, a USB-A adapter and a case. It sips zero point three watts, for a claimed five to eight hours. The aluminum body weighs under an ounce, and the app adds reports, alarms, and twelve palettes, no account needed.
+
+Now, the honest limits. PCWorld found the app dated and partly machine translated, and the sharpened mode blurs when you pan.
+
+Its place in the lineup is the best for most pick.
+
+Buy it for one camera that does everything. Skip it if you need a second lens.
+
+That's why it's number one.
+
+##FREE
+Here is the free upgrade, and it works on every camera on this list.
+
+Shiny metal lies to thermal cameras. PCWorld found that bare metal reflections distort readings, because polished metal gives off little heat of its own and mirrors the room instead. So before you trust a number on a pipe, a busbar or a frying pan, stick a strip of matte masking tape on it. Give the tape a minute to match the surface, then read the tape, not the metal. Then set emissivity in the app for the material you are reading. And remember, thermal does not see through wood, concrete, water or glass. It reads the surface facing it.
+
+That habit costs nothing, and it decides whether you trust a reading or chase a ghost.
+
+##TAIL
+Before you buy, ask one question: what is the real detector resolution? Not the super resolution, the sensor. Most product pages bury it in a bullet, and a few never print it at all.
+
+All the product links are in the description. On each listing, check your phone's port, and whether a Lightning adapter is in the box. Two picks, the TOPDON TC001 and the Thermal Master P4, will not work on an iPhone. The FLIR ONE Pro comes in separate Android and iPhone versions, so buy the right one.
+
+Quick recap. Occasional drafts: the Thermal Master P1. An Android phone and house work: the TOPDON TC001. Panels and HVAC: the Klein Tools TI223. Jobsites and drops: the FLIR ONE Pro. Inspections with a second camera on Android: the Thermal Master P4. And one camera for most people: the Thermal Master P3.
+
+Prices move fast, so check before you buy. Tell me which one you picked, and what you would point it at first.
