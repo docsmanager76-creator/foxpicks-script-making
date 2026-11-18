@@ -1,0 +1,101 @@
+##HOOK
+One four thousand watt wall heater. Its own listing says it heats seven hundred fifty square feet, and the spec table on that same page says six hundred. A national hardware co-op lists the exact same model at four hundred. Same heater, same watts, three different rooms. Another model's spec table claims thirty square feet, which is roughly a closet. Bob Vila named one of these six the best bang for the buck, but nobody put them on a test bench. So I decoded the maker's own spec sheets instead: volts, watts, amps, warranty, and what actually ships in the box. You will hear which number to buy by, and you will meet the heater that borrows this brand's model number without being made by it. There is also a free check for the heater already in your wall. All the product links are in the description.
+
+##P6
+Number six, the Cadet Com-Pak CSC151TW 1500W 120V Electric Wall Heater with Thermostat.
+
+This is for a bedroom or bathroom in a house with only one hundred twenty volt circuits.
+
+Bob Vila named the Com-Pak the best bang for the buck, though that came from research, not a hands on test. The box holds a galvanized steel wall can, the heater assembly, the grille, and a built in thermostat you set from forty to eighty five degrees. It puts out fifteen hundred watts, or fifty one hundred twenty B T U, and a centrifugal fan spreads it. Cadet's spec sheet lists a rough-in hole of eight by ten and an eighth by four inches, and the heater and grille go in with three screws. It mounts horizontally or vertically. A high temperature shutoff cuts power if it runs too hot, and it is U L listed. Cadet rates it for two hundred square feet, so keep that number. It weighs seven pounds, with a two year warranty.
+
+Now, the honest limits. It pulls twelve and a half amps, and code sizes heater circuits at one hundred twenty five percent of the load, so plan on a twenty amp circuit.
+
+Hold one more number, one hundred twenty volts, because a heater four places above it can't run on that at all.
+
+Buy it for a small room on a plain circuit, skip it if you want to plug in today.
+
+##P5
+Number five, the Cadet Com-Pak CSC202TW 2000W 240V Electric Wall Heater with Thermostat.
+
+This is for anyone who already has, or is adding, a two hundred forty volt line.
+
+Here is the myth I promised. Number six makes fifteen hundred watts, and Cadet rates it for two hundred square feet. This one makes two thousand watts, a third more heat, and its listing claims the same two hundred square feet. A room size on a box is a guess, but watts are a fact. Each watt is about three point four B T U, so this one gives sixty eight hundred twenty five. The other half of the story is current. At two hundred forty volts it pulls just eight point three amps, against twelve and a half for number six. The listing gives an eight by ten and a quarter inch cut-out and a nine by twelve inch grille. Inside are the same built in adjustable thermostat, the same quiet centrifugal fan, and a high temperature shutoff. It weighs seven pounds and ships complete with the wall can.
+
+Now, the honest limits. Check your building's voltage first, because on two hundred eight volts, common in apartments, it drops to fifteen hundred watts. Cadet also allows ceiling mounting only on fifteen hundred watt models, so this one stays on the wall.
+
+Buy it for a medium room on two forty, skip it if your panel has no spare space.
+
+##P4
+Number four, the Cadet Com-Pak Bath CBC103TW 1000W Wall Heater with Thermostat and Timer.
+
+This is for a bathroom, where heat should come on fast and never get forgotten.
+
+No outlet has reviewed the bath model, so everything here comes from Cadet's own listing. What sets it apart is the timer. Cadet calls it a thermostat override timer, built to protect your bathroom while heating, so nobody leaves the room cooking all day. The knob works in two steps. Turn it all the way right to the temperature you want, then back left until it clicks. It is a thousand watts, or thirty four hundred fifteen B T U. The listing names both two hundred forty and one hundred twenty volts, at four point two or eight point three amps. That helps when you swap out an older bathroom heater on whatever circuit is already there. Cadet rates it for one hundred fifty square feet, and an automatic high temperature shutoff backs up the timer. The listing gives twelve and three quarters by ten by four and a half inches. Cadet backs it with a three year warranty, a year longer than the standard Com-Pak.
+
+Now, the honest limits. A thousand watts is small heat. It takes the chill off a bathroom, but it won't heat a bedroom, and that two step knob confuses guests.
+
+Buy it for a cold bathroom, skip it for any living space.
+
+##VILLAIN
+Before the top three, the promise I made. The CSC151TW that Cadet didn't make.
+
+On paper, it looks like the real thing, and better. The title carries Cadet's exact model and part number, with the same fifteen hundred watts, the same two hundred square feet, and a built in thermostat. It even adds a spec Cadet never publishes, thirty decibels. Nobody reviewed it, but the search box puts it right beside the real one.
+
+Then read the small print. The brand and manufacturer fields both say Affectnianly, not Cadet. Its listing says do it yourself enthusiasts can try to install it alone. That is a hardwired twelve and a half amp heater, and Cadet's own listing says use a qualified electrician. No warranty term appears anywhere.
+
+A model number without the maker behind it is a sticker with extra steps.
+
+Buy number six instead, and check that the byline says Cadet.
+
+##P3
+Number three, the Cadet Com-Pak Twin CSTC402TW 4000W 240V Electric Wall Heater with Thermostat.
+
+This is for a family room, basement, or open entry that a single wall heater can't keep up with.
+
+Remember the myth? Here it gets absurd. The bullets say seven hundred fifty square feet, the spec table says six hundred, and a hardware co-op says four hundred. So read the watts. It is two fan forced heaters behind one grille, making four thousand watts at two hundred forty volts, about thirteen thousand six hundred fifty B T U. At two hundred eight volts it drops to three thousand. The built in thermostat runs from forty to eighty five degrees. The wall can is twenty gauge powder coated steel, and the unit is assembled in the U S A. It recesses between standard studs, the grille measures sixteen and a quarter by twelve inches, and it weighs eight point three pounds with a two year warranty.
+
+Now, the honest limits. It draws almost seventeen amps, which puts it past a twenty amp circuit under code sizing, so expect a heavier breaker and wire. It installs horizontally only. If the safety shutoff trips, it stays off until you reset it by hand.
+
+Remember two things here, an analog dial and a two year warranty, because number two fixes one and number one fixes the other.
+
+Buy it for a big drafty room, skip it for a bedroom.
+
+##P2
+Number two, the Cadet Register RMC162W 1600W 240V Multi-Watt Electric Wall Heater.
+
+This is for someone who wants a heater built to last decades, in a bedroom, office, or den.
+
+Remember the two year warranty at number three? Cadet backs this one for five years, and the build explains why. It uses a heavy duty steel heating element instead of the Com-Pak's open coil. It is rated at sixteen hundred, nine hundred, or seven hundred watts at two hundred forty volts. One heater can match a big room or a small one, from about fifty four hundred B T U down to twenty four hundred. At full power it draws six point six seven amps, and Cadet rates it for up to two hundred fifty square feet. It drops into its wall can and fastens with a single screw. A high temperature shutoff protects the room, and a powder coat finish smooths the edges. The box holds the wall can, heater, and white grille. It weighs nine pounds and is assembled in the U S A.
+
+So why isn't it number one? The box lists no thermostat, so you plan a separate wall thermostat. And remember number six? This one can't run on one hundred twenty volts at all, so in a house without a two forty line it is a nonstarter.
+
+Buy it for a room you'll heat for decades, skip it if you have no two forty line.
+
+##P1
+Number one, the Cadet Energy Plus CEC163TW 1600W Multi-Volt Wall Heater with Digital Thermostat.
+
+This is for most people, especially anyone replacing an old Cadet already in the wall.
+
+Remember the analog dial on number three? This one has a backlit digital display with push buttons. Cadet says its controls and auto-adjusting fan hold the room within one degree of your setting, and claims up to thirty percent less energy than a standard wall heater. Here is the honest version. The Department of Energy says every electric resistance heater turns nearly all its power into heat, so any saving comes from tighter control, not a better element. Night and Away buttons drop to a preset setback temperature. A multi-volt sensor reads your supply automatically, giving a thousand watts on one twenty, fifteen hundred on two oh eight, and sixteen hundred on two forty. The variable speed fan runs quietly, with a fan only mode for summer and a high temperature shutoff. Tamperproof settings lock a minimum and maximum for rentals. Best of all, it fits existing Com-Pak wall cans, the same can as number six, so there is no wall patching. The owner's manual gives a five year warranty.
+
+Now, the honest limits. On one twenty it is only a thousand watts, and it sits at the top of this lineup.
+
+Buy it for almost any room, skip it if a basic dial is enough.
+
+That's why it's number one.
+
+##FREE
+Here is the free upgrade, and it is for the Cadet that may already be in your wall.
+
+In two thousand, Cadet and the C P S C recalled about one point nine million Cadet and Encore in-wall heaters. The agency said they could overheat and push sparks through the grille. Recalled models start with letters like F W, F X, L X, T K, or Z A. Here is the check. Turn the breaker off first, remove the grille, and read the model label on the front of the heater assembly. While it is open, check the air intake, because lint blocks airflow and a blocked heater runs hot. Vacuum gently, since the wires are delicate.
+
+That check costs nothing, and it decides whether you replace one or keep one.
+
+##TAIL
+Before you buy, ask one question: is my circuit one twenty, two forty, or two oh eight? That decides your watts before any feature does, and no product photo shows your breaker panel.
+
+All the product links are in the description. All six are hardwired, so book an electrician and check the voltage label before the wall comes open. On every listing, check that the brand line says Cadet and the model letters match.
+
+Quick recap. A small room on a plain circuit: the Cadet CSC151TW. A medium room on two forty: the CSC202TW. A cold bathroom: the Com-Pak Bath CBC103TW. A big drafty room: the Com-Pak Twin CSTC402TW. Heat for decades: the Register RMC162W. And most rooms, for most people: the Energy Plus CEC163TW.
+
+Prices move fast, so check before you buy. Tell me in the comments which Cadet you picked, and how old the heater in your wall is.
