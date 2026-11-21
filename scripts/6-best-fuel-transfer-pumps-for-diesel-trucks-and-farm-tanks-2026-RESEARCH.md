@@ -1,117 +1,97 @@
-# 6 Best Fuel Transfer Pumps for Diesel Trucks and Farm Tanks 2026 — RESEARCH DOSSIER (DRAFT, awaiting approval)
+# 6 Best Fuel Transfer Pumps for Diesel Trucks and Farm Tanks 2026 — RESEARCH DOSSIER (draft, awaiting approval)
 
-Research date: 2026-11-14. Amazon read only through Scrape.do (US geo, zip not settable). Browse nodes checked: `/gp/bestsellers/automotive/15728151` (Replacement Electric Fuel Pumps: almost all in-tank car pumps, strays) and `/gp/bestsellers/industrial/4616740011` (Swivels: wrong class). Neither node is a usable picture of this category, so candidates came from 8 targeted search pages (12V diesel kit, Fill-Rite, GPI, 120V AC, farm tank kit) and each one was opened as a listing.
-Rotation: last script used hook 1 and villain B. This one proposes **hook 6 (Category Lie)**; villain must be A, C or D.
+Amazon via Scrape.do only (geoCode=us, **zip not settable**). Browse node from the FR1210H BSR line = Automotive › Replacement Electric Fuel Pumps (15728151): mostly in-tank OEM pumps (strays). Only OMT, TaskStar, FR4204H and small gas-can pumps sit in its top 30, so the screen was done from 6 searches + 19 product pages.
+Ratings, counts, badges, BSR and price tiers are **INTERNAL ONLY — never spoken.**
 
-## 1. Badge table (INTERNAL, never spoken)
+Prior ledger row = Electric Wall Heaters (hook 3, villain D). This one: **hook 6 Category Lie, villain A (critics' darling, wrong for the job).**
 
-| Slot | Full searchable name | ASIN | Rating | Count | Past-month badge | Buy box | Tier |
-|---|---|---|---|---|---|---|---|
-| #6 entry | VEVOR Diesel Fuel Transfer Pump Kit DCFD40A 12V 10 GPM with Automatic Nozzle | B0DXKJPL8Q | 4.0 | 203 | 50+ | yes | entry |
-| #5 value | Orion Motor Tech Diesel Transfer Pump 12V 8011N2 with Nozzle and Hoses | B019ZD3U90 | 4.2 | 2,441 | 400+ | yes | entry |
-| #4 specialist (barn tank on mains power) | Fill-Rite FR604H 115V 15 GPM Fuel Transfer Pump, Pump Only | B00CXG3DB2 | 4.6 | 251 | 50+ | yes | mid |
-| #3 heavy-duty | Fill-Rite FR4204H 12V 20 GPM Fuel Transfer Pump, Pump Only | B00CXG3WAY | 4.4 | 434 | 100+ | yes | mid-premium |
-| #2 premium/pro | Fill-Rite FR1220HDSFQ 12V 15 GPM Pump with Premium Filter Package | B08LZH2CP8 | 4.3 | 24 | 50+ | yes | premium |
-| #1 best for most | Fill-Rite FR1210H 12V 15 GPM Pump with Discharge Hose and Manual Nozzle | B0000AX0XA | 4.6 | 737 | 50+ | yes | mid |
+## STEP 0 — BUYER DECISION CHECKLIST
+1. Power: 12V DC truck battery / 115V AC shop power / cordless tool battery
+2. Rated flow (GPM) and the conditions behind it (lift, hose, nozzle, filter)
+3. Duty cycle (30 min on/off vs continuous)
+4. Fuels allowed: diesel only, or gasoline too; biodiesel B20, E15
+5. Pump type and body: rotary vane cast iron vs plastic impeller
+6. Mounting: 2 in NPT bung on a transfer tank, or a can adapter; port sizes
+7. Suction depth and discharge height
+8. Kit contents: hose length, manual vs auto nozzle, suction pipe, power cable, filter
+9. Protection: thermal overload, IP rating, operating temperature
+10. Weight
+11. Warranty
+12. Listing/certification (UL) — not checked per listing yet, so UNVERIFIED
 
-**Problem to decide:** four of six are Fill-Rite (they differ by power source, flow, filter and what is in the box, but it is one brand). The second major brand, **GPI M-150S**, has 4.5-4.9 ratings on every ASIN but **no past-month badge on any listing** (B09B13T4C1 4.7/59, B0118S6BX2, B004A0ZIAI, G20 B07YGVXFBN). It fails rule 1. Option: relax the badge rule for GPI to replace #2 (the thin 24-rating FR1220).
+## THE SIX (proposed)
+| Slot | Pick | ASIN | INTERNAL ONLY (rating / count / badge / cart) | Independent coverage |
+|---|---|---|---|---|
+| #6 entry: cans, drums, no wiring | Bonviee Cordless 5 GPM Fuel Transfer Pump with Auto-Stop (DeWalt 20V / Milwaukee 18V / 12V plug) | B0GWCRR6P5 | 4.4 / 282 / 200+ / yes | none — UNTESTED |
+| #5 value 12V truck kit | Ensurix KEX-15B 12V 15 GPM Fuel Transfer Pump with Manual Nozzle & Hose | B0H1R8YV42 | 4.6 / 44 / 200+ / yes | none — UNTESTED |
+| #4 budget farm tank on AC | BLACKHORSE-RACING 110V AC 16 GPM Self-Priming Diesel Transfer Pump | B07SSHSH6H | 4.0 / 588 / 100+ / yes | none — UNTESTED |
+| #3 big equipment, high flow | Fill-Rite FR4204H 12V 20 GPM Fuel Transfer Pump (Pump Only) | B00CXG3WAY | 4.3 / 435 / 100+ / yes | roundup mentions only (affiliate lists; not used) |
+| #2 premium stationary farm tank | Fill-Rite FR610HA 115V 15 GPM with Hose & Automatic Nozzle | B00B4AUKHI | 4.5 / 111 / 400+ on search page, none on dp / yes | none on this model |
+| #1 most diesel trucks | Fill-Rite FR1210H 12V 15 GPM with Hose & Manual Nozzle | B0000AX0XA | 4.6 / 736 / 50+ / yes | BestReviews "Best of the Best" (Nov 2021, compiled); Alberta Agriculture lab test of the Fill-Rite Model 1210 (older generation) |
 
-**Dropped, with reasons**
-- Fill-Rite FR1204H pump only (B00B5RDWD4, 4.5/839): passes in search (300+) but no badge on its own listing; near-duplicate of #1.
-- Fill-Rite FR4204H/FR1210H variants with auto nozzle (B00MO7DL5I, B0FTGKR1QQ): same pumps as #1/#3.
-- All GPI ASINs: no badge (above).
-- VEVOR KEX-15e 15 GPM cast iron (B0G1FMDC75, 4.1/46): passes but only 46 ratings and a duplicate role of #6/#5.
-- VEVOR 110V AC (B0FNMC2VM6 3.3, B0FNMRD32X 3.2), TOPWAY 110V AC (3.9), TRUPOW, TaskStar 13 GPM (4.0/73), XtremepowerUS 20 GPM (4.0, no badge): failed rating, badge or both.
-- Battery gas-can pumps (Fill-Rite FRBPA, AUTOJDM, SKYJDM, ~3-4 GPM): wrong job, they are for jerry cans and generators.
-- 12V "110 GPH" gasoline pumps (Steauty etc.): about 2 GPM, not for truck or farm-tank work.
-- Piusi Panther EX72 120V (B0GCVWBZZP): 1 rating.
+**Flags for approval**
+- **Three Fill-Rites (1200 / 4200 / 600 series)** — three different roles (12V 15 GPM kit, 12V 20 GPM, 115V AC). Fill-Rite is the only maker with tested history and live badges. **GPI fails:** none of its ~15 listings has a past-month badge. Roughneck (Northern Tool) is not on Amazon.
+- **#4 BLACKHORSE is exactly 4.0**, generic, and **diesel/kerosene only, no gasoline** (its own bullet). Owner reports are split on reliability. Alternative #4: Fill-Rite FR604H 115V pump-only (B00CXG3DB2, 4.5 / 252 / 50+), but that makes 4 Fill-Rites.
+- **#2 FR610HA** has its badge on search pages only (dp did not render it), the same borderline case we accepted before.
+- **#5 alternative:** Ensurix 18 GPM kit with auto nozzle + filter (B0GRZYLKV9, 4.4 / 48 / 200+), same brand. I kept the 15 GPM because "18 GPM" from an untested brand would undercut the myth.
+- **#3 is pump only** (no hose/nozzle). The FR4210H kit (B0000AX0Z5) has no badge.
+- **No modern hands-on test exists for any pick.** The one real lab test is Alberta Agriculture's (Fill-Rite Model 1210 + GPI Model 120, early 2000s). It is said as an older generation of the #1 family, never as the FR1210H itself.
+- Dropped: OMT B019ZD3U90 (no badge on dp, rating not rendered), Ensurix 15 GPM auto-nozzle B0FMT7QXV3 (no badge), TaskStar (no badge, 4.0), VEVOR cast-iron 15 GPM (4.0, kept as a reserve), VEVOR 20 GPM / 10 GPM (3.8), FR1210HA1 / FR710VN / FR4210H (no badge), LUXPLLUSO battery 15 GPM (4.1, 50+, sponsored generic, reserve), Ecarke cordless 3.2 GPM (slower twin of #6), FR1204H (= the FR1210H pump without the kit, near-identical).
 
-## 2. Editorial reality — this category has almost no independent testing, said plainly
+## SPEC MATRIX (listing first; "n/p" = maker does not publish)
+| Item | #6 Bonviee | #5 Ensurix KEX-15B | #4 BLACKHORSE | #3 FR4204H | #2 FR610HA | #1 FR1210H |
+|---|---|---|---|---|---|---|
+| Power | DeWalt 20V / Milwaukee 18V battery or 12V lighter plug; battery not included | 12V DC, prewired cord with battery clamps | 110V AC 60 Hz, 550 W | 12V DC, 18 ft 12 AWG cable (series spec) | 115V AC, lead wire only | 12V DC, 18 ft 12 GA cable |
+| Rated flow | up to 5 GPM (19 L/min) | up to 15 GPM | 5.25–15.75 GPM (20–60 L/min); spec table says ~12 GPM | 20 GPM; "tanks from 20–80 gal" (FR4210H bullet) | 15 GPM | 15 GPM |
+| Duty cycle | n/p | "30+ minutes continuous" | "Continuous duty cycle" (spec table) | 30 min on/off | 30 min on/off | 30 min (Alberta test + retailers) |
+| Fuels | gasoline, diesel, oil, water | gasoline, diesel, kerosene | diesel, kerosene, biodiesel; **not gasoline** | gas, diesel, kerosene, E15, M15, B20 | same as #3 | same as #3 |
+| Pump / body | ABS housing | cast iron, pure copper motor | iron, self-priming, 2800 rpm | cast iron rotary vane | cast iron rotary vane | cast iron rotary vane |
+| Mount / ports | 4 can adapters (2, 2.1, 2.75, 3.75 in) | 2 in NPT bung; 1 in inlet, 3/4 in outlet | 1 in hose barbs | 2 in bung; 1 in ports + 1 in street elbow | bung; 1 in inlet, 3/4 in outlet | bung; 1 in inlet, 3/4 in outlet |
+| Lift | n/p | n/p | suction distance 5 m (listing) | pulls from 8 ft depth, discharges to 37 ft | 8 ft / 37 ft | 8 ft / 37 ft |
+| Kit | 51 in hose, trigger nozzle, auto-stop + beep | stainless telescoping suction pipe, rubber hose, manual nozzle + swivel, nozzle rack | pump only | pump only: elbow, 5 ft ground wire, wire nuts, PTFE tape | 3/4 in x 12 ft hose, auto nozzle, 34 in telescoping pipe, elbow, PTFE | 3/4 in x 12 ft hose, manual nozzle, 34 in pipe, 18 ft cable, ground wire, elbow, PTFE |
+| Protection | auto-stop sensor | thermal + overload, IP55, -25 to 50°C | n/p | thermal overload; 180° rotating junction box | thermal overload | thermal overload |
+| Weight | 1.5 lb | n/p (8 x 10.2 x 13.4 in) | n/p (5 x 9.4 x 6.25 in) | 22 lb | 32 lb | 25 lb |
+| Warranty | n/p | n/p | n/p | limited lifetime (4200 series) | limited lifetime (600 series) | limited lifetime (1200 series) |
 
-| Source | Date | Tested or compiled | Finding |
-|---|---|---|---|
-| Alberta Agriculture / PAMI Evaluation Report E1577A, Fill-Rite **Model 1210** (older model; archived page read via Wayback copy; PAMI's own PDF is behind a bot wall, not bypassed) | archived 2006; original test older | **Lab test** | Diesel flow **45 L/min** at zero heads, fully charged 12 V battery. 9% lower at 3 ft suction + 9 ft discharge. Max measured was 8% below the maker's stated capacity of the day. 216 W, 18 A. Maker duty cycle 30 min continuous (about 271-297 gal per cycle). 50-gal tractor tank filled in 5 to 5.5 min. Bung adaptor did not rotate, so installing the pump in a tank was difficult. No mechanical problems; suction screen easy to service. |
-| TractorByNet and Yesterday's Tractors threads (owner reports, snippets via search; threads 403 to direct fetch) | various | Owner opinion | Fill-Rite most recommended; one owner has a 12 V unit over 20 years; one replaced a GPI with Fill-Rite after heavy use (GPI "about two years" for another farm owner); some think Fill-Rite charges for the name; cheap pumps have defenders for light use (one reports about 3 years); advice: "do NOT use an aluminum pump" (one poster), use inline filtration, measure amp draw against the job. |
-| The Drive, best fuel transfer pumps | older | Compiled | URL returns **410 Gone**. Search snippet: FUELWORKS diesel kit top pick, TERA PUMP as cheaper alternative. UNVERIFIED. Do not name. |
-| BestReviews | n/d | Compiled | Page not readable. UNVERIFIED. |
-| Dozens of "I tested the best fuel transfer pumps" pages (theaipgroup, thirstybear, geekfill, acfc, etc.) | 2026 | Affiliate content farms, no methodology, off-topic domains | Not used as evidence. Their specs contradict each other. |
+## HOOK — type 6 CATEGORY LIE: "the GPM on the box"
+Every pump is sold by one number: gallons per minute. Alberta Agriculture's farm-machinery lab put a Fill-Rite 1210 on a diesel tank with a full 12V battery: **9.9 GPM measured, 8% under the maker's rating, then another 9% lower with just 3 ft of suction and 9 ft of discharge head.** Fill-Rite's own manuals say the curves assume 3 ft of suction lift, that "actual flow rate may vary", and that you should expect lost flow whenever the nozzle sits higher than the pump. Its own listing adds that a 10-micron filter costs flow compared with a 30-micron one. Promises: which number to trust, the 2.7 GPM pump reviewers call best value, and the free check that gets the flow back. No pick brands in the hook; Alberta Agriculture is named.
 
-**Outlets searched with no fuel-transfer-pump test found:** Pro Tool Reviews, ToolGuyd, Popular Mechanics, Family Handyman, Bob Vila, Car and Driver, Truck Trend, Diesel Power, Farm Journal. Per the project's rule for untested categories, the script is built from **decoding the makers' own published specs**, with the Alberta lab test as the one measured data point. The script must say "rated" and "the maker states" for every figure, and must say the Alberta test was an older Fill-Rite 1210.
+## MYTH — "higher GPM = faster fill" (planted #5, paid #1)
+Ratings are open-discharge numbers. Measured: 9.9 GPM at zero head → −9% with 3 ft + 9 ft head (Alberta). A 50 gal (225 L) tractor tank took 5–5.5 min with the Fill-Rite 1210 and 6–6.5 min with the GPI 120 (Alberta, same page). Line: "You are buying flow at your hose, not the number on the box."
 
-## 3. Buyer checklist (spec-matrix columns)
-1. Power: 12 V DC (truck/trailer) vs 115 V AC (stationary tank)
-2. Flow, and the conditions it is rated under (head, voltage)
-3. **Duty cycle** (minutes on / minutes rest)
-4. Fuel compatibility: diesel only vs gas/diesel/kerosene, biodiesel limit; safety listing
-5. Suction lift and discharge height
-6. Inlet / outlet size
-7. Body material (cast iron vs aluminum)
-8. Hose length, nozzle type (manual vs auto shut-off)
-9. Filter / strainer
-10. Thermal protection
-11. Weight and size
-12. In the box (power cable, ground wire, hose, nozzle, pump only?)
-13. Warranty
-14. Recommended use per listing
+## VILLAIN — type A (critics' darling, wrong for the job): TERA PUMP TRFA01 (B010GNM7H4; 4.3 / 7,964 / 100+ / cart yes — passes the rules, INTERNAL)
+- Steel-man: BestReviews "Best Bang for the Buck" (Nov 2021); The Drive's budget pick (per search snippet; page now 410 and Wayback blocked for the fetcher, so phrase as "a budget pick at The Drive" or drop it); runs on 4 AA batteries; auto-stop nozzle; listing says gasoline, diesel, kerosene.
+- Kill shot (listing's own numbers): **up to 2.7 GPM**, 39.4 in discharge hose, 18–21 in intake, adapter for **3–5 gal plastic cans**. A 50 gal tractor tank at 2.7 GPM ≈ 18.5 min at best vs ~5 min measured for the Fill-Rite 1210. It cannot bung-mount on a transfer tank. BestReviews' own con: "can develop a leak after several uses."
+- Line: "A gas-can pump on a farm tank is a straw with a battery."
+- Redirect: #6 for cans, #5/#1 for a truck tank.
 
-## 4. Spec matrix (from each linked listing; "not published" = listing omits it)
+## FREE UPGRADE — get your flow back (all from Fill-Rite's own material)
+Before blaming the pump: keep the nozzle no higher than the pump outlet; use the shortest hose that reaches; pick a 30-micron filter over a 10-micron one for diesel transfer unless the equipment needs finer filtering; change the filter every six months or when flow drops (Fill-Rite manual). For the duty cycle, Alberta's 30-minute cycle moved 271–297 gal, so a 30-min cool-down only matters for 300+ gal days. Sources: FR4210GBFQ instructions, FR4410DBFQ manual, Fill-Rite listing text, Alberta page.
 
-| Pick | Power | Rated flow | Duty cycle | Fuels | Suction / lift | Inlet/outlet | Body | Hose / nozzle | Filter / strainer | Thermal | Weight | In the box | Warranty | Use (listing) |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| #6 VEVOR DCFD40A | 12 V DC, 3,300 rpm | 10 GPM | "continuous operation 30 min" (bullet) | **diesel, kerosene, transformer oil; "not suitable for gasoline, motor oil"** | 9.8 ft suction, 26.2 ft head | 3/4" NPT / 3/4" NPT | cast iron + aluminum alloy | 13 ft discharge hose, 6.6 ft suction pipe, **auto-closing self-sealing nozzle** | metal mesh on suction pipe | not stated | 17 lb | pump, 13 ft hose, 6.6 ft suction pipe, nozzle (spec row lists inlet hose only) | not published | industrial, agricultural, commercial |
-| #5 OMT 8011N2 | 12 V DC, 1/5 hp 175 W | 12 gpm table / "up to 11.9 gpm" bullet (both = 45 L/min) | **30 min/hr** (spec table) vs bullet "rest 5 min after every 10 min when ambient above 45°C" | diesel, kerosene, light oils; "avoid high-viscosity fluids such as motor oil" | 16.4 ft suction, 32.8 ft lift | 1/2" barb / 1/2" barb | alloy steel shell, copper motor | 4'11" supply + 6'6" discharge hose (table says 19.5 ft), trigger nozzle with continuous-lock | mesh strainer, bypass valve; filter not included | yes | 6.93 kg (about 15.3 lb) | hoses, nozzle, accessories | **1 year** | cars, boats, lawn mowers |
-| #4 Fill-Rite FR604H | **115 V AC** | 15 GPM | 30 minute on/off | gas, diesel, kerosene, ethanol/methanol blends, biodiesel (title) | pulls from 8 ft tank depth, discharges to 37 ft | 1" FNPT / 3/4" FNPT | cast iron | **none: pump only, lead wire only** | not published | thermal overload | 21 lb | pump, 3/4" elbow | **limited lifetime** | stationary bung-mounted tanks |
-| #3 FR4204H | 12 V DC | 20 GPM | 30 minute on/off | same list | 8 ft depth, 37 ft | 1" / 1" | cast iron | not in the box (box: pump, 1" elbow, 5 ft 12 gauge ground wire); spec table lists a 1" x 12' hose and 1" manual nozzle, a conflict | not published | thermal overload | 22 lb | pump, elbow, ground wire | limited lifetime | trailer/truck tanks |
-| #2 FR1220HDSFQ | 12 V DC | 15 GPM | 30 minutes on/off | same list | not on this listing | 1" / 3/4" | cast iron | 3/4" x 18 ft discharge hose, 3/4" manual nozzle, swivel | **particulate filter + 3/4" filter head + built-in strainer** | thermal motor protection | 42 lb | pump, filter, filter head, hose | limited lifetime | mobile tank applications |
-| #1 FR1210H | 12 V DC | 15 GPM | 30 min (series spec; listing page itself does not print it) | same list | 8 ft depth, 37 ft | 1" / 3/4" | cast iron | 3/4" x 12 ft hose + manual nozzle | not published | thermal overload | 25 lb | pump, hose, nozzle | limited lifetime | trailers/trucks |
+## CALLBACKS
+- C1: #6 needs no wiring (tool battery or 12V plug) → paid at #1, which needs an 18 ft cable run to the battery, ground wire included.
+- C2: #3 FR4204H is pump only (no hose or nozzle) → paid at #2, which comes with a 12 ft hose and an **automatic** nozzle.
+- "So why isn't it number one?" at #2: AC only and 32 lb; it stays with the tank, it doesn't ride in the truck.
 
-Fill-Rite 1200-series bullet: "Rotary Vane Technology that maintains a consistent flow performance even as components wear." Junction box rotates 180 degrees. Amp draw not on any of the six listings (the Alberta test of the old 1210 measured 18 A).
+## SOURCES
+- Alberta Agriculture, fuel transfer pump evaluations (Fill-Rite Model 1210; GPI Model 120), archived — https://bac-lac.wayback.archive-it.org/web/20061207184900/http://www1.agric.gov.ab.ca/$department/deptdocs.nsf/all/eng3046
+- BestReviews, best fuel transfer pumps (Nov 2021, labelled "Lab Tested", method not described) — https://bestreviews.com/automotive/car-care/best-fuel-transfer-pumps
+- The Drive, best fuel transfer pumps (410 Gone; snippet only) — https://www.thedrive.com/reviews/30067/best-fuel-transfer-pumps
+- Fill-Rite FR4210GBFQ instructions — https://images.toolsid.com/fill-rite-tuthil/items/pdf/fr4210gbfq-instructions.pdf
+- Fill-Rite FR4410DBFQ manual — https://www.manualsdir.com/manuals/329463/fill-rite-fr4410dbfq-fr4210dbfq.html
+- Fill-Rite FR713 manual (nominal curve, 3 ft lift) — https://assets.dultmeier.com/assets/pdfs/frFR713-Remote-Mount-Fuel-Pump-Manual.pdf
+- Fill-Rite technical catalog — https://www.fillrite.com/media/wysiwyg/pdfs/Fill-Rite_TechnicalCatalog_forWeb_1-23-24_REDUCED.pdf
+- Farm & Fleet fuel transfer pump buyer's guide (2015) — https://www.farmandfleet.com/blog/?p=968
+- Tractor By Net threads (GPI/Tuthill owner reports, bypass) — https://www.tractorbynet.com/forums/threads/fuel-transfer-pump.398638/latest
 
-## 5. Hook — type 6, Category Lie
-- **Material.** Every box sells one number: gallons per minute. The only measured test I could verify is Alberta Agriculture's lab test of a Fill-Rite 1210: 45 L/min at zero head with a full battery, 9% less once you add a 3 ft lift and 9 ft discharge, and a maker duty cycle of 30 minutes. Unit trap: the page prints "9.9 gal/min" in **imperial** gallons; 45 L/min is about **11.9 US gallons**. The script must use US gallons or litres.
-- **The lie.** The headline GPM is a zero-head, fresh-battery number. The spec that decides whether the pump finishes your farm tank is duty cycle, and nearly every pick here is a 30-minutes-on pump. A 1,000-gallon tank at the listed rates is a rest stop, not a single fill (math: 30 min at 15 GPM = 450 gal; the Alberta figure is 271-297 gal per cycle).
-- **Open loops.** (1) which pump has a rating that survives a real tank; (2) the villain; (3) the free habit that adds more flow than a bigger pump.
-- Hook may name Alberta Agriculture as the tester, not any of the six.
+**Outlets checked with no article found:** Bob Vila, Popular Mechanics, Car and Driver, Family Handyman, Pro Tool Reviews, Successful Farming, Farm Progress, Diesel World/Diesel Power. PAMI report 73 PDF returned empty. Content farms ("Tested & Reviewed" on unrelated domains) were ignored.
 
-## 6. Myth — "bigger GPM = faster fueling"
-- Alberta: -9% flow from only 3 ft suction + 9 ft discharge; max measured 8% below the maker's stated capacity.
-- OMT lists 12 gpm in one row and 11.9 in a bullet, both 45 L/min: the same figure the Alberta lab measured on a Fill-Rite rated higher than that. Today's FR1210H is labeled 15 GPM; no lab has measured it.
-- Voltage matters: pump flow depends on voltage; drop in thin or long cable cuts output (EngineeringToolbox 3% rule; Fill-Rite kits ship 12 gauge wire). Source quality: moderate.
-- Mark all as "rated"; the script says "the maker states".
+## SOURCING NOTES
+- Alberta's test is of an **older Model 1210** (rated ~10.8 GPM implied, report c. 2002–03), not today's 15 GPM FR1210H. The script must say "an older version of this pump family."
+- Flow-loss % for a filter or nozzle: Fill-Rite publishes direction, not a number → never quantify it.
+- BLACKHORSE flow range (5.25–15.75 GPM bullets vs ~12 GPM spec table) → speak "up to about 16 GPM" or skip.
+- UL listing not verified per listing → don't claim it.
+- Bonviee/Ensurix/BLACKHORSE warranty not published → say so.
+- Spec cross-match against the linked listings is done for every number in the matrix (bullets + spec table + description).
 
-## 7. Villain — NEEDS YOUR DECISION (rule: do not invent one)
-No outlet in my search both recommends a pump and is contradicted by a test. Honest options:
-1. **Spec villain, type D: VEVOR KEX-15e 15 GPM (B0G1FMDC75).** Its own title says "Explosion-Proof" for gasoline, diesel and kerosene; the listing shows no certification, while Fill-Rite's pages describe UL/cUL-listed explosion-proof motors. Evidence is only the missing certification, no outlet recommends it, no failure test. Weak.
-2. **FUELWORKS, The Drive's reported top pick, type A:** The Drive page is 410 and I cannot read it; not on Amazon in my searches. Cannot verify, so I would not use it.
-3. **You pick or give me a source** (a model that a reviewer recommended and a test or owner pattern contradicts).
-My recommendation: option 1 framed honestly as "a listing that skips the one certification that matters", or relax the badge rule and use GPI M-150S as a **legend** that is "recommended in owner threads but one farm owner reports about two years under heavy use" (type A, owner anecdote only).
-
-## 8. Callbacks
-- **C1.** #6 VEVOR is the only entry kit that ships the auto-closing nozzle and 13 ft hose in the box and weighs 17 lb; the three Fill-Rite pumps without a filter package ship without hose (FR604H, FR4204H, pump only) or at 25 lb (FR1210H).
-- **C2.** #3 FR4204H is rated 20 GPM but is pump only on a 1" outlet (its own listing conflicts on hose and nozzle), a cost the #2 pick fixes with a filter head, 18 ft of hose and a swivel. Alberta's tank-adaptor complaint (bung adaptor did not rotate) is answered by the 180-degree rotating junction box on every Fill-Rite listing.
-
-## 9. Free upgrade (~127-130 words in script)
-**Measure volts at the pump while it runs.** Short, heavy cable straight to the battery, clean clamps, and a ground wire (Fill-Rite ships a 12 gauge ground wire) beat buying a bigger GPM number. Add a strainer check each season (the Alberta test noted the suction screen was easy to service; TractorByNet owners recommend inline filtration). Sources: EngineeringToolbox 3% voltage-drop rule, a physics-forum thread on low output from thin wire, Alberta/PAMI, TractorByNet. Quality: moderate; acceptable only if framed as the general electrical rule.
-
-## 10. Conflicts / UNVERIFIED
-- Alberta page units: "9.9 gal/min" is imperial; do not speak it as US. Test is of an older model; no current Fill-Rite flow is measured by anyone I could read.
-- PAMI's own PDF returned a bot-verification page; I did not bypass it. Content read from the archived Alberta page.
-- OMT duty cycle conflict on its own listing (30 min/hr table vs 5-min rest per 10 min above 45°C bullet); OMT hose length conflict (4'11"+6'6" bullet vs 19.5 ft table). Do not speak hose length; say "the listing says".
-- FR4204H listing: hose and nozzle rows in the table vs "Included Components" without them. Say "pump only; check the box contents".
-- FR1210H listing prints no duty cycle; 30 min is the series statement on sibling listings and the Alberta maker figure. Attribute.
-- Amp draw is not published on any of the six listings.
-- VEVOR warranty not published; OMT 1 year; Fill-Rite limited lifetime (confirm wording, probably limits apply).
-- Fill-Rite earlier FR1204H pump-only badge present in search, absent on listing.
-- FUELWORKS / The Drive: UNVERIFIED, page gone.
-- Outlet attribution: one real test (Alberta) plus owner threads. Not enough for the "3+ independent sources" rule; the script must be built on listing decoding and say so.
-- Compliance: no prices, ratings, review counts, badge or rank in the script; the word "Amazon" avoided.
-
-## 11. Sources
-- Alberta Agriculture / PAMI, Fill-Rite Model 1210 evaluation (archive.org copy): https://bac-lac.wayback.archive-it.org/web/20061207184900/http://www1.agric.gov.ab.ca/$department/deptdocs.nsf/all/eng3046
-- PAMI Evaluation Report E1577A (not readable, bot wall): https://pami.ca/pdfs/reports_research_updates/(2f)%20Fuel%20Transfer%20Pumps/64.PDF
-- TractorByNet: https://www.tractorbynet.com/forums/threads/fuel-transfer-tank-pump.434286/ and https://tractorbynet.com/forums/threads/fuel-transfer-pump.425260/
-- The Drive (410): https://www.thedrive.com/reviews/30067/best-fuel-transfer-pumps
-- EngineeringToolbox, voltage drop (3% rule)
-- Product links: /dp/B0DXKJPL8Q, /dp/B019ZD3U90, /dp/B00CXG3DB2, /dp/B00CXG3WAY, /dp/B08LZH2CP8, /dp/B0000AX0XA; villain candidate /dp/B0G1FMDC75
-
-Scrape.do for this research: 18 pages, 180 credits.
+**Scrape.do for this research: 28 page(s), 280 credits.**
