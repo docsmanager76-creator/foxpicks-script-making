@@ -237,6 +237,8 @@ Hook-এ প্রতিশ্রুতি দিন, শেষে শোধ ক
 
 | **6 Best Self-Emptying Robot Vacuums** (স্ক্রিপ্টে সাল নেই — user নির্দেশ) | **4 Contradiction** — একই TechGearLab pet hair টেস্টে ২২,০০০ Pa → ৫২%, ২০,০০০ Pa → ৮৬%; Pa না ছাপানো Shark → ৬৪% | **B যে ব্র্যান্ড নাম দেখে কেনা হয় — iRobot Roomba i3+ EVO (navigation ৩.৬, কোম্পানি Chapter 11-এর পর Picea-র মালিকানায়)** |
 
+| **6 Best Self-Leveling Rotary Laser Levels 2026** | **6 Category Lie** — "self-leveling" লেবেল একই অর্থ বহন করে না; Johnson 40-6517 শুধু horizontal plane self-levels করে, vertical plane manual vial | **স্কিপ করা হয়েছে — Bosch GRL900-20HVK candidate ছিল, কিন্তু owner complaint সোর্সড ছিল sibling GRL800/1000-এর, GRL900 নিজের নয় (model-mismatch এড়াতে বাদ)** |
+
 **পরেরটায় hook 3 নয়, villain D-ও নয়**; hook **1 Collision · 2 Data Wall · 4 Contradiction · 5 Absurd Number · 6 Category Lie**, villain **A · B · C** থেকে বাছুন।
 
 | **6 Best Electric Crepe Makers 2026** | **5 Absurd Number** — legendary cookware brand-এর pan, professional tester-এর একমাত্র complaint: surface evenly গরম হয় না, আর electric-ই না (দাম/multiplier কিছুই বলা হয়নি, user-এর নির্দেশে) | **C overpriced premium — Le Creuset Enameled Cast Iron Crepe Pan (Spruce Eats Best High-End, নিজেদের একমাত্র con "doesn't heat evenly")** |
