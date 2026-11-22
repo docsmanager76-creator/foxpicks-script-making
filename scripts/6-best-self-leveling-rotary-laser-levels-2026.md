@@ -1,7 +1,7 @@
 ##HOOK
-Every listing in this video uses the same two words: self-leveling. Read the fine print on all six, though, and that phrase does not mean the same thing twice. One of these six levels itself on exactly one axis. You are still turning a vial by hand for the other — the exact plane most people assume the box already covers. I will show you which one, and prove it from the maker's own words, not a guess.
+Every listing in this video uses the same two words: self-leveling. Read the fine print on all six, though, and that phrase does not mean the same thing twice. One of these six levels itself on exactly one axis. You are still turning a vial by hand for the other — the exact plane most people assume the box already covers. I'll show you which one, and prove it from the maker's own words.
 
-Two more things are coming. A free thirty-second field check, pulled from the industry's own calibration standard, that catches a drifting laser before it costs you a pour, not after. And a pattern I checked twice: the cheapest pick here has a control the most expensive one doesn't.
+Three more things are coming. The laser almost every list calls most versatile, and its real complaint record. A free calibration check that catches a drifting laser before it costs you a pour. And a pattern I checked twice — the cheapest pick here has a control the most expensive one doesn't.
 
 These are the six best self-leveling rotary laser levels, ranked on what the fine print actually says. Product links are in the description.
 ##P6
@@ -40,6 +40,18 @@ Now, the honest limit. Johnson does not publish a rotation speed here — a spec
 The magnetic target and thirteen-foot grade rod round out a kit built for walking a slope, not leveling one room.
 
 Buy it for drainage, grading, or any job that needs two slopes set at once. Skip it if your work is flat and you will never touch the slope function.
+##VILLAIN
+Before the top three, the promise I made.
+
+The Bosch Revolve900, the GRL900-20HVK.
+
+Steel-man it completely. Bob Vila names this the most versatile rotary laser on its list, horizontal and vertical in one head, and other roundups call it an Editor's Choice. Bosch's own page rates it at one eighth of an inch per hundred feet, right in line with several picks here, from a brand jobsites already trust.
+
+Here's the part that matters. Owner reviews of the GRL800, the kit Bosch sells right alongside this one, describe it failing to level upright, working only on its side. Others say its receiver won't pick up the beam on most jobs, even forty feet out in daylight.
+
+A rotary laser that won't level in the position you set it up in is a paperweight with a warranty.
+
+Numbers one and two both relevel themselves automatically, and neither one makes you gamble on which kit you got.
 ##P3
 Number three, the Firecore FRL300R Rotary Laser Level Kit.
 

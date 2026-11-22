@@ -237,7 +237,7 @@ Hook-এ প্রতিশ্রুতি দিন, শেষে শোধ ক
 
 | **6 Best Self-Emptying Robot Vacuums** (স্ক্রিপ্টে সাল নেই — user নির্দেশ) | **4 Contradiction** — একই TechGearLab pet hair টেস্টে ২২,০০০ Pa → ৫২%, ২০,০০০ Pa → ৮৬%; Pa না ছাপানো Shark → ৬৪% | **B যে ব্র্যান্ড নাম দেখে কেনা হয় — iRobot Roomba i3+ EVO (navigation ৩.৬, কোম্পানি Chapter 11-এর পর Picea-র মালিকানায়)** |
 
-| **6 Best Self-Leveling Rotary Laser Levels 2026** | **6 Category Lie** — "self-leveling" লেবেল একই অর্থ বহন করে না; Johnson 40-6517 শুধু horizontal plane self-levels করে, vertical plane manual vial | **স্কিপ করা হয়েছে — Bosch GRL900-20HVK candidate ছিল, কিন্তু owner complaint সোর্সড ছিল sibling GRL800/1000-এর, GRL900 নিজের নয় (model-mismatch এড়াতে বাদ)** |
+| **6 Best Self-Leveling Rotary Laser Levels 2026** | **6 Category Lie** — "self-leveling" লেবেল একই অর্থ বহন করে না; Johnson 40-6517 শুধু horizontal plane self-levels করে, vertical plane manual vial | **D functional failure — Bosch Revolve900 (GRL900-20HVK), Bob Vila "Most Versatile"; kill shot sোর্সড GRL800 sibling-এর Home Depot রিভিউ থেকে, স্ক্রিপ্টে "GRL800" নাম বলেই (Workmate WM125 precedent)** |
 
 **পরেরটায় hook 3 নয়, villain D-ও নয়**; hook **1 Collision · 2 Data Wall · 4 Contradiction · 5 Absurd Number · 6 Category Lie**, villain **A · B · C** থেকে বাছুন।
 

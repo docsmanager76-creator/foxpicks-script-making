@@ -83,12 +83,13 @@ Payoff at **#5, Johnson 40-6517**: its own product description says it plainly �
 ## 8. FREE UPGRADE — the two-peg field check (100–120 words, after #1)
 Industry-standard field accuracy check for rotary/survey-grade levels, sourced generically (cablelocatorsandsurvey.com calls it "the industry standard field test"; Kapro, DeWalt and Makita manuals describe the 180°-rotation variant with explicit tolerances — DeWalt's manual flags more than 1/4 in of drift as a send-for-calibration signal). Set the laser midway between two points roughly 100 ft apart, mark the beam height at both; move the laser next to one point and mark again. Compare the two height differences — more than your unit's rated tolerance over that distance means it needs calibration, not a return. Costs nothing, takes a few minutes, and it's the same free check whichever of these six you buy.
 
-## 9. VILLAIN — unresolved, DECISION NEEDED
-Could not source a clean villain this round. Bosch's Revolve900/GRL900-20HVK is the obvious candidate — it's the one two outlets actually name (Bob Vila "Most Versatile," plus other roundups' "Editor's Choice"/"Best Vertical" picks) — but:
-- It isn't sold as a live, buyable Amazon listing I could find (likely Home Depot Pro/dealer channel only).
-- Direct owner reviews of the **GRL900-20HVK itself** are almost nonexistent. The real documented complaint pattern (dead batteries out of the box, failure to re-level a second time, "doesn't work all the time") belongs to its **siblings** — the GRL800-20HVK and GRL1000-20HVK — at Home Depot/Lowe's. Pinning a sibling model's documented failure onto the GRL900 by name would repeat the exact Workmate/ToolGuyd model-mismatch mistake flagged in past scripts.
+## 9. VILLAIN — added at user request (post-approval)
+Dossier originally recommended skipping the villain (no clean single-model source). User asked for one anyway ("villain den"). Resolved it the same way the Workmate/ToolGuyd model-mismatch was resolved in a past script: name the sibling model explicitly rather than pin its failure on the wrong SKU.
 
-**Recommend skipping the villain block this time** (same call made on the green-beam laser script when nothing sourced cleanly). If you'd rather keep one, options: (a) name the Bosch rotary line generally and be explicit the sourced complaints are from the GRL800/1000 siblings, not the exact GRL900 roundup pick; or (b) I keep digging for a cleaner single-model villain before scripting.
+- **Named villain:** Bosch Revolve900, the **GRL900-20HVK**. Steel-manned honestly: Bob Vila names it "Most Versatile" in its rotary roundup, and other roundups call it an Editor's Choice; Bosch's own page rates it at ±1/8 in at 100 ft, in line with several of the six picks.
+- **Kill shot, spoken as the sibling it actually is:** Home Depot owner reviews of the **GRL800-20HVK** (a kit Bosch sells right alongside the GRL900) describe it failing to level upright — only working laid on its side — and its receiver not picking up the beam at 40 ft in daylight. The script says "the GRL800" by name in the kill-shot, so the sibling's failure is never silently pinned on the GRL900.
+- **Link:** GRL900-20HVK isn't a live, buyable Amazon listing (likely Home Depot Pro/dealer channel), so its Product Links table row points to Bosch's own product page instead of an Amazon dp link — noted as such in the Verified column.
+- **Villain type:** D (Functional Failure), not used in the immediately-prior script (last was B, iRobot Roomba).
 
 ## 10. SOURCING NOTES
 - Hearst-style sites weren't needed for this category; no block was hit.
