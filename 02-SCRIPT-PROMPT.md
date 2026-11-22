@@ -32,16 +32,29 @@ End with: "All the product links are in the description."
 
 --- BLOCK 2: THE SIX PRODUCTS — about 245 words each ---
 (Five products instead of six? Then 280 words each, so the runtime still clears 10 minutes.)
-Each opens with exactly "Number {n}, the {BRAND} {MODEL}." then:
-  1. Who it is for, one sentence.
-  2. Named third-party verdicts — the outlets and what they concluded.
-  3. Three or four specs, each followed immediately by what it means in daily use.
-  4. THE HONEST LIMIT. Never skip. Open with "Now, the honest limits." or
-     "The catch is" or "Two honest flags." One real weakness, who it hurts,
-     and when it does not matter.
-  5. Value position — where it sits in the lineup, plus ONE ownership fact:
-     running cost, consumable availability, warranty, energy use. No money.
-  6. One-sentence verdict, and say who should NOT buy it.
+GOLD STYLE: copy the shape of scripts/GOLD-6-best-3-plane-laser-levels-2026.md
+(8.4k views in its first month). Read it before writing.
+Each opens with exactly "Number {n}, the {Brand} {Model} {Product Type}." then:
+  1. ROLE LINE, the first sentence after the name. Give the pick ONE job no other
+     pick in the video has: "This is the runtime leader in this video." / "This is
+     the pick with the most backup behind it." / "This is the only pick here you can
+     run entirely from your phone." / "This is the only pick in this video that tells
+     you your angle." / "This is the trusted-name pick in this video."
+     The six roles must all be different, and the RECAP reuses them word for word.
+     #1 can open on the outlet's verdict instead: "One outlet called this a clear
+     top choice for professionals, and measured it themselves..."
+  2. Prove the role right away with the maker's own number, attributed as theirs:
+     "Fanttik rates the battery at fifteen hours..." / "the company says...".
+  3. A spec paragraph: real listing/test specs, each tied to what it does on the
+     job (drop rating, IP rating, range, charge time, what is in the box).
+  4. THE HONEST LIMIT, its own paragraph, opening exactly "Now, the honest limit."
+     (or "Now, the honest limit, and {brand/outlet} states it directly."). One real
+     weakness, usually a gap in the listing or a trade-off of the role feature.
+     Where it fits, tie it back to the hook ("and it's the number from the opening").
+  5. One more short feature paragraph after the limit, so the block ends on a plus.
+  6. Close on exactly "Buy it for {role}. Skip it if {the opposite need}."
+     #1 instead closes "{why}, it's the one to start with. {Short punch line.}
+     That's why it's number one."
 No transitions between products. Stop, then start the next number.
 
 PLANT AND PAY THE CALLBACKS

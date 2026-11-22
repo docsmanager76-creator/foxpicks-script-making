@@ -198,6 +198,16 @@ Second person, present tense, spoken English. ছোট declarative বাক্
 - তার নিচে **Additional sources** টেবিল, তারপর **Sourcing notes**, তারপর স্ক্রিপ্ট।
 - স্ক্রিপ্টের প্রতিটা block-এ হেডিং + word count।
 
+## ⭐ ২০২৬-১১-২২: GOLD STYLE — 3-Plane Laser Levels script-এর মতো লিখুন
+- User: এই script-টা ১ মাসে ৮.৪k view পেয়েছে; *"eirokom product description shuru hobe, eirokom script hobe"*।
+- Reference: [scripts/GOLD-6-best-3-plane-laser-levels-2026.md](scripts/GOLD-6-best-3-plane-laser-levels-2026.md)। নতুন script লেখার আগে পড়ুন।
+- প্রতিটা পিক: `Number {n}, the {Brand} {Model} {Type}.` → **role line** ("This is the runtime leader in this video." / "the only pick here you can…") → maker-এর নিজের সংখ্যা দিয়ে প্রমাণ ("Fanttik rates…") → spec paragraph → `Now, the honest limit.` → limit-এর পরে আরেকটা ছোট plus → `Buy it for … Skip it if …`।
+- ছয়টা role আলাদা; RECAP-এ সেই role-গুলোই হুবহু ফিরে আসে ("The longest runtime here, the Fanttik D12 ACE.")।
+- Hook: contradiction-এর আসল গণিত + দুইটা open loop (villain + free check) + "ranked on what the fine print actually says. Product links are in the description."
+- Villain: "Before the top three, the {thing} I promised." → "Steel-man it completely." → "Here's the part that matters." → "It isn't a bad {thing}. It's …" → top two-তে bridge।
+- ব্র্যান্ড title case-এ (Huepar, Cigman, Dewalt), সব-ক্যাপসে নয়।
+- নির্দিষ্ট ধাপ: [02-SCRIPT-PROMPT.md](02-SCRIPT-PROMPT.md) → BLOCK 2 "GOLD STYLE"।
+
 ## ⚠️ ২০২৬-১০-১১: Block দৈর্ঘ্য — hook ≤150, প্রতি পিক ২৩০–২৪০ শব্দ
 - **Hook (intro): আগের স্টাইলেই লিখুন, কিন্তু ১৫০ শব্দের উপরে নয়।** (সাধারণত ১২০–১৪৫)।
 - **প্রতিটা পিকের block ২৩০–২৪০ শব্দ।** ছোট হলে বুঝবেন features/spec কম পড়েছে। `tools-pace.js` দিয়ে প্রতি `##P` segment-এর count দেখে নিন।
